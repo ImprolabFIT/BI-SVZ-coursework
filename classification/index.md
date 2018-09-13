@@ -1,7 +1,6 @@
 # Hodnocení
 
 * Hodnocení se skládá dvou částí (body ze cvičení a zkoušky).
-* Body získané ze cvičení a ze zkoušky budou zahrnuty do závěrečného hodnocení.
 
 ## Body ze cvičení a získání zápočtu
 
@@ -47,4 +46,4 @@
 | E      | 50 - 59         | dostatečně        |
 | F      | méně než 50     | nedostatečně      |
 
-Hodnocení se řídí [Studijním a zkušebním řádem ČVUT](https://www.cvut.cz/sites/default/files/content/7e72349e-3ea5-4693-9853-5147f1238481/cs/20160519-studijni-a-zkusebni-rad-pro-studenty-cvut-ze-dne-8-7-2015.pdf).
+Hodnocení se řídí [Studijním a zkušebním řádem ČVUT](https://www.cvut.cz/sites/default/files/content/7e72349e-3ea5-4693-9853-5147f1238481/cs/20180718-studijni-a-zkusebni-rad-pro-studenty-cvut.pdf).
