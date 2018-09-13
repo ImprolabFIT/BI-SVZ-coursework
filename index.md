@@ -1,10 +1,6 @@
 ---
-title: BI-SVZ
+title: Úvodní stránka
 ---
-
-Repository related to Machine vision and Image processing (BI-SVZ) course at [FIT CTU](https://fit.cvut.cz/en). The course is taught in Czech language.
-
-## Úvodní stránka
 
 *Toto je oficiální stránka předmětu BI-SVZ.*
 
