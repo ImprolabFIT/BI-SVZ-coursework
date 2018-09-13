@@ -1,4 +1,6 @@
-## Přednášky
+---
+title: Přednášky
+---
 
 Změna programu vyhrazena.
 

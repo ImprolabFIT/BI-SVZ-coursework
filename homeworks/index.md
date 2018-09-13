@@ -1,4 +1,6 @@
-# Domácí úkoly
+---
+title: Domácí úkoly
+---
 
 TODO: podmínky, pravidla
 

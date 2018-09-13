@@ -1,4 +1,7 @@
-# Hodnocení
+---
+title: Hodnocení
+
+---
 
 * Hodnocení se skládá dvou částí (body ze cvičení a zkoušky).
 

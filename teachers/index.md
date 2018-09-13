@@ -1,4 +1,6 @@
-# Učitelé
+---
+title: Učitelé
+---
 
 * [Marcel Jiřina](jirinmar.md)
 * [Jakub Novák](novakj67.md)

@@ -1,4 +1,6 @@
-## Cvičení
+---
+title: Cvičení
+---
 
 Změna programu vyhrazena.
 
