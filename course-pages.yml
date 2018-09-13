@@ -1,0 +1,11 @@
+course:
+  code: BI-SVZ
+  name: Strojové vidění a zpracování obrazu
+semester: B181
+language: cs
+navigation:
+  hiddenFiles:
+    - media/*
+    - README.*
+repository:
+  gitlabPath: /BI-SVZ/bi-svz

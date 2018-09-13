@@ -1,0 +1,94 @@
+#================ Custom macros =================#
+
+[attr]lfs filter=lfs diff=lfs merge=lfs -text
+
+
+#================= Binary files =================#
+
+# Binary files *not* tracked by Git LFS.
+
+# Graphics
+*.gif  binary
+*.jpeg binary
+*.jpg  binary
+*.png  binary
+
+# Documents
+*.doc  binary
+*.docx binary
+*.odp  binary
+*.ods  binary
+*.odt  binary
+*.pdf  binary
+*.ppt  binary
+*.pptx binary
+*.rtf  binary
+*.xls  binary
+*.xlsx binary
+
+# Misc
+*.nb   binary
+
+
+#=================== Git LFS ====================#
+
+# Binary files tracked by Git LFS.
+
+# Archives
+*.cpio lfs
+*.iso  lfs
+*.tar  lfs
+
+# Compressed files
+*.bz2  lfs
+*.gz   lfs
+*.gzip lfs
+*.xz   lfs
+
+# Compressed archives
+*.7z   lfs
+*.apk  lfs
+*.dmg  lfs
+*.ear  lfs
+*.jar  lfs
+*.rar  lfs
+*.tbz2 lfs
+*.tgz  lfs
+*.war  lfs
+*.zip  lfs
+*.zip.[0-9]* lfs
+
+# Graphics
+*.tiff lfs
+*.webp lfs
+
+# Video files
+*.3g2  lfs
+*.3gp  lfs
+*.avi  lfs
+*.flv  lfs
+*.mkv  lfs
+*.mov  lfs
+*.mpeg lfs
+*.mpg  lfs
+*.ogv  lfs
+*.webm lfs
+*.wmv  lfs
+
+# Audio files
+*.aac  lfs
+*.flac lfs
+*.mp3  lfs
+*.ogg  lfs
+*.wav  lfs
+*.webm lfs
+*.wma  lfs
+
+# Disk images
+*.box  lfs
+*.vhd  lfs
+*.vmdk lfs
+*.vmi  lfs
+
+# Misc
+*.swf  lfs

@@ -1,0 +1,22 @@
+; EditorConfig helps define and maintain consistent formatting between
+; different editors.  Plugins are available for Atom, Emacs, notepad++,
+; SublimeText, vim, and many more.
+; See http://editorconfig.org for details.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{adoc,md,yaml,yml}]
+indent_size = 2
+indent_style = space
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.sh]
+indent_size = 4
+indent_style = tab
