@@ -17,20 +17,20 @@ title: Hodnocení
 
 ## Podmínky pro složení záverečné zkoušky
 
-- Závěrečná zkouška se skládá z **dvou povinných částí**. Bez úspěšného složení praktické zkoušky nelze přístoupit ke zkoušce teoretické.
+- Závěrečná zkouška se skládá z **dvou povinných částí**. Bez úspěšného složení teoretické zkoušky nelze přístoupit ke zkoušce praktické.
 - Z obou částí zkoušky je nutné získat více bodů, než je minimální hranice.
 - Detaily k náplni a formátu zkoušky budou zveřejněny během semestru.
+
+### Teoretická část
+
+- Z teoretické části lze získat až **20 bodů**. Pro úspěšné absolvování teoretické části je nutné získat **alespoň 10 bodů**.
+- Teoretická část probíhá formou **multichoice testu**. V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou, v ostatních případech ne.
+- K vylepšení bodového zisku je možné využít **dobrovolného ústního dozkoušení**.
 
 ### Praktická část
 
 - Z praktické části lze získat až **30 bodů**. Pro úspěšné absolvování praktické části je nutné získat **alespoň 15 bodů**.
 - Praktická část se bude skládat z vypracování úlohy podobného formátu, jako jsou příklady na cvičení.
-
-### Teoretická část
-
-- Z teoretické části lze získat až **20 bodů**. Pro úspěšné absolvování teoretické části je nutné získat **alespoň 10 bodů**.
-- Teoretická část probíhá formou **multichoice testu**.
-- K vylepšení bodového zisku je možné využít **dobrovolného ústního dozkoušení**.
 
 ## Celkové hodnocení
 
