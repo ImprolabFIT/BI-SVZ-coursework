@@ -10,11 +10,11 @@ Na začátku každého cvičení bude prostor na dotazy týkající se úkolů. 
 
 Následující cvičení po odevzdání úkolu, bude probráno referenční řešení. 
 
-## Náležitosti úkolu
+## Náležitosti úkolů
 
 Výstupem každého úkolu by měl být **krátký report** (např. půl stránky A4), ve kterém stručně popište využitou metodiku, dosažené výsledky a zdroje, pokud jste nějaké využili. V případě, že nebylo dosaženo uspokojivých výsledků, odůvodnit, proč se tak stalo. Vítané jsou také vlastní náměty na vylepšení metodiky/řešení. 
 
-## Odevzdání úkolu
+## Odevzdání úkolů
 
 Úkoly budou odevzdávané na FIT Gitlab. Detaily k odevzdání budou postupně zveřejněny.
 
