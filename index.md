@@ -6,6 +6,12 @@ title: Úvodní stránka
 
 Naleznete zde všechny informace týkající se výuky a organizace.
 
+## Anotace
+
+Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
+
+## Odkazy
+
 * [Přednášky](lectures/index.md)
 
 * [Cvičení](tutorials/index.md)

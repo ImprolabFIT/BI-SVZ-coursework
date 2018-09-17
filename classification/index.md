@@ -18,7 +18,7 @@ title: Hodnocení
 ## Podmínky pro složení záverečné zkoušky
 
 - Závěrečná zkouška se skládá z **dvou povinných částí**. Bez úspěšného složení praktické zkoušky nelze přístoupit ke zkoušce teoretické.
-- Z obou částí zkoušky je nutné získat více bodů, než je minimální hranice.
+- Z obou částí zkoušky je nutné získat více bodů než je minimální hranice.
 - Detaily k náplni a formátu zkoušky budou zveřejněny během semestru.
 
 ### Praktická část
