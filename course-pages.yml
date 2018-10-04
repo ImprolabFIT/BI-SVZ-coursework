@@ -6,6 +6,7 @@ language: cs
 navigation:
   hiddenFiles:
     - media/*
-    - README.*
+    - README.* 
+    - files 
 repository:
   gitlabPath: /BI-SVZ/bi-svz
