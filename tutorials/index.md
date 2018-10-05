@@ -19,3 +19,4 @@ Změna programu vyhrazena.
 | 11.     | 11.12.2017 | Vysokorychlostní kamery              |                                                              | 2    |
 | 12.     | 18.12.2017 | 3D skenery                           |                                                              | 2    |
 
+[Jupyter notebook cheatsheet](files/jupyter-notebook-cheat-sheet.pdf)
