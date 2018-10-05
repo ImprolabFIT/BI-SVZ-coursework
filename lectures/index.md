@@ -6,7 +6,7 @@ Změna programu vyhrazena.
 
 | Přednáška | Datum      | Téma                                                         |
 | --------- | ---------- | ------------------------------------------------------------ |
-| 1.        | 5.10.2018  | [Strojové vidění a fyzikální podstata](bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf) |
+| 1.        | 5.10.2018  | [Strojové vidění a fyzikální podstata](files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf) |
 | 2.        | 12.10.2018 | Druhy senzorů a optika                                       |
 | 3.        | 19.10.2018 | Kamerový systém a zpracování obrazu                          |
 | 4.        | 26.10.2018 | Obraz jako matice                                            |
