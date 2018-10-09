@@ -62,6 +62,18 @@ Pro jednodušší vyhledání kamery lze kameře v Pylonu nastavit tzv. Device U
   - Ukazuje rychlý postup, jak nastavit pár základních parametrů kamery, jakými jsou Zisk (Gain) nebo Expoziční čas (Exposure Time).
 
 ### Nastavení parametrů kamery
+Názvy často hledaných parametrů jsou:
+
+- Gain, Gain Auto
+- Exposure Time, Exposure Auto
+- Pixel Format
+- Width, Height, X Offset, Y Offset
+- Binning Horizontal, Binning Vertical
+  - pouze pro černobílé kamery!
+- Acquisition Frame Rate, Enable Acquisition Frame Rate
+
+
+
 Nejjednodušší způsob je využít pole hledání. 
 
 ![Animace](images/animation_setting_parameters.gif)
