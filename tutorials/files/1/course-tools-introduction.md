@@ -27,7 +27,7 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 	* `conda activate SVZ`
 	* S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
 		* `jupyter notebook <cesta k souborum kurzu>` 
-*  Otevřete úvodní notebook a zkontrolujte, zda všechny úvodní importy proběhnou bez problému.
+*  Otevřete úvodní [python-introduction](python-introduction.ipynb) notebook a zkontrolujte, zda všechny úvodní importy proběhnou bez problému.
 
 Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt [zde](https://conda.io/docs/user-guide/tasks/manage-environments.html).
 
