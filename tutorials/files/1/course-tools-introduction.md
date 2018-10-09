@@ -9,7 +9,7 @@ Volba jazyka Python může být pro některé z vás nepochopitelná, zvláště
 ​    
 Cílem tohoto kurzu však není vyučovat jazyk Python, nýbrž zaměřit se právě na samotné metody a algoritmy zpracování obrazu. Python je jen snadná cesta, jak toho snadno ukázat co nejvíc. Naše práce se nebude skládat ani tak z programování v Pythonu, ale převážně z volání již hotových metod a využívání rozhraní (např. OpenCV). Uvidíte sami, že většina úkolů, které budeme řešit, budou velmi předpřipravené a vystačíme si tedy s doplněním pouze několika řádek základního kódu. Mnohem důležitější je porozumění problému a návrh algoritmů/metod k jeho vyřešení.
 
-Stručné základy Pythonu lze nalézt v notebooku [introduction.ipynb](introduction.ipynb). Pro hlubší poznání pak třeba kurz v češtině od [PyLadies](https://naucse.python.cz/course/pyladies/)
+Stručné základy Pythonu lze nalézt v notebooku [python-introduction.ipynb](python-introduction.ipynb). Pro hlubší poznání pak třeba kurz v češtině od [PyLadies](https://naucse.python.cz/course/pyladies/)
 
 
 
