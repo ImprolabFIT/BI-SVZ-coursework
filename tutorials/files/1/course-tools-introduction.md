@@ -41,7 +41,7 @@ Základem je najít tu správnou kameru v menu dostupných. Vzhledem k tomu, že
 
 **DŮLEŽITÉ**: Ve chvíli, kdy je některá kamera otevřena v jakémkoli softwaru na jakémkoli počítači, je v tu chvíli zamknuta k danému softwaru. Nelze se k ní již připojit z jiného softwaru. Proto je vždy třeba vědět, jaké je sériové číslo kamery, která je dostupná pro vaše pracoviště a k té se připojovat.
 
-Sériové číslo kamery je napsáno přímo na kameře (vlevo) nebo přímo na krabici kamery (vpravo).
+Sériové číslo kamery je napsáno přímo na kameře (první obrázek) nebo přímo na krabici kamery (druhý obrázek).
 
 ![](images/kam_SN.png "")
 
