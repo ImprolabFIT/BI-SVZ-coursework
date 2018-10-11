@@ -21,8 +21,10 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 ### Postup
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji [stáhněte](https://www.anaconda.com/download)  a nainstalujte (pro Python 3.6).
 * Zapněte si Anaconda Prompt, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
-* Stáhněte soubor  [spec-file.txt](spec-file.txt) a vytvořte virtuální prostředí s balíčky nutnými pro tento kurz.
-	* `conda create --name SVZ --file <cesta k spec-file.txt>`
+* Stáhněte soubor  [spec-file.txt](spec-file.txt) a vytvořte virtuální prostředí s balíčky nutnými pro tento kurz. Virtuální prostředí si vytvořte na svém síťovém disku H:. 
+	* `conda create --prefix H:\env\SVZ --file <cesta k spec-file.txt>`
+* Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
+  * `conda config --append envs_dirs H:\env`
 * Před každým úkolem je nutné zkontrolovat zda nepracujete ve výchozím prostředí (base). Přepnutí do prostředí SVZ:
 	* `conda activate SVZ`
 	* S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
