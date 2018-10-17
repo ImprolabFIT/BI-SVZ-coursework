@@ -28,7 +28,7 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
     - `conda config --append envs_dirs D:\env`
   * Vyzkoušejte:
     * `conda activate SVZ`
-* Jinak kontaktujte učitele :)
+* Pokud stále něco nepůjde, kontaktujte učitele :)
 
 ### Důležité
 
