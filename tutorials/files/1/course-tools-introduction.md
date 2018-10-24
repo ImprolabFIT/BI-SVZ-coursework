@@ -21,6 +21,7 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 ### Postup
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji [stáhněte](https://www.anaconda.com/download)  a nainstalujte (pro Python 3.6).
 * Zapněte si Anaconda Prompt, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
+<<<<<<< HEAD
 * Stáhněte soubor  [spec-file.txt](spec-file.txt) a vytvořte virtuální prostředí s balíčky nutnými pro tento kurz. Virtuální prostředí si vytvořte na svém síťovém disku H:. 
 	* `conda create --prefix H:\env\SVZ --file <cesta k spec-file.txt>`
 * Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
@@ -33,6 +34,35 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 
 Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt [zde](https://conda.io/docs/user-guide/tasks/manage-environments.html).
 
+=======
+* Zkontrolujte, jaké existují virtuální prostředí 
+  * `conda env list`
+* Pokud v seznamu **NENÍ** SVZ:
+  * Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
+    - `conda config --append envs_dirs D:\env`
+  * Vyzkoušejte:
+    * `conda activate SVZ`
+* Pokud stále něco nepůjde, kontaktujte učitele :)
+
+### Důležité
+
+* Před každým úkolem je nutné zkontrolovat zda nepracujete ve výchozím prostředí (base). Přepnutí do prostředí SVZ:
+  * `conda activate SVZ`
+  * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
+  	* `jupyter notebook <cesta k souborum kurzu>` 
+* Otevřete úvodní [python-introduction](python-introduction.ipynb) notebook a zkontrolujte, zda všechny úvodní importy proběhnou bez problému.
+
+#### Poznámky
+
+Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt [zde](https://conda.io/docs/user-guide/tasks/manage-environments.html).
+
+#### Tvorba nového virtuálního prostředí (pro admina) 
+
+- Stáhnout soubor [spec-file.txt](spec-file.txt) a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
+  - Virtuální prostředí se vytváří na disku D:
+  - `conda create --prefix D:\env\SVZ --file <cesta k spec-file.txt>`
+
+>>>>>>> 51a357aec4c84112637dfbfd08fc7a591d7e493e
 
 
 ## Přípojení a správa kamer v Pylonu 
