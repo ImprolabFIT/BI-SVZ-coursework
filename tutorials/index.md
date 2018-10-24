@@ -2,7 +2,7 @@
 title: Cvičení
 ---
 
-Změna programu vyhrazena.
+Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 10. 2018).
 
 | Cvičení |   Datum    | Téma                                 | Soubory                                                      | Body |
 | :-----: | :--------: | :----------------------------------- | ------------------------------------------------------------ | :--: |
