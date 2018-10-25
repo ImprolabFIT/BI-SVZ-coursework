@@ -9,7 +9,7 @@ Změna programu vyhrazena.
 | 1.        | 5.10.2018  | [Strojové vidění a fyzikální podstata](files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf) |
 | 2.        | 12.10.2018 | [Druhy senzorů a optika](files/bi-svz-02-druhy-senzoru-a-optika.pdf) |
 | 3.        | 19.10.2018 | [Kamerový systém a zpracování obrazu](files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf) |
-| 4.        | 26.10.2018 | Obraz jako matice                                            |
+| 4.        | 26.10.2018 | [Obraz jako matice](files/bi-svz-04-obraz-jako-matice.pdf)   |
 | 5.        | 2.11.2018  | Perspektiva a geometrie obrazu                               |
 | 6.        | 9.11.2018  | Předzpracování obrazu - Transformace a korekce               |
 | 7.        | 16.11.2018 | Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti |
