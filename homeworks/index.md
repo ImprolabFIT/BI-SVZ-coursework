@@ -10,13 +10,20 @@ Na začátku každého cvičení bude prostor na dotazy týkající se úkolů. 
 
 Následující cvičení po odevzdání úkolu, bude probráno referenční řešení. 
 
-## Náležitosti úkolů
+## Potřebné nástroje k úkolům
 
-Výstupem každého úkolu by měl být **krátký report** (např. půl stránky A4), ve kterém stručně popište využitou metodiku, dosažené výsledky a zdroje, pokud jste nějaké využili. V případě, že nebylo dosaženo uspokojivých výsledků, odůvodnit, proč se tak stalo. Vítané jsou také vlastní náměty na vylepšení metodiky/řešení. 
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz [návod](../tutorials/files/1/course-tools-introduction.md). Pokud nemáte Win x64, tak se vám pravděpodobně nepodaří instalace pomocí [spec-file](../tutorials/files/1/spec-file.txt) a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install`.
+
+##### Seznam nutných balíčků
+
+* opencv
+* numpy
+* scipy
+* matplotlib
 
 ## Odevzdání úkolů
 
-Úkoly budou odevzdávané na FIT Gitlab. Detaily k odevzdání budou postupně zveřejněny.
+Úkoly budou odevzdávané na FIT Gitlab. Detaily k odevzdání budou zveřejněny.
 
 ## Etika domácích úkolů
 
@@ -26,12 +33,12 @@ Pokud budete využívat části kódů z internetových zdrojů (např. StackOve
 
 ## Harmonogram úkolů
 
-Harmonogram úkolů je předběžný. Během začátku semestru bude finalizován. 
+Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplňován.
 
 | Úkol | Zadání     | Deadline   | Téma                                                         | Body |
 | ---- | ---------- | ---------- | ------------------------------------------------------------ | ---- |
-| 1.   | 19.10.2018 | 2.11.2018  | Segmentace, hranové detekce                                  | 5    |
-| 2.   | 2.11.2018  | 16.11.2018 | Projektivní transformace                                     | 6    |
-| 3.   | 16.11.2018 | 30.11.2018 | Výpočet BMI s využitím dat hloubkového senzoru               | 7    |
-| 4.   | 30.11.2018 | 14.12.2018 | Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery | 8    |
+| 1.   | 19.10.2018 | 11.11.2018 | [Měření nejkratší vzdálenosti obdélníků](files/1/1_task.ipynb) | 5    |
+| 2.   | TBA        | TBA        | Projektivní transformace                                     | 6    |
+| 3.   | TBA        | TBA        | Výpočet BMI s využitím dat hloubkového senzoru               | 7    |
+| 4.   | TBA        | TBA        | Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery | 8    |
 
