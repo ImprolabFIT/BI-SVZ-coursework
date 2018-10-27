@@ -4,7 +4,7 @@ title: Domácí úkoly
 
 V semestru budou postupně zadány celkem **4 jednoduché domací úkoly**. Úkoly zadáváme, abychom ověřili vaše pochopení probírané látky. Pro všechny, kteří porozumí látce probrané na cvičení, se jedná maximálně o dvou hodinovou záležitost. Úkoly volně **navazují na úlohy z cvičení**.
 
-Úkoly nejsou povinné, **tvoří však přes polovinu možných bodů ze semestru** (26 bodů z celkových 50). Přípomínáme, že k získání zápočtu je nutné za cvičení získat **minimálně 25 bodů**, podrobnosti viz. sekce [hodnocení](../classification/index.md).
+Úkoly nejsou povinné, **tvoří však přes polovinu možných bodů ze semestru** (26 bodů z celkových 50). Přípomínáme, že k získání zápočtu je nutné za cvičení získat **minimálně 25 bodů**, podrobnosti viz sekce [hodnocení](../classification/index.md).
 
 Na začátku každého cvičení bude prostor na dotazy týkající se aktuálního zadaného úkolu. Cílem je vyřešit problémy a nejasnosti. Referenční řešení úkolů bude vždy probráno následující cvičení po deadlinu.
 
@@ -12,10 +12,10 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 ## Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz [návod](../tutorials/files/1/course-tools-introduction.md). Pokud nemáte systém Win x64, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí [spec-file](../tutorials/files/1/spec-file.txt) a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install`, viz [návod](https://conda.io/docs/user-guide/tasks/manage-pkgs.html).
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz [návod](../tutorials/files/1/course-tools-introduction.md). Pokud nemáte systém Win x64, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí [spec-file](../tutorials/files/1/spec-file.txt) a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz [návod](../tutorials/files/1/course-tools-introduction.md).
 
-##### Seznam potřebných balíčků k domácím úkolům
-
+#### Seznam potřebných balíčků k domácím úkolům
+ Může být časem aktualizován.
 * opencv
 * numpy
 * scipy
