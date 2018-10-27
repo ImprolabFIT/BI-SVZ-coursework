@@ -1,9 +1,6 @@
 ---
 title: Hodnocení
-
 ---
-
-* Hodnocení se skládá dvou částí (body ze cvičení a zkoušky).
 
 ## Body ze cvičení a získání zápočtu
 
@@ -11,25 +8,25 @@ title: Hodnocení
 - Za každé cvičení je možné získat **2 body**.
 - Budou zadány **4 úkoly** celkem za **26 bodů**. 
 - Během semestru je též možné získat až **10 prémiových bodů** za nadprůměrnou aktivitu a práci nad rámec povinností.
-- Během cvičení se nepíšou **žádné testy**.
-- **Docházka** na cvičeních **se eviduje**, nemá však vliv na hodnocení.
+- Na cvičení se nepíšou **žádné testy**.
+- **Docházka** na cvičení **se eviduje**, nemá však vliv na hodnocení.
 - Předmět není možné absolvovat bez získání zápočtu.
 
 ## Podmínky pro složení záverečné zkoušky
 
+- K závěrečné zkoušce je možné přístoupit **pouze se získaným zápočtem**.
 - Závěrečná zkouška se skládá z **dvou povinných částí**. Bez úspěšného složení teoretické zkoušky nelze přístoupit ke zkoušce praktické.
 - Z obou částí zkoušky je nutné získat více bodů, než je minimální hranice.
-- Detaily k náplni a formátu zkoušky budou zveřejněny během semestru.
 
 ### Teoretická část
 
-- Z teoretické části lze získat až **20 bodů**. Pro úspěšné absolvování teoretické části je nutné získat **alespoň 10 bodů**.
+- Pro úspěšné absolvování teoretické části je nutné získat **alespoň 10 bodů** z možných 20.
 - Teoretická část probíhá formou **multichoice testu**. V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou, v ostatních případech ne.
-- K vylepšení bodového zisku je možné využít **dobrovolného ústního dozkoušení**.
+- Za předpokladu splnění minimální hranice, je možné k vylepšení bodového zisku využít **dobrovolného ústního dozkoušení**.
 
 ### Praktická část
 
-- Z praktické části lze získat až **30 bodů**. Pro úspěšné absolvování praktické části je nutné získat **alespoň 15 bodů**.
+- Pro úspěšné absolvování praktické části je nutné získat **alespoň 15 bodů** z možných 30.
 - Praktická část se bude skládat z vypracování úlohy podobného formátu, jako jsou příklady na cvičení.
 
 ## Celkové hodnocení
