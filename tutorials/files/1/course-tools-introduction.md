@@ -28,28 +28,28 @@ Detaily ke správě prostředí lze nalézt [zde](https://conda.io/docs/user-gui
 * Zkontrolujte, jaké u vás existují virtuální prostředí 
   * `conda env list`
 * Pokud v seznamu **NENÍ** SVZ a:
-  *  nacházíte se u PC v Improlabu
-    * Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
-      - `conda config --append envs_dirs D:\env`
-    * Vyzkoušejte:
-      * `conda activate SVZ`
-  * jste na domácím PC 
-    * Jestliže máte systém Win x64, zkuste vytvořit prostředí SVZ pomocí [spec-file.txt](spec-file.txt) takto:
-      * `conda create --n SVZ --file <cesta k spec-file.txt>`
-    * Jinak vytvořte prostředí a aktivujte jej:
-      * `conda create -n SVZ`
-      * `conda activate SVZ`
-    * A doinstalujte potřebné balíčky  (např. numpy a scipy):
-      * `conda install numpy scipy `
+    *  nacházíte se u PC v Improlabu
+        * Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
+            * `conda config --append envs_dirs D:\env`
+        * Vyzkoušejte:
+            * `conda activate SVZ`
+    * jste na domácím PC 
+        * Jestliže máte systém Win x64, zkuste vytvořit prostředí SVZ pomocí [spec-file.txt](spec-file.txt) takto:
+            * `conda create --n SVZ --file <cesta k spec-file.txt>`
+        * Jinak vytvořte prostředí a aktivujte jej:
+            * `conda create -n SVZ`
+            * `conda activate SVZ`
+        * A doinstalujte potřebné balíčky  (např. numpy a scipy):
+            * `conda install numpy scipy `
 * Pokud stále něco nepůjde, kontaktujte učitele :)
 
 ### Důležité
 
-* Před každým úkolem je nutné zkontrolovat zda nepracujete ve výchozím prostředí (base). Přepnutí do prostředí SVZ:
+* Před každým cvičením/úkolem je nutné zkontrolovat zda nepracujete ve výchozím prostředí (base). Přepnutí do prostředí SVZ:
   * `conda activate SVZ`
   * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
   	* `jupyter notebook <cesta k souborum kurzu>` 
-* Otevřete úvodní [python-introduction](python-introduction.ipynb) notebook a zkontrolujte, zda všechny úvodní importy proběhnou bez problému. Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musíte daný balíček doinstalovat.
+* Otevřete úvodní [python-introduction](python-introduction.ipynb) notebook a zkontrolujte, zda všechny úvodní importy proběhnou bez problému. Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musíte daný balíček doinstalovat pomocí `conda install`.
 
 #### Poznámky
 
