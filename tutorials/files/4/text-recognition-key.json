@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bi-svz-text-recognition",
+  "private_key_id": "c84a47d7e445b9fe07cf27d04b2f20a0f444f7fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0266ma/3Lhdq+\nXDLZpJ/W9QV1j93IQXFi71c9OZf8oPuEIFBPqF3zxV4bKUqBio/uDgt+5rAH93hW\nQP7sHwMaFkAAyj8Cf5rF3aTV21foFTFrDr3H8VxJHZC7RtbzjW5ioiHdBkNsVFMY\nk1nBPHhrBYPLOjA6x0GJUBnu4hQQFJfgSRcqbhskIrBFVHE/BSXBG9+Dk2MoNaj9\nzwpOe/j91pua+8ez9tk9cY1M3u4r7aGtemW4e4E0Z8uzHIscqzOobHvpPpTPF/JL\nqoCHeGNwdXJbFWk4g4R3BBjg7fVOEC/jGb6LXBoNCrVJ3RcniPcIQv3h4O6FPOmF\nfikxDG3bAgMBAAECggEAGtpFN6NwFsBEhqAE0si9DLrreRWHvdxtm91ibA45kUJL\npcXwdqtOa8vBmbHLRKmQji1aqphQyZYGMXRMBT3jhYOJNDTTHylYDwnGGBSNnEFN\nSZJyPhYJeDeiDhRKBPZaTd25vmnYJ+TrQ4pZOLYkQOucMlfs4kVEZ0FT4GKDzREp\ndBQ7qIiGXTQewSmbUcy1gI57Yraq8ADxWWCsHRxXfZQAVFbQVQL2PaDyRsvNEku8\n/V1G2h3wdBaFiP4FxZ0JdP5N5JvIXb12u7v/uan3QAdAa/vtcVyEajM0tBD7d/oi\nEstiklrDdEnMo7TRDRzgM5CWJWC8835rLGYOIYMXSQKBgQDuIgF8ToiKgHj9T4Wg\nQJzGyS/XWOHgBWaXzkQIIWh3WmC1ozlLI5YYLXSccbv/oXVz+v+84sokwdKC9Wev\nj32pYRe+jpkat5KclxvJAn/XDiufo1qNO1vyisOW1f4vaTn5PYvbzllB3Bro+pa4\ncLzk1ytpaD+4kCNjlWF2L5jxKQKBgQDCbY8HFlm/lO4kolHgEkHR/2hHHn9t1ZT0\nUPfSp48d4HVPDN5y1ZAd7lIbDJ8nQrdxt2sQ0u+Uguv0vGcUyH8iwHbMuInn3Z6A\nBKYy4M+I7Kkg/nc4gphSv8lbX9t2Jvz3IB2uY+TD4RUG+ojfVztFZATQ68mjm3s+\nYdcLmXwzYwKBgGLSb+VjPdykVhFhN+X6ClWgVh86/nmWJC4pZigtnQmy0uFt/C/H\nc9lSu8rUlB0Qpwpbhlefkh3Q5Yh9SOsdVBu/dDgbO0RQHCKpvtkbFWxssAPOqZxk\nntK3bVWiNpr8QxfAx9KO/pGLQwueOoAOIQWimZxjq9Xu0xDXhBukwwaJAoGAdwnX\nARLZHigT6hALqvHipK0Ibkqo4FldGnycTrhSMoujpyOM6qgA1aJ9WJxQsRvy7sfK\n4IEVOEs0JiJXxmy/EkreMZdmr7SLf3vZOdtUlVO4dT/3RH0Iv9k2ciBtYJicVr2u\nDoCQprEfS6eGt59T5bdID5XdXbMrMNV8cVimp1sCgYEAlnSmiMam7sRR7FuYs7n1\nshzC8PKhxQ/tTmaHE6yfm5D7SokIdOe3EEVjNIXQ9zACOFRlLPir00vPnCCXClZg\nQQvmF8T0HrmoGA2hdmJUjreuOlZHE1LKfzAXY84BUMJfYZTrppr29Ppyk+5pJjZA\n2ahhpiKivGjpWgJ6ZWhaz0g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-63@bi-svz-text-recognition.iam.gserviceaccount.com",
+  "client_id": "111824206477402866726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-63%40bi-svz-text-recognition.iam.gserviceaccount.com"
+}
