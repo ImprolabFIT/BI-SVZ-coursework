@@ -23,8 +23,14 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 
 ### Postup pro přidání rozšíření do jupyteru o collapse funkcí
+Spusťte konzoli `Anaconda Prompt` a zadejte:
+
 `activate SVZ`
+
 `pip install jupyter_contrib_nbextensions`
+
 `jupyter contrib nbextension install --sys-prefix`
+
 `pip install jupyter_nbextensions_configurator`
+
 `jupyter nbextensions_configurator enable --sys-prefix`
