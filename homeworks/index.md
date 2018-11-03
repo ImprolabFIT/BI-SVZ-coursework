@@ -21,9 +21,13 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 * scipy
 * matplotlib
 
+## Náležitosti úkolu
+
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a zkuste kód udržovat čistý a  čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce by měla mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný, nebude v našich silách k němu poskytnout zpětnou vazbu.
+
 ## Odevzdání úkolů
 
-Úkoly budou odevzdávané na FIT Gitlab. Detaily k odevzdání budou zveřejněny.
+Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele @brchlluk a @novakj67 s rolemi "reporter".
 
 ## Etika domácích úkolů
 
