@@ -21,5 +21,6 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 * [Učitelé](teachers/index.md)
 * [Body z předmětu](https://grades.fit.cvut.cz/)
+* [Nechceme vypadnout z BI-SVZ](https://www.facebook.com/groups/219262205443063/)
 * https://timetable.fit.cvut.cz/new/courses/BI-SVZ 
 
