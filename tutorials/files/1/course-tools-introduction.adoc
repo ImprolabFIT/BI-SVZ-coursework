@@ -14,14 +14,14 @@ Cílem tohoto kurzu však není vyučovat jazyk Python, nýbrž zaměřit se pr�
 Naše práce se nebude skládat ani tak z programování v Pythonu, ale převážně z volání již hotových metod a využívání rozhraní (např. OpenCV). Uvidíte sami, že většina úkolů, které budeme řešit, budou velmi předpřipravené a vystačíme si tedy se základní syntaxí jazyka. Mnohem důležitější je porozumění kontextu problému a návrh algoritmů/metod k jeho vyřešení.
 
 Stručné základy Pythonu lze nalézt v notebooku [python-introduction.ipynb](python-introduction.ipynb). Pro hlubší poznání pak třeba kurz v češtině od https://naucse.python.cz/course/pyladies/[PyLadies]
-Často využívané klávesové zkratky v Jupyter notebooku jsou popsány link:(../jupyter-notebook-cheat-sheet.pdf)[ZDE].
+Často využívané klávesové zkratky v Jupyter notebooku jsou popsány link:../jupyter-notebook-cheat-sheet.pdf[ZDE].
 
 
 == Rozchození virtuálního prostředí pro práci v Pythonu s Jupyter Notebooky
 
 V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu však probíhájí obdobně. 
 
-K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí. Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor link:(spec-file.txt)[spec-file.txt] (pozor funguje jen pro systémy Win x64), který obsahuje seznam potřebných balíčků pro tento kurz. Ty se následně nainstalují při vytváření virtuálního prostředí. 
+K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí. Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor link:spec-file.txt[spec-file.txt] (pozor funguje jen pro systémy Win x64), který obsahuje seznam potřebných balíčků pro tento kurz. Ty se následně nainstalují při vytváření virtuálního prostředí. 
 
 Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde], detaily k instalaci balíčků https://conda.io/docs/user-guide/tasks/manage-pkgs.html[zde].
 
@@ -38,7 +38,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 *** Vyzkoušejte:
 **** `conda activate SVZ`
 ** jste na domácím PC 
-*** Jestliže máte systém Win x64, zkuste vytvořit prostředí SVZ pomocí link:(spec-file.txt)[spec-file.txt] takto:
+*** Jestliže máte systém Win x64, zkuste vytvořit prostředí SVZ pomocí link:spec-file.txt[spec-file.txt] takto:
 **** `conda create --n SVZ --file <cesta k spec-file.txt>`
 *** Jinak vytvořte prostředí a aktivujte jej:
 **** `conda create -n SVZ`
@@ -54,7 +54,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ** `conda activate SVZ`
 * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
 ** `jupyter notebook <cesta k souborum kurzu>` 
-* Otevřete úvodní notebook link:(python-introduction.ipynb)[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musíte daný balíček doinstalovat pomocí `conda install`.
+* Otevřete úvodní notebook link:python-introduction.ipynb[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musíte daný balíček doinstalovat pomocí `conda install`.
 
 ==== Poznámky
 
@@ -62,7 +62,7 @@ Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, v
 
 ==== Tvorba nového virtuálního prostředí (pro admina) 
 
-* Stáhnout soubor link:(spec-file.txt)[spec-file.txt] a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
+* Stáhnout soubor link:spec-file.txt[spec-file.txt] a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
 * Virtuální prostředí se vytváří na disku D:
 ** `conda create --prefix D:\env\SVZ --file <cesta k spec-file.txt>`
 
