@@ -1,7 +1,6 @@
 = Úvodní stránka
 
-*Toto je oficiální stránka předmětu BI-SVZ.* 
-Naleznete zde všechny informace týkající se výuky a organizace.
+*Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
 == Anotace
 
@@ -9,11 +8,11 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 == Odkazy
 
-* link:lectures/index.adoc[Přednášky]
-* link:tutorials/index.adoc[Cvičení]
-* link:homeworks/index.adoc[Domácí úkoly]
-* link:classification/index.adoc[Získání zápočtu a složení zkoušky]
-* link:teachers/index.adoc[Učitelé]
+* xref:lectures/index#[Přednášky]
+* xref:tutorials/index#[Cvičení]
+* xref:homeworks/index#[Domácí úkoly]
+* xref:classification/index#[Získání zápočtu a složení zkoušky]
+* xref:teachers/index#[Učitelé]
 * https://grades.fit.cvut.cz/[Body z předmětu]
 * https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
 * https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
