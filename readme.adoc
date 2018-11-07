@@ -1,0 +1,1 @@
+This repository is related to Machine vision and Image processing (BI-SVZ) course at link:https://fit.cvut.cz/en[FIT CTU]. The course is taught in Czech language. For more details see the link:index.adoc[main course page].

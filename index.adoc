@@ -1,0 +1,19 @@
+= Úvodní stránka
+
+*Toto je oficiální stránka předmětu BI-SVZ.* 
+Naleznete zde všechny informace týkající se výuky a organizace.
+
+== Anotace
+
+Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
+
+== Odkazy
+
+* link:lectures/index.adoc[Přednášky]
+* link:tutorials/index.adoc[Cvičení]
+* link:homeworks/index.adoc[Domácí úkoly]
+* link:classification/index.adoc[Získání zápočtu a složení zkoušky]
+* link:teachers/index.adoc[Učitelé]
+* https://grades.fit.cvut.cz/[Body z předmětu]
+* https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
+* https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
