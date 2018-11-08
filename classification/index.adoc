@@ -36,7 +36,7 @@
 * Výsledná známka je dána bodovým ziskem celkem dle tabulky níže.
 
 .Bodové hodnocení
-[width="50%", options="header"]
+[width="75%", options="header"]
 |===
 | Známka | Bodové  rozmezí | Slovní  hodnocení 
 | A      | 90 a více       | výborně           
