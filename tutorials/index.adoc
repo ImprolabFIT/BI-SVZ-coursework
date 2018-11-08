@@ -22,7 +22,7 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 |   4.    | 26. 10. 2018 | Pokročilejší  techniky segmentace    | 📜&#160;link:files/4/segmentation-objects-count.ipynb[Segmentace&#160;-&#160;počítání&#160;objektů],
 📜&#160;link:files/4/segmentation-fit-ocr.ipynb[Segmentace&#160;-&#160;OCR&#160;textu] |  2   
 
-|   5.    | 2. 10. 2018  | Perspektiva obrazu                   |     |  2
+|   5.    | 2. 11. 2018  | Perspektiva obrazu                   |     |  2
 
 |   6.    | 9. 11. 2018  | Klasifikace obrazu, detekce objektů  |     |  2   
 
