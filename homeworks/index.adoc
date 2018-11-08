@@ -42,7 +42,7 @@ Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplň
 [cols="2,3,3,9,^2", options="header"]
 |===
 | Úkol | Zadání     | Deadline   | Téma                                                         | Body   
-| 1.   | 19. 10. 2018 | 11. 11. 2018 | image:../media/icons/jupyter.png[width=23] link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
+| 1.   | 19. 10. 2018 | 11. 11. 2018 | link:files/1/1_task.ipynb[:scroll: Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
 | 2.   | TBA        | TBA        | Projektivní transformace                                     | 6      
 | 3.   | TBA        | TBA        | Výpočet BMI s využitím dat hloubkového senzoru               | 7      
 | 4.   | TBA        | TBA        | Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery | 8      
