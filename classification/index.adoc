@@ -36,8 +36,8 @@
 * Výsledná známka je dána bodovým ziskem celkem dle tabulky níže.
 
 .Bodové hodnocení
-[width="50%", options="header,footer"]
-|=======================
+[width="50%", options="header"]
+|===
 | Známka | Bodové  rozmezí | Slovní  hodnocení 
 | A      | 90 a více       | výborně           
 | B      | 80 - 89         | velmi dobře       
@@ -45,6 +45,6 @@
 | D      | 60 - 69         | uspokojivě        
 | E      | 50 - 59         | dostatečně        
 | F      | méně než 50     | nedostatečně      
-|=======================
+|===
 
 Hodnocení se řídí https://www.cvut.cz/sites/default/files/content/7e72349e-3ea5-4693-9853-5147f1238481/cs/20180718-studijni-a-zkusebni-rad-pro-studenty-cvut.pdf[Studijním a zkušebním řádem ČVUT].
