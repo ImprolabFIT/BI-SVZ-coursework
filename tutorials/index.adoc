@@ -8,19 +8,25 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 | Cvičení | Datum | Téma | Soubory | Body 
 
 |   1.    | 5. 10. 2018  | Úvodní cvičení, seznámení s nástroji | link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní prezentace], 
+
 link:files/1/course-tools-introduction.adoc[Návod k nástrojům], 
-image:../media/icons/jupyter.png[width=23] link:files/1/python-introduction.ipynb[Úvod do Pythonu], 
+
+📜&#160;link:files/1/python-introduction.ipynb[Úvod do Pythonu], 
+
 link:files/1/spec-file.txt[Soubor se závislostmi] |  2   
 
-|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | image:../media/icons/jupyter.png[width=23] link:files/2/jupyter-introduction.ipynb[Práce v Jupyter Notebooku],
-image:../media/icons/jupyter.png[width=23] link:files/2/basler-introduction.ipynb[Práce s Basler kamerami], 
-image:../media/icons/jupyter.png[width=23] link:files/2/camera-calib.ipynb[Kalibrace kamery],
+|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | 📜&#160;link:files/2/jupyter-introduction.ipynb[Práce v Jupyter Notebooku],
+
+📜&#160;link:files/2/basler-introduction.ipynb[Práce s Basler kamerami], 
+
+📜&#160;link:files/2/camera-calib.ipynb[Kalibrace kamery],
+
 https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna pro práci s kamerami]|  2   
 
-|   3.    | 19. 10. 2018 | Základy segmentace                   | image:../media/icons/jupyter.png[width=23] link:files/3/segmentation_and_measuring.ipynb[Základy segmentace] |  2   
+|   3.    | 19. 10. 2018 | Základy segmentace                   | 📜&#160;link:files/3/segmentation_and_measuring.ipynb[Základy segmentace] |  2   
 
-|   4.    | 26. 10. 2018 | Pokročilejší  techniky segmentace    | image:../media/icons/jupyter.png[width=23] link:files/4/segmentation-objects-count.ipynb[Segmentace - počítání objektů],
-image:../media/icons/jupyter.png[width=23] link:files/4/segmentation-fit-ocr.ipynb[Segmentace - OCR textu] |  2   
+|   4.    | 26. 10. 2018 | Pokročilejší  techniky segmentace    | 📜&#160;link:files/4/segmentation-objects-count.ipynb[Segmentace - počítání objektů],
+📜&#160;link:files/4/segmentation-fit-ocr.ipynb[Segmentace - OCR textu] |  2   
 
 |   5.    | 2. 10. 2018  | Perspektiva obrazu                   |     |  2
 
