@@ -5,7 +5,7 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 .Harmonogram cvičení
 [width=100%, cols="^1,2,5,5,^1", options="header"]
 |====
-| Cvičení | Datum | Téma | Soubory | Body 
+h| Cvičení h| Datum h| Téma h| Soubory h| Body 
 
 |   1.    | 5. 10. 2018  | Úvodní cvičení, seznámení s nástroji | link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní prezentace], 
 link:files/1/course-tools-introduction.adoc[Návod k nástrojům], 
