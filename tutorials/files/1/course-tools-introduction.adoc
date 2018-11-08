@@ -1,4 +1,5 @@
 = Seznámení s nástroji pro kurz BI-SVZ
+:toc:
 
 Pro práci na cvičení a později i na domácích úkolech budeme využívat několik nástrojů. 
 
