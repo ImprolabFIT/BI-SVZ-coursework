@@ -16,3 +16,14 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 * https://grades.fit.cvut.cz/[Body z předmětu]
 * https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
 * https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
+
+== Důležitá oznámení
+
+[WARNING]
+====
+*Termín odevzdání:* Blíží se termín odevzdání xref:homeworks/index#Harmonogram%20úkolů[Úkolu 1]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#Odevzdání%20úkolů[návod]).
+
+Deadline je v *neděli 11. 11. 2018 v 23:59*. 
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 9. 11. 2018_
+====
