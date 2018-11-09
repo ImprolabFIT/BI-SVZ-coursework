@@ -21,9 +21,9 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 [WARNING]
 ====
-*Termín odevzdání:* Blíží se termín odevzdání xref:homeworks/index#Harmonogram%20úkolů[Úkolu 1]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#Odevzdání%20úkolů[návod]).
+*Deadline: neděle 11. 11. 2018 v 23:59* 
 
-Deadline je v *neděli 11. 11. 2018 v 23:59*. 
+Blíží se termín odevzdání xref:homeworks/index#Harmonogram%20úkolů[Úkolu 1]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#Odevzdání%20úkolů[návod]).
 
 _mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 9. 11. 2018_
 ====
