@@ -6,11 +6,11 @@ Změna programu vyhrazena.
 [cols="2,3,10", options="header,footer"]
 |=======================
 | Přednáška | Datum      | Téma                                                         
-| 1.        | 5. 10. 2018  | 📖&#160;link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
-| 2.        | 12. 10. 2018 | 📖&#160;link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
-| 3.        | 19. 10. 2018 | 📖&#160;link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu] 
-| 4.        | 26. 10. 2018 | 📖&#160;link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]   
-| 5.        | 2. 11. 2018  | 📖&#160;link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
+| 1.        | 5. 10. 2018  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
+| 2.        | 12. 10. 2018 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
+| 3.        | 19. 10. 2018 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu] 
+| 4.        | 26. 10. 2018 | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]   
+| 5.        | 2. 11. 2018  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
 | 6.        | 9. 11. 2018  | Předzpracování obrazu - Transformace a korekce               
 | 7.        | 16. 11. 2018 | Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti 
 | 8.        | 23. 11. 2018 | Segmentace obrazu - Hranové                                  

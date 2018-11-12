@@ -7,22 +7,22 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 |====
 | Cvičení | Datum | Téma | Soubory | Body 
 
-|   1.    | 5. 10. 2018  | Úvodní cvičení, seznámení s nástroji | 📖&#160;link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní&#160;prezentace], 
-🔗&#160;xref:files/1/course-tools-introduction#[Návod&#160;k&#160;nástrojům], 
-📜&#160;link:files/1/python-introduction.ipynb[Úvod&#160;do&#160;Pythonu], 
-📄&#160;link:files/1/spec-file.txt[Soubor&#160;se&#160;závislostmi] |  2   
+|   1.    | 5. 10. 2018  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní{nbsp}prezentace], 
+🔗{nbsp}xref:files/1/course-tools-introduction#[Návod{nbsp}k{nbsp}nástrojům], 
+📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu], 
+📄{nbsp}link:files/1/spec-file.txt[Soubor{nbsp}se{nbsp}závislostmi] |  2   
 
-|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | 📜&#160;link:files/2/jupyter-introduction.ipynb[Práce&#160;v&#160;Jupyter&#160;Notebooku],
-📜&#160;link:files/2/basler-introduction.ipynb[Práce&#160;s&#160;Basler&#160;kamerami], 
-📜&#160;link:files/2/camera-calib.ipynb[Kalibrace&#160;kamery],
-📚&#160;https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna&#160;pro&#160;práci&#160;s&#160;kamerami]|  2   
+|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}Notebooku],
+📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami], 
+📜{nbsp}link:files/2/camera-calib.ipynb[Kalibrace{nbsp}kamery],
+📚{nbsp}https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2   
 
-|   3.    | 19. 10. 2018 | Základy segmentace                   | 📜&#160;link:files/3/segmentation_and_measuring.ipynb[Základy segmentace] |  2   
+|   3.    | 19. 10. 2018 | Základy segmentace                   | 📜{nbsp}link:files/3/segmentation_and_measuring.ipynb[Základy segmentace] |  2   
 
-|   4.    | 26. 10. 2018 | Pokročilejší  techniky segmentace    | 📜&#160;link:files/4/segmentation-objects-count.ipynb[Segmentace&#160;-&#160;počítání&#160;objektů],
-📜&#160;link:files/4/segmentation-fit-ocr.ipynb[Segmentace&#160;-&#160;OCR&#160;textu] |  2   
+|   4.    | 26. 10. 2018 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/4/segmentation-objects-count.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
+📜{nbsp}link:files/4/segmentation-fit-ocr.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2   
 
-|   5.    | 2. 11. 2018  | Perspektiva obrazu                   | 📜&#160;link:files/5/perspective-measuring.ipynb[Perspektiva&#160;-&#160;měření&#160;výšky]    |  2
+|   5.    | 2. 11. 2018  | Perspektiva obrazu                   | 📜{nbsp}link:files/5/perspective-measuring.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  2
 
 |   6.    | 9. 11. 2018  | Klasifikace obrazu, detekce objektů  |     |  2   
 
