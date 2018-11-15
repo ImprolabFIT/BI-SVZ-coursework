@@ -26,27 +26,48 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 
 Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde], detaily k instalaci balíčků https://conda.io/docs/user-guide/tasks/manage-pkgs.html[zde].
 
-=== Postup
+=== Postup na cvičení
 
-* Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.6).
+* Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda.
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
 * Zkontrolujte, jaké u vás existují virtuální prostředí 
 ** `conda env list`
-* Pokud v seznamu *NENÍ* prostředí SVZ a:
-** nacházíte se u PC v Improlabu
-*** Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
-**** `conda config --append envs_dirs D:\env`
-*** Vyzkoušejte:
-**** `conda activate SVZ`
-** jste na domácím PC 
-*** Jestliže máte systém Win x64, zkuste vytvořit prostředí SVZ pomocí link:spec-file.txt[spec-file.txt] takto:
-**** `conda create --n SVZ --file <cesta k spec-file.txt>`
-*** Jinak vytvořte prostředí a aktivujte jej:
-**** `conda create -n SVZ`
-**** `conda activate SVZ`
-*** A doinstalujte potřebné balíčky  (např. numpy a scipy):
-**** `conda install numpy scipy`
+* Pokud v seznamu *NENÍ* prostředí SVZ:
+** Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
+*** `conda config --append envs_dirs D:\env`
+* Vyzkoušejte:
+** `conda activate SVZ`
 * Pokud stále něco nepůjde, kontaktujte učitele :)
+
+
+=== Postup doma
+
+* Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.6).
+* Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
+
+==== Systém Windows x64
+* Vytvořte prostředí SVZ pomocí link:env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64] takto:
+** `conda create --n SVZ --file <cesta k SVZ-spec-file-win64.txt>`
+* Aktivujte vytvořené virtuální prostředí
+** `activate SVZ`
+* Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
+** `pip install -r <cesta k SVZ-pip-req.txt>`
+
+==== Systém Linux
+[NOTE]
+====
+Nabízím 1 bod aktivity za doplnění instalace na Linux (ubuntu, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-linux-ubuntu.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl snad fungovat pro všechny systémy stejný jeden.
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
+====
+
+==== Systém macOS
+[NOTE]
+====
+Nabízím 1 bod aktivity za doplnění instalace na macOS (64bit, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-osx64.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl snad fungovat pro všechny systémy stejný jeden.
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
+====
 
 
 === Důležité
@@ -55,15 +76,18 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ** `conda activate SVZ`
 * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
 ** `jupyter notebook <cesta k souborum kurzu>` 
-* Otevřete úvodní notebook link:python-introduction.ipynb[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musíte daný balíček doinstalovat pomocí `conda install`.
+* Otevřete úvodní notebook link:python-introduction.ipynb[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
+** Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musí se daný balíček doinstalovat pomocí `conda install`. V tom případě kontaktujte učitele.
+
 
 ==== Poznámky
 
 Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
 
+
 ==== Tvorba nového virtuálního prostředí (pro admina) 
 
-* Stáhnout soubor link:spec-file.txt[spec-file.txt] a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
+* Stáhnout soubor link:env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64] a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
 * Virtuální prostředí se vytváří na disku D:
 ** `conda create --prefix D:\env\SVZ --file <cesta k spec-file.txt>`
 

@@ -10,10 +10,9 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 |   1.    | 5. 10. 2018  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní{nbsp}prezentace], 
 🔗{nbsp}xref:files/1/course-tools-introduction#[Návod{nbsp}k{nbsp}nástrojům], 
 📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu], 
-📄{nbsp}link:files/1/spec-file.txt[Soubor{nbsp}se{nbsp}závislostmi] |  2   
+📜{nbsp}link:files/1/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}Notebooku]|  2   
 
-|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}Notebooku],
-📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami], 
+|   2.    | 12. 10. 2018 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami], 
 📜{nbsp}link:files/2/camera-calib.ipynb[Kalibrace{nbsp}kamery],
 📚{nbsp}https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2   
 
@@ -43,12 +42,15 @@ link:files/jupyter-notebook-cheat-sheet.pdf[Jupyter notebook cheatsheet]
 
 
 == Postup pro přidání rozšíření do jupyteru
-Hlavně se jedná o rozšíření Collapse funkcí a RunTools.
+Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
 
 .Spusťte konzoli `Anaconda Prompt` a zadejte:
 [source,cmd]
 activate SVZ
-pip install jupyter_contrib_nbextensions
+pip install jupyter_contrib_nbextensions jupyter_nbextensions_configurator
 jupyter contrib nbextension install --sys-prefix
-pip install jupyter_nbextensions_configurator
 jupyter nbextensions_configurator enable --sys-prefix
+
+Následně je třeba rozšíření aktivovat přímo v Jupyter Notebooku.
+
+image::images/jupyter-nbextensions.png[Vybraná rozšíření jsou označena červeně.]
