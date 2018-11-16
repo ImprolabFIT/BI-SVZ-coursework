@@ -12,7 +12,7 @@ Změna programu vyhrazena.
 | 4.        | 26. 10. 2018 | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]   
 | 5.        | 2. 11. 2018  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
 | 6.        | 9. 11. 2018  | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]               
-| 7.        | 16. 11. 2018 | Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti 
+| 7.        | 16. 11. 2018 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | 8.        | 23. 11. 2018 | Segmentace obrazu - Hranové                                  
 | 9.        | 7. 12. 2018  | Segmentace obrazu - Plošné                                   
 | 10.       | 7. 12. 2018  | Předzpracování obrazu - Morfologie a tvarové charakteristiky 
