@@ -3,7 +3,7 @@
 Změna programu vyhrazena.
 
 .Harmonogram přednášek
-[cols="2,3,10", options="header,footer"]
+[cols="2,2,10", options="header,footer"]
 |=======================
 | Přednáška | Datum      | Téma                                                         
 | 1.        | 5. 10. 2018  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 

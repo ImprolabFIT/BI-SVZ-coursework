@@ -23,11 +23,11 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 |   5.    | 2. 11. 2018  | Perspektiva obrazu                   | 📜{nbsp}link:files/5/perspective-measuring.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  2
 
-|   6.    | 9. 11. 2018  | Klasifikace obrazu, detekce objektů  |     |  2   
+|   6.    | 9. 11. 2018  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/6/perspective-cart-polar-system.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2   
 
 |   7.    | 16. 11. 2018 | Práce s hloubkovou kamerou           |     |  2   
 
-|   8.    | 23. 11. 2018 | Práce s UV kamerami                  |     |  2   
+|   8.    | 23. 11. 2018 | Klasifikace obrazu, detekce objektů  |     |  2   
 
 |   9.    | 30. 11. 2018 | Základy měření s termokamerou        |     |  2   
 
@@ -38,7 +38,8 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 |   12.   | 21. 12. 2018 | 3D skenery                           |     |  2   
 |====
 
-link:files/jupyter-notebook-cheat-sheet.pdf[Jupyter notebook cheatsheet]
+
+📄{nbsp}link:files/jupyter-notebook-cheat-sheet.pdf[Jupyter notebook cheatsheet]
 
 
 == Postup pro přidání rozšíření do jupyteru
