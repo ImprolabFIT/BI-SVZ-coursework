@@ -8,5 +8,6 @@ navigation:
     - media/*
     - README.* 
     - files 
+    - images/*
 repository:
   gitlabPath: /BI-SVZ/bi-svz
