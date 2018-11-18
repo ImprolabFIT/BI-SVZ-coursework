@@ -47,7 +47,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 
 ==== Systém Windows x64
 * Vytvořte prostředí SVZ pomocí link:env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64] takto:
-** `conda create --n SVZ --file <cesta k SVZ-spec-file-win64.txt>`
+** `conda create --name SVZ --file <cesta k SVZ-spec-file-win64.txt>`
 * Aktivujte vytvořené virtuální prostředí
 ** `activate SVZ`
 * Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
