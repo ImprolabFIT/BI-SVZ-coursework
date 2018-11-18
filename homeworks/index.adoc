@@ -26,7 +26,8 @@ Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy ta
 
 == Odevzdání úkolů
 
-Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@brchlluk` a `@novakj67` s rolemi "reporter".
+Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@brchlluk` a `@novakj67` s rolemi "reporter". 
+Následně vytvořte issue a přiřaďte ho na jednoho z nás.
 
 == Etika domácích úkolů
 
