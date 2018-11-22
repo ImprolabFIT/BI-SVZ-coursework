@@ -26,7 +26,7 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 |   6.    | 9. 11. 2018  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/6/perspective-cart-polar-system.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2   
 
-|   7.    | 16. 11. 2018 | Práce s hloubkovou kamerou           |     |  2   
+|   7.    | 16. 11. 2018 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/7/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2   
 
 |   8.    | 23. 11. 2018 | Klasifikace obrazu, detekce objektů  |     |  2   
 
@@ -39,9 +39,9 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 |   12.   | 21. 12. 2018 | 3D skenery                           |     |  2   
 |====
 
+📜{nbsp}link:files/svz.ipynb[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
 
 📄{nbsp}link:files/jupyter-notebook-cheat-sheet.pdf[Jupyter notebook cheatsheet]
-
 
 == Postup pro přidání rozšíření do jupyteru
 Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
