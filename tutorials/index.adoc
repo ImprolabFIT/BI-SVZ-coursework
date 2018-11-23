@@ -43,6 +43,8 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 📄{nbsp}link:files/jupyter-notebook-cheat-sheet.pdf[Jupyter notebook cheatsheet]
 
+🎬{nbsp}link:https://github.com/IntelRealSense/librealsense/releases/download/v2.16.5/Intel.RealSense.Viewer.exe[RealSense Viewer tool]
+
 == Postup pro přidání rozšíření do jupyteru
 Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
 
