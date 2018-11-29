@@ -19,6 +19,15 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 == Důležitá oznámení
 
+[WARNING]
+====
+*Deadline: neděle 2. 12. 2018 v 23:59* 
+
+Blíží se termín odevzdání xref:homeworks/index#_harmonogram-úkolů[Úkolu 2]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#_odevzdání-úkolů[návod]).
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 29. 11. 2018_
+====
+
 [NOTE]
 ====
 *Nabídka bodů aktivity* 
