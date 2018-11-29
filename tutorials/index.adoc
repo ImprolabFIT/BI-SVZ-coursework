@@ -28,7 +28,7 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 |   7.    | 16. 11. 2018 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/7/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2   
 
-|   8.    | 23. 11. 2018 | Klasifikace obrazu, detekce objektů  |     |  2   
+|   8.    | 23. 11. 2018 | Klasifikace obrazu, detekce objektů  | 💾{nbsp}link:https://github.com/matterport/Mask_RCNN[Mask-RCNN{nbsp}github{nbsp}repozitář{nbsp}]    |  2   
 
 |   9.    | 30. 11. 2018 | Základy měření s termokamerou        |     |  2   
 
