@@ -15,7 +15,7 @@ Změna programu vyhrazena.
 | 7.        | 16. 11. 2018 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | 8.        | 23. 11. 2018 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
 | 9.        | 30. 11. 2018 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
-| 10.       | 7. 12. 2018  | Předzpracování obrazu - Morfologie a tvarové charakteristiky 
+| 10.       | 7. 12. 2018  | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
 | 11.       | 14. 12. 2018 | Extrakce příznaků a detekce objektů                          
 | 12.       | 4. 1. 2019   | Zpracování videa                                             
 
