@@ -62,13 +62,12 @@ _mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
 ====
 
 ==== Systém macOS
-[NOTE]
-====
-Nabízím 1 bod aktivity za doplnění instalace na macOS (64bit, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-osx64.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl snad fungovat pro všechny systémy stejný jeden.
-
-_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
-====
-
+* Vytvořte prostředí SVZ pomocí link:env/SVZ-spec-file-darwin.txt[SVZ-spec-file-darwin] takto:
+** `conda create --name SVZ --file <cesta k SVZ-spec-file-darwin.txt>`
+* Aktivujte vytvořené virtuální prostředí
+** `activate SVZ`
+* Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
+** `pip install -r <cesta k SVZ-pip-req.txt>`
 
 === Důležité
 
