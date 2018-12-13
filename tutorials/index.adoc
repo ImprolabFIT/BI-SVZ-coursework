@@ -33,7 +33,7 @@ Změna programu vyhrazena. Aktuálně jsme o 1 týden pozadu (pozn. ze dne 22. 1
 
 |   9.    | 30. 11. 2018 | Základy měření s termokamerou        |   📜{nbsp}link:files/9/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2   
 
-|   10.   | 7. 12. 2018  | Řádkové kamery                       |     |  2   
+|   10.   | 7. 12. 2018  | Řádkové kamery                       | 📜{nbsp}link:files/10/scratches-detection.ipynb[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2   
 
 |   11.   | 14. 12. 2018 | Vysokorychlostní kamery              |     |  2   
 
