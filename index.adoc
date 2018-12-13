@@ -21,6 +21,15 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 [WARNING]
 ====
+*Deadline: neděle 16. 12. 2018 v 23:59* 
+
+Blíží se termín odevzdání xref:homeworks/index#_harmonogram-úkolů[Úkolu 3]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#_odevzdání-úkolů[návod]).
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 13. 12. 2018_
+====
+
+[WARNING]
+====
 *Deadline: neděle 2. 12. 2018 v 23:59* 
 
 Blíží se termín odevzdání xref:homeworks/index#_harmonogram-úkolů[Úkolu 2]. Odevzdávejte přes vlastní repozitář (viz xref:homeworks/index#_odevzdání-úkolů[návod]).
@@ -32,7 +41,7 @@ _mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 29. 11. 2018_
 ====
 *Nabídka bodů aktivity* 
 
-Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/files/1/course-tools-introduction#_systém-linux[Linux] a xref:tutorials/files/1/course-tools-introduction#_systém-macos[macOS].
+Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/files/1/course-tools-introduction#_systém-linux[Linux] [line-through]#a macOS#.
 
 _mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
 ====
