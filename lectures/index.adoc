@@ -16,6 +16,6 @@ Změna programu vyhrazena.
 | 8.        | 23. 11. 2018 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
 | 9.        | 30. 11. 2018 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
 | 10.       | 7. 12. 2018  | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
-| 11.       | 14. 12. 2018 | Extrakce příznaků a detekce objektů                          
+| 11.       | 14. 12. 2018 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]                         
 | 12.       | 4. 1. 2019   | Zpracování videa                                             
 
