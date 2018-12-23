@@ -45,6 +45,6 @@ Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplň
 | Úkol | Zadání     | Deadline   | Téma                                                         | Body   
 | 1.   | 19.10.2018 | 11.11.2018 | 📜{nbsp}link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
 | 2.   | 18.11.2018 | 2.12.2018  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]     | 6 (+2)     
-| 3.   | 2.12.2018 | 16.12.2018 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)      
-| 4.   | TBA        | TBA        | Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery | 8      
+| 3.   | 2.12.2018  | 16.12.2018 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)      
+| 4.   | 23.12.2018 | 6.1.2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8      
 |===
