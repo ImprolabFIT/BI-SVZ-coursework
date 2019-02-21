@@ -7,10 +7,11 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |====
 | Cvičení | Datum | Téma | Soubory | Body 
 
-|   1.    | 22. 2. 2019  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvodní{nbsp}prezentace], 
+|   1.    | 22. 2. 2019  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu], 
 🔗{nbsp}xref:files/1/course-tools-introduction#[Návod{nbsp}k{nbsp}nástrojům], 
-📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu], 
-📜{nbsp}link:files/1/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}Notebooku]|  2   
+📜{nbsp}link:files/1/tools-introduction.ipynb[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
+📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu] 
+|  2   
 
 |   2.    | 1. 3. 2019 | Práce v Jupyter notebooku        | |  2  
 

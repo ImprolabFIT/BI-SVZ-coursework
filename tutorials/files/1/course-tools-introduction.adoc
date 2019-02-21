@@ -5,7 +5,7 @@ Pro práci na cvičení a později i na domácích úkolech budeme využívat n�
 
 * https://www.anaconda.com/[Anaconda] - multiplatformní správce balíčků pro jazyk Python.
 * http://jupyter.org/[Jupyter notebook] - webová aplikace k rychlému prototypování algoritmů v Pythonu.
-* Impro - "krabičková" platforma s algoritmy a rozhraními pro různé druhy kamer.
+* Impro - "krabičková" platforma s algoritmy a rozhranímico pro různé druhy kamer.
 * https://www.baslerweb.com/en/products/software/basler-pylon-camera-software-suite/[Pylon] - software a SDK sloužící pro práci s kamerami od firmy Basler. 
   
 Volba jazyka Python může být pro některé z vás nepochopitelná, zvláště když v bakalářském programu není povinný. Důvod je však prostý - jazyk Python je v tuto chvíli nejvyužívanější pro obory data science a computer vision. Vývoj v Pythonu je rychlý, jednoduchý a velmi efektivní. Existuje velké množství knihoven, návodů a připravených kódů, které v ostatních jazycích nemají obdoby. Navíc, pokud byste se chtěli zpracování obrazu dále věnovat, stejně byste pravděpodobně skončili právě s Pythonem. Ti z vás, kteří budou pokračovat v magisterském programu Znalostního inženýrství, si Pythonem a Jupyter notebooky hojně užijí i později.
