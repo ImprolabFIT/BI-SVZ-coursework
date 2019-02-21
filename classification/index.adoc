@@ -19,7 +19,7 @@
 === Teoretická část
 
 * Pro úspěšné absolvování teoretické části je nutné získat *alespoň 10 bodů* z možných 20.
-* Teoretická část probíhá formou *multichoice testu*. V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou, v ostatních případech ne.
+* Teoretická část probíhá formou *multichoice testu*. V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou (1 bod), v případě zvolení pouze jediné odpovědi špatně, je otázka považována za skoro správně (0,5 bodu), v ostatních případech ne (0 bodů).
 * Za předpokladu splnění minimální hranice, je možné k vylepšení bodového zisku využít *dobrovolného ústního dozkoušení*.
 
 === Praktická část
@@ -34,6 +34,8 @@
 ** 50 bodů ze zkoušky. 
 ** 10 prémiových bodů za aktivitu nad rámec povinností.
 * Výsledná známka je dána bodovým ziskem celkem dle tabulky níže.
+* V případě dosažení necelého počtu bodů se výsledek konečné známky prostě zaokrouhluje.
+
 
 .Bodové hodnocení
 [width="75%", options="header"]

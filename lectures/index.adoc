@@ -1,6 +1,6 @@
 = Přednášky
 
-Změna programu vyhrazena.
+Přednášky jsou ve své aktuální podobě ze zimního semestru (B181). Postupně se budou upravovat, aby splňovaly nároky letního semestru. Změna programu vyhrazena. 
 
 .Harmonogram přednášek
 [cols="2,2,10", options="header,footer"]

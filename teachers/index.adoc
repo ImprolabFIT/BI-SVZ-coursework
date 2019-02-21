@@ -1,12 +1,14 @@
 = Učitelé
 
-* 😏&#160;https://usermap.cvut.cz/profile/f99fa711-d3b6-43ae-9ab9-4c2585994759[Marcel Jiřina]
-* 😃&#160;https://usermap.cvut.cz/profile/f8989a38-a52d-447f-8e35-3549529e5db0[Jakub Novák]
-* 😎&#160;https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl]
-* 😬&#160;https://usermap.cvut.cz/profile/abe7aa56-045f-4a09-80e3-08161e6acad7[Maksym Balatsko]
+* 😏{nbsp}https://usermap.cvut.cz/profile/f99fa711-d3b6-43ae-9ab9-4c2585994759[Marcel Jiřina]
+* 😃{nbsp}https://usermap.cvut.cz/profile/f8989a38-a52d-447f-8e35-3549529e5db0[Jakub Novák]
+* 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný]
+* 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl]
+* 😬{nbsp}https://usermap.cvut.cz/profile/abe7aa56-045f-4a09-80e3-08161e6acad7[Maksym Balatsko]
 
 ---
 
 * Telefon do labu: +420 224 359 737 
 * E-mail: mailto:improlab@fit.cvut.cz[improlab@fit.cvut.cz] 
 * Web: https://improlab.fit.cvut.cz/[improlab.fit.cvut.cz]
+* Místnost labu: A-1256 & A-1258
