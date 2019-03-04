@@ -13,11 +13,10 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu]
 |  2
 
-|   2.    | 1. 3. 2019 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebook] |  2
-
-|   3.    | 8. 3. 2019 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
-📜{nbsp}link:files/2/camera-calib.ipynb[Kalibrace{nbsp}kamery],
+|   2.    | 1. 3. 2019 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebook], 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📚{nbsp}https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
+
+|   3.    | 8. 3. 2019 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/2/camera-calib.ipynb[Kalibrace{nbsp}kamery]|  2
 
 |   4.    | 15. 3. 2019 | Základy segmentace                   | 📜{nbsp}link:files/3/segmentation_and_measuring.ipynb[Základy segmentace] |  2
 
