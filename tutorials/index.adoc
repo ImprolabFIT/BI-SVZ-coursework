@@ -28,16 +28,18 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 |   7.    | 5. 4. 2019  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/7/perspective-cart-polar-system.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2
 
-|   8.    | 12. 4. 2019 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/8/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
+|   -     | 12. 4. 2019 | link:https://fit.cvut.cz/student/studijni/harmonogram/2018/ls[výuka odpadá]          |     | 
 
-|   9.    | 19. 4. 2019 | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
+|   8.    | 19. 4. 2019 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/8/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
+
+|   9.    | 26. 4. 2019 | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
 💾{nbsp}link:https://github.com/matterport/Mask_RCNN[Mask-RCNN{nbsp}github{nbsp}repozitář{nbsp}]    |  2
 
-|   10.    | 26. 4. 2019 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
+|   10.    | 3. 5. 2019 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
 
-|   11.   | 3. 5. 2019  | Řádkové kamery                       | 📜{nbsp}link:files/11/scratches-detection.ipynb[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
+|   11.   | 10. 5. 2019  | Řádkové kamery                       | 📜{nbsp}link:files/11/scratches-detection.ipynb[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
 
-|   12.   | 10. 5. 2019 | Konzultace k praktické zkoušce              |     |  2
+|   12.   | 17. 5. 2019 | Konzultace k praktické zkoušce              |     |  2
 |====
 
 📜{nbsp}Notebook funkcí použitých v SVZ. Bude se postupně zlepšovat s přibývajícími cvičeními.
