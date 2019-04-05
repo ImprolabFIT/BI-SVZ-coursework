@@ -23,8 +23,8 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   5.    | 22. 3. 2019 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/5/segmentation-objects-count.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 📜{nbsp}link:files/5/segmentation-fit-ocr.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2
 
-|   6.    | 29. 3. 2019  | Perspektiva obrazu                   | 📜{nbsp}link:files/6/perspective-measuring.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky],
-📜{nbsp}link:files/6/perspective-measuring-cont.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti]  |  2
+|   6.    | 29. 3. 2019  | Perspektiva obrazu                   | 📜{nbsp}link:files/6/perspective-measuring-length.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
+📜{nbsp}link:files/6/perspective-measuring-height.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]  |  2
 
 |   7.    | 5. 4. 2019  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/7/perspective-cart-polar-system.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2
 
