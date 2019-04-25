@@ -33,6 +33,8 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   -     | 19. 4. 2019 | link:https://fit.cvut.cz/student/studijni/harmonogram/2018/ls[výuka odpadá]          |     | 
 
 |   9.    | 26. 4. 2019 | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
+📜{nbsp}link:files/9/face-detection-description-classification.ipynb[Klasifikace{nbsp}obličeje]
+
 💾{nbsp}link:https://github.com/matterport/Mask_RCNN[Mask-RCNN{nbsp}github{nbsp}repozitář{nbsp}]    |  2
 
 |   10.    | 3. 5. 2019 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
