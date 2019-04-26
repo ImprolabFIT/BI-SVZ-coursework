@@ -26,12 +26,12 @@ Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy ta
 
 == Odevzdání úkolů
 
-Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@zitnyjak` a `@novakj67` s rolemi "reporter". 
+Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@zitnyjak` a `@novakj67` s rolemi "reporter".
 Následně vytvořte issue a přiřaďte ho na jednoho z nás.
 
 == Etika domácích úkolů
 
-Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatně.* Plagiátorství nebude tolerováno. 
+Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatně.* Plagiátorství nebude tolerováno.
 
 Pokud budete využívat části kódů z internetových zdrojů (např. StackOverflow), *uvádějte v kódu odkaz na zdrojové vlákno*. Dále *převzatý kód okomentujte,* ať je vidět, že dané problematice rozumíte.
 
@@ -42,9 +42,9 @@ Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplň
 .Harmonogram úkolů
 [cols="2,3,3,9,^2", options="header"]
 |===
-| Úkol | Zadání     | Deadline   | Téma                                                         | Body   
+| Úkol | Zadání     | Deadline   | Téma                                                         | Body
 | 1.   | 18. 3. 2019 | 28. 3. 2019 | 📜{nbsp}link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
-| 2.   | 29. 3. 2019 | 11. 4. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]     | 6 (+2)     
-| 3.   | 12. 4. 2019  | 25. 4. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)      
-| 4.   | 26. 4. 2019 | 16. 5. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8 (+2)      
+| 2.   | 29. 3. 2019 | 11. 4. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]     | 6 (+2)
+| 3.   | 12. 4. 2019  | 25. 4. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)
+| 4.   | 26. 4. 2019 | 16. 5. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8 (+2)
 |===
