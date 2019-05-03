@@ -46,5 +46,5 @@ Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplň
 | 1.   | 18. 3. 2019 | 28. 3. 2019 | 📜{nbsp}link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
 | 2.   | 29. 3. 2019 | 11. 4. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]     | 6 (+2)     
 | 3.   | 12. 4. 2019  | 25. 4. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)      
-| 4.   | 26. 4. 2019 | 9. 5. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8 (+2)      
+| 4.   | 26. 4. 2019 | 16. 5. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8 (+2)      
 |===
