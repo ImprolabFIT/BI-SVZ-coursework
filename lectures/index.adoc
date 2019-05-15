@@ -18,5 +18,5 @@ Přednášky jsou ve své aktuální podobě ze zimního semestru (B181). Postup
 | 9.        | 26. 4. 2019 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
 | 10.       | 3. 5. 2019  | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
 | 11.       | 10. 5. 2019 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]                         
-| 12.       | 17. 5. 2019   | 📖{nbsp}link:files/bi-svz-12-zpracovani-videa.pdf[Zpracování videa]
+| 12.       | 17. 5. 2019   | 📖{nbsp}link:files/bi-svz-12-zpracovani-videa.pdf[Zpracování videa], link:files/bi-svz-12-zpracovani-videa-podrobnejsi-verze.pdf[Zpracování videa - podrobnější verze]
 
