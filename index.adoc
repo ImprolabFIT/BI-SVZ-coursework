@@ -27,6 +27,13 @@ V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost 
 
 [NOTE]
 ====
+*Termíny zkoušky LS 2019*
+
+V KOSu jsme vypsali termíny na 24.5., 31.5. a 7.6. Od 9:00 je test a od 11:00 praktická část. Je potřeba se zapsat na oba termíny pokud chcete oboje absolvovat v ten samý den.
+
+====
+
+====
 *Nabídka bodů aktivity* 
 
 Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/files/1/course-tools-introduction#_systém-linux[Linux] [line-through]#a macOS#.
