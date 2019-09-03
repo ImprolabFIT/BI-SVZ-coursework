@@ -55,9 +55,9 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ==== Systém Linux
 [NOTE]
 ====
-Nabízím 1 bod aktivity za doplnění instalace na Linux (ubuntu, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-linux-ubuntu.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl snad fungovat pro všechny systémy stejný jeden.
+Nabízím 2 body aktivity za doplnění instalace na Linux (ubuntu, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-linux-ubuntu.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl fungovat pro všechny systémy stejný jeden.
 
-_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 15. 11. 2018_
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 23. 9. 2019_
 ====
 
 ==== Systém macOS
