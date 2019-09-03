@@ -10,23 +10,20 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz xref:../tutorials/files/1/course-tools-introduction#[návod]. Pokud nemáte systém Win x64, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí xref:../tutorials/files/1/spec-file.txt[spec-file] a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz xref:../tutorials/files/1/course-tools-introduction#[návod].
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz xref:../tutorials/files/1/course-tools-introduction#[návod]. Pokud nemáte systém Win x64 nebo MacOS, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí spec-file a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz xref:../tutorials/files/1/course-tools-introduction#[návod].
 
 === Seznam potřebných balíčků k domácím úkolům
-Může být časem aktualizován.
+Je průběžně mezi semestry aktualizován. Jedná se o seznam instalovatelný pomocí nástroje pip.
 
-* opencv
-* numpy
-* scipy
-* matplotlib
+* link:../tutorials/files/1/env/SVZ-pip-req.txt[Seznam balíčků v txt]
 
 == Náležitosti úkolu
 
-Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a zkuste kód udržovat čistý a  čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce by měla mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný, nebude v našich silách k němu poskytnout zpětnou vazbu.
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a zkuste kód udržovat čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce by měla mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný, nebude v našich silách k němu poskytnout zpětnou vazbu.
 
 == Odevzdání úkolů
 
-Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@zitnyjak` a `@novakj67` s rolemi "reporter".
+Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@zitnyjak`, `@brchlluk` a `@novakj67` s rolemi "reporter".
 Následně vytvořte issue a přiřaďte ho na jednoho z nás.
 
 == Etika domácích úkolů
@@ -37,14 +34,30 @@ Pokud budete využívat části kódů z internetových zdrojů (např. StackOve
 
 == Harmonogram úkolů
 
-Harmonogram úkolů je předběžný. V průběhu semestru bude postupně doplňován.
+Harmonogram úkolů je předběžný. V průběhu semestru může být upravován.
 
 .Harmonogram úkolů
 [cols="2,3,3,9,^2", options="header"]
 |===
-| Úkol | Zadání     | Deadline   | Téma                                                         | Body
-| 1.   | 18. 3. 2019 | 28. 3. 2019 | 📜{nbsp}link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků] | 5 (+2)
-| 2.   | 29. 3. 2019 | 11. 4. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]     | 6 (+2)
-| 3.   | 12. 4. 2019  | 25. 4. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]               | 7 (+2)
-| 4.   | 26. 4. 2019 | 16. 5. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]| 8 (+2)
+| Úkol | Zadání     | Deadline   | Téma     | Body
+| 1.   | 18. 10. 2019 | 31. 10. 2019 | 📜{nbsp}
+// link:files/1/1_task.ipynb[
+Měření nejkratší vzdálenosti obdélníků
+// ]
+| 5 (+2)
+| 2.   | 1. 11. 2019 | 14. 11. 2019  | 📜{nbsp}
+// link:files/2/2_task.ipynb[
+Projektivní transformace
+// ]
+| 6 (+2)
+| 3.   | 15. 11. 2019  | 28. 11. 2019 | 📜{nbsp}
+// link:files/3/3_task.ipynb[
+Výpočet BMI s využitím dat hloubkového senzoru
+// ]
+| 7 (+2)
+| 4.   | 29. 11. 2019 | 12. 12. 2019   | 📜{nbsp}
+// link:files/4/4_task.ipynb[
+Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
+// ]
+| 8 (+2)
 |===

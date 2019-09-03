@@ -1,22 +1,21 @@
 = Přednášky
 
-Přednášky jsou ve své aktuální podobě ze zimního semestru (B181). Postupně se budou upravovat, aby splňovaly nároky letního semestru. Změna programu vyhrazena. 
+Přednášky jsou ve své aktuální podobě z letního semestru (B182). Postupně se budou upravovat, aby splňovaly nároky zimního semestru. Změna programu vyhrazena. 
 
 .Harmonogram přednášek
 [cols="2,2,10", options="header,footer"]
 |=======================
 | Přednáška | Datum      | Téma                                                         
-| 1.        | 22. 2. 2019  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
-| 2.        | 1. 3. 2019 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
-| 3.        | 8. 3. 2019 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu] 
-| 4.        | 15. 3. 2019 | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]   
-| 5.        | 22. 3. 2019  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
-| 6.        | 29. 3. 2019  | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]               
-| 7.        | 5. 4. 2019 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
-| 8.        | 12. 4. 2019 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
-| -         | 19. 4. 2019 | link:https://fit.cvut.cz/student/studijni/harmonogram/2018/ls[výuka odpadá]
-| 9.        | 26. 4. 2019 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
-| 10.       | 3. 5. 2019  | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
-| 11.       | 10. 5. 2019 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]                         
-| 12.       | 17. 5. 2019   | 📖{nbsp}link:files/bi-svz-12-zpracovani-videa.pdf[Zpracování videa], link:files/bi-svz-12-zpracovani-videa-podrobnejsi-verze.pdf[Zpracování videa - podrobnější verze]
+| 1.        | 27. 9. 2019  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
+| 2.        | 4. 10. 2019 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
+| 3.        | 11. 10. 2019 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu] 
+| 4.        | 18. 10. 2019 | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]   
+| 5.        | 25. 10. 2019  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
+| 6.        | 1. 11. 2019  | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]               
+| 7.        | 8. 11. 2019 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
+| 8.        | 15. 11. 2019 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
+| 9.        | 22. 11. 2019 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
+| 10.       | 29. 11. 2019  | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
+| 11.       | 6. 12. 2019 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]                         
+| 12.       | 13. 12. 2019   | 📖{nbsp}link:files/bi-svz-12-zpracovani-videa.pdf[Zpracování videa], 📖{nbsp}link:files/bi-svz-12-zpracovani-videa-podrobnejsi-verze.pdf[Zpracování videa - podrobnější verze]
 
