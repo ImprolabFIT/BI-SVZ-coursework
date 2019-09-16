@@ -1,5 +1,9 @@
 = Novinky
 
+== Cvičící
+Aktuálně se přiřazují cvičící k jednotlivým cvičením.
+
+
 == Nabídka bodů aktivity
 :date: 2019-09-16
 
