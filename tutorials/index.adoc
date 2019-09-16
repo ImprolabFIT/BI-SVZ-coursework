@@ -8,13 +8,12 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | Cvičení | Datum | Téma | Soubory | Body
 
 |   1.    | 27. 9. 2019  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
-🔗{nbsp}xref:files/1/course-tools-introduction#[Návod{nbsp}k{nbsp}nástrojům],
 📜{nbsp}link:files/1/tools-introduction.ipynb[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
 📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu]
 |  2
 
 |   2.    | 4. 10. 2019 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
-📚{nbsp}https://github.com/mbalatsko/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
+📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
 
 |   3.    | 11. 10. 2019 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/camera-calib.ipynb[Kalibrace{nbsp}kamery]|  2
 
