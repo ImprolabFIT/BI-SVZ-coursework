@@ -7,12 +7,12 @@ Aktuálně se přiřazují cvičící k jednotlivým cvičením.
 == Nabídka bodů aktivity
 :date: 2019-09-16
 
-Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/files/1/course-tools-introduction#_systém-linux[Linux]. 
+Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/course-tools-introduction#_systém-linux[Linux]. 
 
 
 == Příprava na zimní semestr
 :date: 2019-06-24
 
-Stránky předmětu a materiály procházejí intenzivní přípravou na https://fit.cvut.cz/student/studijni/harmonogram/2019/zs[zimní semestr 2019]. 
+Stránky předmětu a materiály procházejí intenzivní úpravou na https://fit.cvut.cz/student/studijni/harmonogram/2019/zs[zimní semestr 2019]. 
 
 
