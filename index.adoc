@@ -22,17 +22,3 @@ V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost 
 * https://grades.fit.cvut.cz/[Body z předmětu]
 * https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
 * https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
-
-== Důležitá oznámení
-
-[NOTE]
-====
-*Nabídka bodů aktivity* 
-
-Kdo má zájem pomoci při tvorbě návodů, prosíme o doplnění instalace prostředí pro xref:tutorials/files/1/course-tools-introduction#_systém-linux[Linux].
-
-_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 23. 9. 2019_
-====
-
-
-
