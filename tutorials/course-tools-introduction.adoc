@@ -1,4 +1,4 @@
-= Seznámení s nástroji pro kurz BI-SVZ
+= Seznámení s nástroji pro kurz
 :toc:
 
 Pro práci na cvičení a později i na domácích úkolech budeme využívat několik nástrojů. 
@@ -111,11 +111,11 @@ image:images/device_user_id.png[]
 
 === Několik užitečných odkazů
 
-* https://docs.baslerweb.com/=t=en%2Foverview_of_the_pylon_viewer.htm%23bc*1&rhtocid=_3_0_0_0[Přehled softwaru Pylon]
+* https://docs.baslerweb.com/#t=en%2Foverview_of_the_pylon_viewer.htm[Přehled softwaru Pylon]
 ** Obsahuje popis všech ikon z menu a hlavně z toolbaru.
-* https://docs.baslerweb.com/=t=en%2Fopening_and_closing_a_camera.htm[Připojení kamery]
+* https://docs.baslerweb.com/index.htm#t=en%2Fopening_and_closing_a_device.htm[Připojení kamery]
 ** Prakticky se jedná pouze o klik na požadovanou ikonu z toolbaru.
-* https://docs.baslerweb.com/=t=en%2Fconfiguring_a_camera.htm[Základní konfigurace kamery]
+* https://docs.baslerweb.com/#t=en%2Fconfiguring_a_camera.htm[Základní konfigurace kamery]
 ** Ukazuje rychlý postup, jak nastavit pár základních parametrů kamery, jakými jsou Zisk (Gain) nebo Expoziční čas (Exposure Time).
 
 === Nastavení parametrů kamery

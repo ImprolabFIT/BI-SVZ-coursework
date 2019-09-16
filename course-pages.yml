@@ -9,5 +9,6 @@ navigation:
     - README.* 
     - files 
     - images
+    - env
 repository:
   gitlabPath: /BI-SVZ/bi-svz
