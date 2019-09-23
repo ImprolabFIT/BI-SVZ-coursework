@@ -51,7 +51,6 @@ Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
 .Spusťte konzoli `Anaconda Prompt` a zadejte:
 [source,cmd]
 activate SVZ
-pip install jupyter_contrib_nbextensions jupyter_nbextensions_configurator
 jupyter contrib nbextension install --sys-prefix
 jupyter nbextensions_configurator enable --sys-prefix
 
