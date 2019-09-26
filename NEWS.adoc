@@ -2,6 +2,7 @@
 
 == Přednáška od odborníka z praxe
 :date: 2019-10-04
+
 Na druhou přednášku přijal pozvání vedoucí oddělení Factory Automation, Ing. David Veselý z firmy https://pa-ats.com/cz-cz[Process Automation Solutions]. Osobně povede přednášku s názvem *Industry 4.0 - inženýrská praxe*. 
 
 Máme tedy ideální možnost zjistit, jak vypadá implementace automatizace v průmyslu s požadavky na strojové vidění v praxi. 
