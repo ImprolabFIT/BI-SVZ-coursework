@@ -8,6 +8,7 @@
 * 👩{nbsp}https://usermap.cvut.cz/profile/464e4b2f-f6bf-46d8-b5f4-866683ff98ea[Zuzana Jiránková], cvičící
 
 == Odborní hosté
+* ⚙{nbsp}https://pa-ats.com/cz-cz[David Veselý], odborník z praxe, firma Process Automation Solutions
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko]
 * 👱{nbsp}https://usermap.cvut.cz/profile/fef7122b-e367-4c58-8675-88a1238dbbfe[Petr Pulc]
 
