@@ -10,12 +10,12 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz xref:../tutorials/files/1/course-tools-introduction#[návod]. Pokud nemáte systém Win x64 nebo MacOS, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí spec-file a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz xref:../tutorials/files/1/course-tools-introduction#[návod].
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz xref:../tutorials/course-tools-introduction#[návod]. Pokud nemáte systém Win x64 nebo MacOS, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí spec-file a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz xref:../tutorials/course-tools-introduction#[návod].
 
 === Seznam potřebných balíčků k domácím úkolům
 Je průběžně mezi semestry aktualizován. Jedná se o seznam instalovatelný pomocí nástroje pip.
 
-* link:../tutorials/files/1/env/SVZ-pip-req.txt[Seznam balíčků v txt]
+* link:../tutorials/env/SVZ-pip-req.txt[Seznam balíčků v txt]
 
 == Náležitosti úkolu
 
