@@ -15,7 +15,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   2.    | 4. 10. 2019 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
 
-|   3.    | 11. 10. 2019 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/camera-calib.ipynb[Kalibrace{nbsp}kamery]|  2
+|   3.    | 11. 10. 2019 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/lens-defects.ipynb[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]|  2
 
 |   4.    | 18. 10. 2019 | Základy segmentace                   | 📜{nbsp}link:files/4/segmentation_and_measuring.ipynb[Základy segmentace] |  2
 
