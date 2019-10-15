@@ -19,13 +19,13 @@ Repozitář je třeba si tzv. __naklonovat__. Znamená to zkopírovat jeho obsah
 
 Na cvičení preferujeme naklonovat si repozitář na svůj vlastní uživatelský síťový disk `X:`. 
 
-.Otevřete `Git-CMD`, přejděte do svého síťového disku a vytořte složku `_git`:
-[source,cmd]
+Otevřete `Git-CMD`, přejděte do svého síťového disku a vytořte složku `_git`:
+[source]
 X: 
 mkdir _git
 
-.Přejděte do složky `_git` a naklonujte repozitář:
-[source,cmd]
+Přejděte do složky `_git` a naklonujte repozitář:
+[source]
 cd _git
 git clone https://gitlab.fit.cvut.cz/bi-svz/bi-svz.git
 
@@ -33,8 +33,8 @@ git clone https://gitlab.fit.cvut.cz/bi-svz/bi-svz.git
 === Udržování aktuální verze
 Repozitář se může průběžně měnit. Na FITím gitlabu bude vždy aktuální. K udržování aktuální verze repozitáře se využívá příkaz `git pull`. 
 
-.Na začátku cvičení si otevřete `Git-CMD` a stáhněte si aktuální podobu repozitáře:
-[source,cmd]
+Na začátku cvičení si otevřete `Git-CMD` a stáhněte si aktuální podobu repozitáře:
+[source]
 X:
 cd _git\bi-svz
 git pull -X ours
@@ -50,21 +50,21 @@ Poté se po zadání `git pull` vyskytne tzv. __merge conflict__ -- a to nechce�
 
 === Řešení problémů
 V případě využití pouze příkazu `git pull` (bez dalších voleb) se před konfliktem objeví následující hláška: 
-[source,cmd]
+[source]
 error: Your local changes to the following files would be overwritten by merge:
         <cesta k souboru>/soubor.txt
 Please commit your changes or stash them before you merge.
 Aborting
 
-.Rozhodneš se tedy v dobré víře commitovat svoje změny a následně znovu získat verzi repozitáře:
-[source,cmd]
+Rozhodneš se tedy v dobré víře commitovat svoje změny a následně znovu získat verzi repozitáře:
+[source]
 git add .
 git commit -m "Moje změny"
 git pull
 
 Tím se dostaneš do té nejhorší chvíle. Tvoje soubory mají uvnitř sebe *zapsán* merge conflict. To znamená, že uvnitř takových textových souborů existují *obě* varianty verzí. Soubor vypadá nějak následovně:
 
-[source,cmd]
+[source]
 <<<<<<< HEAD
 Chci ještě řádek
 =======
@@ -73,8 +73,8 @@ Další text z gitlabu z webu
 
 Potom už ani `git pull -X ours` nefunguje a musíš __merge conflict__ vyřešit.
 
-.Zachránit ten stav se zachováním svých změn, lze takto:
-[source,cmd]
+Zachránit ten stav se zachováním svých změn, lze takto:
+[source]
 git checkout --ours .
 git add .
 git commit -m "Merge conflict vyřešen mojí verzí souborů"
