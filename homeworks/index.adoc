@@ -42,10 +42,7 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | 18. 10. 2019 | 31. 10. 2019 | 📜{nbsp}link:files/1/1_task.ipynb[Měření nejkratší vzdálenosti obdélníků]
 | 5 (+2)
-| 2.   | 1. 11. 2019 | 14. 11. 2019  | 📜{nbsp}
-// link:files/2/2_task.ipynb[
-Projektivní transformace
-// ]
+| 2.   | 1. 11. 2019 | 14. 11. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]
 | 6 (+2)
 | 3.   | 15. 11. 2019  | 28. 11. 2019 | 📜{nbsp}
 // link:files/3/3_task.ipynb[
