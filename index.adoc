@@ -14,6 +14,7 @@ V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost 
 
 == Odkazy
 
+* https://tiny.cc/improlab_zadani_praci[Zadání prací]
 * xref:lectures/index#[Přednášky]
 * xref:tutorials/index#[Cvičení]
 * xref:homeworks/index#[Domácí úkoly]

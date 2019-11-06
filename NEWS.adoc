@@ -1,5 +1,10 @@
 = Novinky
 
+== Odkaz na zadání prací
+Pro zájemce existuje dokument, který představuje náš lab, nás a možnosti, jak se připojit v rámci své ročníkové práce nebo přímo projektu z praxe.
+
+https://tiny.cc/improlab_zadani_praci
+
 == Přednáška od odborníka z praxe
 :date: 2019-10-04
 
