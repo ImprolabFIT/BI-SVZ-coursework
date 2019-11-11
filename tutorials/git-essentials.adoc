@@ -1,0 +1,83 @@
+= Práce v GITu
+
+Pro pravidelnou práci na cvičeních je třeba osvojit si základy práce ve verzovacím prostředí GIT. Více o verzovacím prostředí a práci s ním se lze dočíst link:https://git-scm.com[zde].
+
+== Repozitář
+Používaný repozitář na předmět BI-SVZ je k dispozici na FITím gitlabu po přihlášení. Veškeré studijní materiály jsou k dispozici zde. 
+
+Jeho adresa je: https://gitlab.fit.cvut.cz/bi-svz/bi-svz
+
+== Práce s repozitářem
+Práci se repozitářem lze rozdělit do několika kategorií podle toho, jak dlouhou dobu s ním již pracuji.
+
+Pro práci s repozitářem lze využít různé programy dle preferencí uživatelů. Na cvičení využíváme obyčejný GIT dostupný z příkazové řádky pomocí zástupce aplikace `Git-CMD` nebo `Git-Bash`. 
+
+Rozdíl mezi aplikacemi je v syntaxi použití dané příkazové řádky. `Git-CMD` je ekvivalent příkazové řádky pro operační systém Windows. `Git-Bash` je ekvivalent konzole pro operační systém Linux.
+
+=== Poprvé
+Repozitář je třeba si tzv. __naklonovat__. Znamená to zkopírovat jeho obsah do vlastní složky na disku. 
+
+Na cvičení preferujeme naklonovat si repozitář na svůj vlastní uživatelský síťový disk `X:`. 
+
+Otevřete `Git-CMD`, přejděte do svého síťového disku a vytořte složku `_git`:
+[source]
+X: 
+mkdir _git
+
+Přejděte do složky `_git` a naklonujte repozitář:
+[source]
+cd _git
+git clone https://gitlab.fit.cvut.cz/bi-svz/bi-svz.git
+
+
+=== Udržování aktuální verze
+Repozitář se může průběžně měnit. Na FITím gitlabu bude vždy aktuální. K udržování aktuální verze repozitáře se využívá příkaz `git pull`. 
+
+Na začátku cvičení si otevřete `Git-CMD` a stáhněte si aktuální podobu repozitáře:
+[source]
+X:
+cd _git\bi-svz
+git pull -X ours
+
+K tomu, aby se předešlo konfliktům, se využívá volba `-X ours`. Znamená to, zachovat svoje změny při konfliktu a zbytek stáhnout. Strategii razí cvičící SVZ viz link:https://stackoverflow.com/questions/10697463/resolve-git-merge-conflicts-in-favor-of-their-changes-during-a-pull/21777677#21777677[téma na Stackoverflow].
+
+
+==== 
+Typický příklad je, když si uživatel na cvičení doplnil jupyter notebook svými údaji a na repozitáři se zpětně v tom samé notebooku něco změnilo (například oprava překlepu). 
+
+Poté se po zadání `git pull` vyskytne tzv. __merge conflict__ -- a to nechceš řešit.
+====
+
+=== Řešení problémů
+V případě využití pouze příkazu `git pull` (bez dalších voleb) se před konfliktem objeví následující hláška: 
+[source]
+error: Your local changes to the following files would be overwritten by merge:
+        <cesta k souboru>/soubor.txt
+Please commit your changes or stash them before you merge.
+Aborting
+
+Rozhodneš se tedy v dobré víře commitovat svoje změny a následně znovu získat verzi repozitáře:
+[source]
+git add .
+git commit -m "Moje změny"
+git pull
+
+Tím se dostaneš do té nejhorší chvíle. Tvoje soubory mají uvnitř sebe *zapsán* merge conflict. To znamená, že uvnitř takových textových souborů existují *obě* varianty verzí. Soubor vypadá nějak následovně:
+
+[source]
+<<<<<<< HEAD
+Chci ještě řádek
+=======
+Další text z gitlabu z webu
+>>>>>>> f96cfb036152cfb5d391000e6834da036190a24a
+
+Potom už ani `git pull -X ours` nefunguje a musíš __merge conflict__ vyřešit.
+
+Zachránit ten stav se zachováním svých změn, lze takto:
+[source]
+git checkout --ours .
+git add .
+git commit -m "Merge conflict vyřešen mojí verzí souborů"
+
+
+Více o tématice __řešení merge konfliktů__ někdy jindy večer, link:https://git-scm.com/docs/git-mergetool[nebo zde] nebo na předmětu link:https://courses.fit.cvut.cz/BI-GIT/[BI-GIT] ;)

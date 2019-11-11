@@ -14,11 +14,13 @@ V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost 
 
 == Odkazy
 
-* xref:lectures/index#[Přednášky]
-* xref:tutorials/index#[Cvičení]
-* xref:homeworks/index#[Domácí úkoly]
-* xref:classification/index#[Získání zápočtu a složení zkoušky]
-* xref:teachers/index#[Učitelé]
-* https://grades.fit.cvut.cz/[Body z předmětu]
-* https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
-* https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
+* 📋 https://tiny.cc/improlab_zadani_praci[Zadání prací]
+* 📚 xref:lectures/index#[Přednášky]
+* 📙 xref:tutorials/index#[Cvičení]
+* 📑 xref:homeworks/index#[Domácí úkoly]
+* 🤸 xref:classification/index#[Získání zápočtu a složení zkoušky]
+* 🎓 xref:teachers/index#[Učitelé]
+* 📈 https://grades.fit.cvut.cz/[Body z předmětu]
+* 👍 https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
+* 📆 https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
+
