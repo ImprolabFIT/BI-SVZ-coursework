@@ -44,10 +44,7 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 | 5 (+2)
 | 2.   | 1. 11. 2019 | 14. 11. 2019  | 📜{nbsp}link:files/2/2_task.ipynb[Projektivní transformace]
 | 6 (+2)
-| 3.   | 15. 11. 2019  | 28. 11. 2019 | 📜{nbsp}
-// link:files/3/3_task.ipynb[
-Výpočet BMI s využitím dat hloubkového senzoru
-// ]
+| 3.   | 15. 11. 2019  | 28. 11. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]
 | 7 (+2)
 | 4.   | 29. 11. 2019 | 12. 12. 2019   | 📜{nbsp}
 // link:files/4/4_task.ipynb[
