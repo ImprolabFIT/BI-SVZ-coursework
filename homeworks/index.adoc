@@ -46,9 +46,6 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 | 6 (+2)
 | 3.   | 15. 11. 2019  | 28. 11. 2019 | 📜{nbsp}link:files/3/3_task.ipynb[Výpočet BMI s využitím dat hloubkového senzoru]
 | 7 (+2)
-| 4.   | 29. 11. 2019 | 12. 12. 2019   | 📜{nbsp}
-// link:files/4/4_task.ipynb[
-Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-// ]
+| 4.   | 29. 11. 2019 | 12. 12. 2019   | 📜{nbsp}link:files/4/4_task.ipynb[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]
 | 8 (+2)
 |===
