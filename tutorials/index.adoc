@@ -29,12 +29,11 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 |   8.    | 15. 11. 2019 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/8/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
 
-|   9.    | 22. 11. 2019 | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
+|   9.    | 22. 11. 2019 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
+
+|   10.    | 29. 11. 2019  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
 📜{nbsp}link:files/9/face-detection-description-classification.ipynb[Klasifikace{nbsp}obličeje]
-
 💾{nbsp}link:https://github.com/matterport/Mask_RCNN[Mask-RCNN{nbsp}github{nbsp}repozitář{nbsp}]    |  2
-
-|   10.    | 29. 11. 2019 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
 
 |   11.   | 6. 12. 2019  | Řádkové kamery                       | 📜{nbsp}link:files/11/scratches-detection.ipynb[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
 
