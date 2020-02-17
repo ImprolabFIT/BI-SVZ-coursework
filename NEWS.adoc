@@ -1,5 +1,10 @@
 = Novinky
 
+== Termíny zkoušek ZS 2019
+Byly vypsány termíny zkoušky jak teoretické, tak praktické části v KOSu. Na zkoušku se prosím hlaste jen potom, co máte nárok na zápočet. Kdyby někdo nárok neměl a přišel, automaticky sáhneme po zapsaném náhradníkovi.
+
+Veškeré info viz xref:classification/index#[Získání zápočtu a složení zkoušky]
+
 == Odkaz na zadání prací
 Pro zájemce existuje dokument, který představuje náš lab, nás a možnosti, jak se připojit v rámci své ročníkové práce nebo přímo projektu z praxe.
 
