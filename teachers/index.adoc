@@ -5,7 +5,7 @@
 * 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl], přednášející, cvičící
 * 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
 * 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
-* ☺{nbsp}Vojtěch Cahlík, cvičící
+* 🙂{nbsp}Vojtěch Cahlík, cvičící
 
 == Odborní hosté
 * 🎥{nbsp}https://pa-ats.com/cz-cz[Jaroslav Semerák], https://pa-ats.com/cz-cz[Adam Šolc], odborníci z praxe, firma Vitesco Technologies Czech Republic
