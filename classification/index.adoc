@@ -20,20 +20,37 @@
 === Teoretická část
 
 * Pro úspěšné absolvování teoretické části je nutné získat *alespoň 10 bodů* z možných 20.
-* Teoretická část probíhá formou *multichoice testu*. V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou (1 bod), v případě zvolení pouze jediné odpovědi špatně, je otázka považována za skoro správně (0,5 bodu), v ostatních případech ne (0 bodů).
-* Za předpokladu splnění minimální hranice, je možné k vylepšení bodového zisku využít *dobrovolného ústního dozkoušení*.
+* Teoretická část probíhá formou *multichoice testu*. 
+** V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou (+ 1 bod).
+** V případě zvolení pouze jediné odpovědi špatně, je otázka považována za skoro správně (+ 0,5 bodu).
+** V případě zodpovězení všech odpovědí špatně je otázka považována za hrubou neznalost (- 1 bod).
+** V ostatních případech je otázka považována za nezodpovězenou (0 bodů).
+
 
 === Praktická část
 
 * Pro úspěšné absolvování praktické části je nutné získat *alespoň 15 bodů* z možných 30.
-* Praktická část se bude skládat z vypracování úlohy podobného formátu, jako jsou příklady na cvičení.
+* Praktická část se skládá ze samostatného vypracování úlohy podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semetru.
+
+
+== Ústní gamble
+* Pro vylepšení bodového zisku je možné *dobrovolně* absolvovat tzv. "ústní gamble" formou *ústního dozkoušení*.
+* Podmínkou účasti je *úspěšné absolvování* závěrečné zkoušky.
+* Podmínkou účasti je *minimální zisk 1 prémiového bodu* za aktivitu během semestru.
+* Svou účastí student *potvrzuje*, že se s okamžitou platností *dobrovolně vzdává všech* svých prémiových bodů aktivity.
+* Student je ústně zkoušen a je mu pokládána *1 otázka za každý 1 bod aktivity*, kterého se svou účastí dobrovolně vzdal. (Není vyloučeno, že otázka se může skládat z více podotázek.)
+* Každá otázka může být zodpovězena buď správně (+ 1 bod) nebo špatně (0 bodů).
+* Pokud student odpoví na nějakou otázku *špatně*, ústní gamble *okamžitě končí* a již mu nejsou pokládány další otázky (i když by na ně podle původního počtu bodů aktivity měl mít nárok).
+* Na konci je *počet získaných bodů* z ústního dozkoušení *vynásoben dvěma*.
+
 
 == Celkové hodnocení
 
-* Celkově je možné získat v součtu až *110 bodů*.
+* Celkově je možné získat v součtu až *120 bodů*.
 ** 50 bodů za cvičení a domácí úkoly.
 ** 50 bodů ze zkoušky. 
 ** 10 prémiových bodů za aktivitu nad rámec povinností.
+** 10 bodů získaných absolvováním ústního gamblu.
 * Výsledná známka je dána bodovým ziskem celkem dle tabulky níže.
 * V případě dosažení necelého počtu bodů se výsledek konečné známky prostě zaokrouhluje.
 

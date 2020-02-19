@@ -57,7 +57,9 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ====
 Nabízím 2 body aktivity za doplnění instalace na Linux (ubuntu, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-linux-ubuntu.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl fungovat pro všechny systémy stejný jeden.
 
-_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 23. 9. 2019_
+Aktuálně prosíme o otestování instalace prostředí pro Linux Ubuntu. Jeho instalaci najdete na GITu v repu BI-SVZ v separátní větvi __linux-env-spec-file__.
+
+_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 19. 2. 2020_
 ====
 
 ==== Systém macOS
@@ -111,11 +113,11 @@ image:images/device_user_id.png[]
 
 === Několik užitečných odkazů
 
-* https://docs.baslerweb.com/#t=en%2Foverview_of_the_pylon_viewer.htm[Přehled softwaru Pylon]
+* https://docs.baslerweb.com/overview-of-the-pylon-viewer.html[Přehled softwaru Pylon]
 ** Obsahuje popis všech ikon z menu a hlavně z toolbaru.
-* https://docs.baslerweb.com/index.htm#t=en%2Fopening_and_closing_a_device.htm[Připojení kamery]
+* https://docs.baslerweb.com/opening-and-closing-a-device.html[Připojení kamery]
 ** Prakticky se jedná pouze o klik na požadovanou ikonu z toolbaru.
-* https://docs.baslerweb.com/#t=en%2Fconfiguring_a_camera.htm[Základní konfigurace kamery]
+* https://docs.baslerweb.com/configuring-a-camera.html[Základní konfigurace kamery]
 ** Ukazuje rychlý postup, jak nastavit pár základních parametrů kamery, jakými jsou Zisk (Gain) nebo Expoziční čas (Exposure Time).
 
 === Nastavení parametrů kamery
