@@ -1,0 +1,6 @@
+= Novinky
+
+== Nabídka bodů aktivity
+:date: 2020-02-18
+
+Kdo má zájem pomoci při tvorbě návodů, prosíme o otestování instalace prostředí pro xref:tutorials/course-tools-introduction#_systém-linux[Linux]. Konkrétně se jedná o Ubuntu. Jeho instalaci najdete na GITu v repu BI-SVZ v separátní větvi __linux-env-spec-file__.
