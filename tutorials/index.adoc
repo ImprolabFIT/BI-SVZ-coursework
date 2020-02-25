@@ -8,39 +8,39 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | Cvičení | Datum | Téma | Soubory | Body
 
 |   1.    | 21. 2. 2020  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
-📜{nbsp}link:files/1/tools-introduction.ipynb[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
-📜{nbsp}link:files/1/python-introduction.ipynb[Úvod{nbsp}do{nbsp}Pythonu]
+📜{nbsp}link:files/1/tools-introduction.html[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
+📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu]
 |  2
 
-|   2.    | 28. 2. 2020 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.ipynb[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.ipynb[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
+|   2.    | 28. 2. 2020 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
 
-|   3.    | 6. 3. 2020 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/lens-defects.ipynb[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]|  2
+|   3.    | 6. 3. 2020 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]|  2
 
-|   4.    | 13. 3. 2020 | Základy segmentace                   | 📜{nbsp}link:files/4/segmentation_and_measuring.ipynb[Základy segmentace] |  2
+|   4.    | 13. 3. 2020 | Základy segmentace                   | 📜{nbsp}link:files/4/segmentation_and_measuring.html[Základy segmentace] |  2
 
-|   5.    | 20. 3. 2020 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/5/segmentation-objects-count.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-📜{nbsp}link:files/5/segmentation-fit-ocr.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2
+|   5.    | 20. 3. 2020 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
+📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2
 
-|   6.   | 12. 5. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/11/scratches-detection.ipynb[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
+|   6.   | 12. 5. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/11/scratches-detection.html[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
 
-|   7.    | 27. 3. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/6/perspective-measuring-length.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
-📜{nbsp}link:files/6/perspective-measuring-height.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]  |  2
+|   7.    | 27. 3. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
+📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]  |  2
 
-|   8.    | 3. 4. 2020  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/7/perspective-cart-polar-system.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2
+|   8.    | 3. 4. 2020  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2
 
-|   9.    | 17. 4. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/8/depth-collisions.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
+|   9.    | 17. 4. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/8/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
 
-|   10.    | 30. 4. 2020  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.ipynb[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
-📜{nbsp}link:files/9/face-detection-description-classification.ipynb[Klasifikace{nbsp}obličeje]
+|   10.    | 30. 4. 2020  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/9/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
+📜{nbsp}link:files/9/face-detection-description-classification.html[Klasifikace{nbsp}obličeje]
 💾{nbsp}link:https://github.com/matterport/Mask_RCNN[Mask-RCNN{nbsp}github{nbsp}repozitář{nbsp}]    |  2
 
-|   11.    | 24. 4. 2020 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
+|   11.    | 24. 4. 2020 | Základy měření s termokamerou        |   📜{nbsp}link:files/10/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] |  2
 
 |   12.   | 15. 5. 2020 | Konzultace k praktické zkoušce              |     |  2
 |====
 
-📜{nbsp}link:files/svz.ipynb[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
+📜{nbsp}link:files/svz.html[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
 
 == Postup pro přidání rozšíření do jupyteru
 Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
