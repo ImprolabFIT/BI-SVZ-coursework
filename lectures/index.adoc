@@ -9,9 +9,9 @@ Přednášky jsou ve své aktuální podobě ze zimního semestru (B182). Postup
 | 1.        | 21. 2. 2020  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
 | 2.        | 28. 2. 2020 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
 | 3.        | 6. 3. 2020 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]
-| 4.        | 13. 3. 2020 | 🎥{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  
-| 5.        | 20. 3. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]       
-| 6.        | 27. 3. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]                               
+| 4.        | 13. 3. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]       
+| 5.        | 20. 3. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    
+| 6.        | 27. 3. 2020 | 🎥{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  
 | 7.        | 3. 4. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]        
 | 8.        | 17. 4. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | 9.        | 24. 4. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
