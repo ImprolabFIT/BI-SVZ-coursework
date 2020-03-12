@@ -15,7 +15,7 @@ https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libwinpthread-git-5.0.0.4634.6
 https://repo.anaconda.com/pkgs/main/win-64/mkl-2018.0.3-1.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/vc-14.1-h0510ff6_3.tar.bz2
 https://repo.anaconda.com/pkgs/main/win-64/icu-58.2-ha66f8fd_1.tar.bz2
-https://conda.anaconda.org/conda-forge/win-64/jpeg-9c-hfa6e2cd_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/jpeg-9c-hfa6e2cd_1001.tar.bz2
 https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-gcc-libs-core-5.3.0-7.tar.bz2
 https://conda.anaconda.org/conda-forge/win-64/openssl-1.0.2o-hfa6e2cd_1.tar.bz2
 https://conda.anaconda.org/conda-forge/win-64/sqlite-3.24.0-hb652765_0.tar.bz2
