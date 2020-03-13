@@ -1,5 +1,8 @@
 = Novinky
 
+== Online výuka během časů koronaviru
+Kanál MS Teams našeho předmětu je dostupný https://teams.microsoft.com/l/team/19%3a207727ff9019487a99e0b65b9e6857b8%40thread.tacv2/conversations?groupId=4c128b6f-3716-422f-85d3-88b3ef581a65&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE]. Veškeré aktuální info k výuce je tam také.
+
 == Přednáška od odborníka z praxe
 :date: 2020-03-13
 
