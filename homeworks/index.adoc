@@ -41,9 +41,9 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | 13. 3. 2020 | 26. 3. 2020 | 📜{nbsp}
-//link:files/1/1_task.ipynb[
+link:files/1/1_task.ipynb[
 Měření nejkratší vzdálenosti obdélníků
-//]
+]
 | 5 (+2)
 | 2.   | 27. 3. 2020 | 16. 4. 2020  | 📜{nbsp}
 //link:files/2/2_task.ipynb[
