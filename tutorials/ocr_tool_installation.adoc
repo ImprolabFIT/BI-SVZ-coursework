@@ -27,6 +27,17 @@ Pro instalaci na Ubuntu stačí v konzoli využít klasický příkaz `apt-get`.
 [source]
 sudo apt-get install tesseract-ocr
 
+Pro funkční OCR pomocí tesseract je ještě třeba mít na počítači natrénovaná data pro čtení znaků specifických jazyků. Že je tesseract má k dispozici lze ověřit příkazem:
+
+[source]
+tesseract --list-langs
+
+Pokud příkaz nic nevypíše, lze manuálně stáhnout data třeba pro angličtinu nebo češtinu, případně pro oba jazyky. Pro Ubuntu lze použít příkazy:
+
+[source]
+sudo apt-get install tesseract-ocr-eng
+sudo apt-get install tesseract-ocr-ces
+
 ==== Windows
 Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z githubu https://github.com/UB-Mannheim/tesseract/wiki[UB Mannheim]. Aktuálně (17. 3. 2020) nejnovější je dostupná verze 5.0.0 alpha.
 
