@@ -1,0 +1,50 @@
+= Instalace nástroje pro OCR
+
+Pro strojové čtení znaků v obrazu (tzv. OCR = optical character recognition) je zapotřebí nějaký nástroj, který to již umí. V praxi jsou k dispozici dvě možnosti -- https://github.com/tesseract-ocr/tesseract[Tesseract OCR] nebo https://cloud.google.com/vision/docs/ocr[Google Cloud Vision API].
+
+Rozdíl mezi nástroji je markantní. Google Cloud Vision API funguje lépe, je postaven na moderních metodách hlubokých neuronových sítí, ale je dostupný pouze online přes API a po zařízení si účtu na Cloud Vision. 
+
+Na druhou stranu Tesseract OCR je open-source, funguje offline, ale potřebuje lepší předzpracování obrazu pro správné fungování OCR. 
+
+Zvolte si dle preferencí, na cvičení se využívá Tesseract OCR.
+
+== Tesseract OCR
+Tesseract OCR pro využití offline na PC se skládá z nástroje/knihovny v C++ (tesseract-ocr) a wrapperu pro použití v Pythonu (pytesseract). Nástroj ve skutečnosti funguje v konzoli a wrapper pro python umožňuje přidávat jak vstupní nastavení, tak vyčítat výstupy automaticky do python kódu.
+
+
+=== Instalace
+Instalace je převzata z odkazu https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/[zde], přeložena, upravena a rozšířena o vše potřebné pro Windows. Podrobnější instalaci včetně i dalších operačních systémů lze nalézt https://tesseract-ocr.github.io/tessdoc/Home.html[zde].
+
+==== macOS
+Pro instalaci na macu využijeme nástroj https://brew.sh/index_cs[Homebrew] pro instalaci chybějících balíků.
+
+[source]
+brew install tesseract
+
+==== Linux
+Pro instalaci na Ubuntu stačí v konzoli využít klasický příkaz `apt-get`.
+
+[source]
+sudo apt-get install tesseract-ocr
+
+==== Windows
+Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z githubu https://github.com/UB-Mannheim/tesseract/wiki[UB Mannheim]. Aktuálně (17. 3. 2020) nejnovější je dostupná verze 5.0.0 alpha.
+
+* Stáhnout si instalátor https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200223.exe[ZDE].
+* Nainstalovat dle instrukcí. 
+** Doporučuji přidat možnost češtiny.
+** Zaškrtnout `Czech` v `Additional language data (download)` 
+* Zapamatovat si adresu instalace (např. C:\Program Files\Tesseract-OCR)
+* Přidat odkaz na složku s tesseractem do Proměnných prostředí windows (environmental variables).
+** Ukázka přidání pomocí link:images/promenne_prostredi.gif[gifu].
+* Restartovat počítač (možná není nutný).
+* Vyzkoušet jestli tesseract funguje v konzoli.
+** Spustit konzoli `cmd`.
+** Napsat příkaz `tesseract -v`
+
+=== Použití
+Pokud máte správně fungující prostředí SVZ (viz xref:course-tools-introduction#_postup-doma[Úvod do práce s nástroji]), je možné Tesseract OCR použít v pythonu v jupyter notebooku. 
+
+Vyzkoušejte metodu `ocr()` z notebooku link:files/svz.html[svz.ipynb].
+
+Složitější použití nástroje je vysvětleno v dokumentaci https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc[zde].
