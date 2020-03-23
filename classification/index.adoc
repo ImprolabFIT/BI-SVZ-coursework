@@ -14,7 +14,7 @@
 
 * K závěrečné zkoušce je možné přístoupit *pouze se získaným zápočtem*.
 * Závěrečná zkouška se skládá z *dvou povinných částí*. Bez úspěšného složení teoretické zkoušky nelze přístoupit ke zkoušce praktické.
-* Z obou částí zkoušky je nutné získat více bodů, než je minimální hranice.
+* Z obou částí zkoušky je nutné získat *alespoň* tolik bodů, kolik je minimální hranice.
 * Obě části zkoušky je možné absolvovat v ten samý den, pokud bude splněno výše zmíněné.
 
 === Teoretická část
@@ -35,13 +35,16 @@
 
 == Ústní gamble
 * Pro vylepšení bodového zisku je možné *dobrovolně* absolvovat tzv. "ústní gamble" formou *ústního dozkoušení*.
-* Podmínkou účasti je *úspěšné absolvování* závěrečné zkoušky.
-* Podmínkou účasti je *minimální zisk 1 prémiového bodu* za aktivitu během semestru.
-* Svou účastí student *potvrzuje*, že se s okamžitou platností *dobrovolně vzdává všech* svých prémiových bodů aktivity.
-* Student je ústně zkoušen a je mu pokládána *1 otázka za každý 1 bod aktivity*, kterého se svou účastí dobrovolně vzdal. (Není vyloučeno, že otázka se může skládat z více podotázek.)
-* Každá otázka může být zodpovězena buď správně (+ 1 bod) nebo špatně (0 bodů).
-* Pokud student odpoví na nějakou otázku *špatně*, ústní gamble *okamžitě končí* a již mu nejsou pokládány další otázky (i když by na ně podle původního počtu bodů aktivity měl mít nárok).
-* Na konci je *počet získaných bodů* z ústního dozkoušení *vynásoben dvěma*.
+* Tímto způsobem je možné až *zdvojnásobit* množství *bodů aktivity* získaných během semestru.
+
+* Algoritmus:
+** Podmínkou účasti je *úspěšné absolvování* závěrečné zkoušky.
+** Podmínkou účasti je *minimální zisk 1 prémiového bodu* za aktivitu během semestru.
+** Svou účastí student *potvrzuje*, že se s okamžitou platností *dobrovolně vzdává všech* svých prémiových bodů aktivity.
+** Student je ústně zkoušen a je mu pokládána *1 otázka za každý 1 bod aktivity*, kterého se svou účastí dobrovolně vzdal. (Není vyloučeno, že otázka se může skládat z více podotázek.)
+** Každá otázka může být zodpovězena buď správně (+ 1 bod) nebo špatně (0 bodů).
+** Pokud student odpoví na nějakou otázku *špatně*, ústní gamble *okamžitě končí* a již mu nejsou pokládány další otázky (i když by na ně podle původního počtu bodů aktivity měl mít nárok).
+** Na konci je *počet získaných bodů* z ústního dozkoušení *vynásoben dvěma*.
 
 
 == Celkové hodnocení
