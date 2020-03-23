@@ -22,12 +22,12 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   5.    | 20. 3. 2020 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2
 
-|   6.   | 27. 3. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/6/scratches-detection.html[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
+|   6.   | 27. 3. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/7/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
+📜{nbsp}link:files/7/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  2
 
-|   7.    | 3. 4. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/7/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
-📜{nbsp}link:files/7/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]  |  2
+|   7.    | 3. 4. 2020  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  |  2
 
-|   8.    | 17. 4. 2020  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]    |  2
+|   8.    | 17. 4. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/6/scratches-detection.html[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
 
 |   9.    | 30. 4. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]    |  2
 
