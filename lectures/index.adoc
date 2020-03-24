@@ -19,3 +19,4 @@ Přednášky jsou ve své aktuální podobě ze zimního semestru (B182). Postup
 | 11.       | 12. 5. 2020 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
 | 12.       | 15. 5. 2020   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] 
 |
+|=======================
