@@ -25,7 +25,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   6.   | 27. 3. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/7/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/7/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  2
 
-|   7.    | 3. 4. 2020  | Pespektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  |  2
+|   7.    | 3. 4. 2020  | Perspektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  |  2
 
 |   8.    | 17. 4. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/6/scratches-detection.html[Detekce{nbsp}škrábanců{nbsp}na{nbsp}skle]    |  2
 
