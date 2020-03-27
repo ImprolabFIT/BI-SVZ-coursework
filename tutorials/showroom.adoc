@@ -4,6 +4,8 @@ Sekce odkazuje na ukázky zdrojových kódů podrobněji vysvětlující algorit
 
 Uveřejnění ukázky studenta si zaslouží *body aktivity*.
 
+Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce `tutorials\showroom`.
+
 == Ukázky
 * xref:showroom/adaptive_thresholding/ada.html[Adaptivní prahování] (`@novakj67`)
 ** Cílem ukázky je ukázat práci algoritmu pro adaptivní prahování pomocí Gaussova jádra.
