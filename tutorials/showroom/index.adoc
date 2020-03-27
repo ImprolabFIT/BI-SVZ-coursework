@@ -1,0 +1,9 @@
+= Showroom
+
+Sekce odkazuje na ukázky zdrojových kódů podrobněji vysvětlující algoritmy nebo principy strojového vidění a zpracování obrazu.
+
+Uveřejnění ukázky studenta si zaslouží *body aktivity*.
+
+== Ukázky
+* xref:adaptive_thresholding/ada.html[Adaptivní prahování] (`@novakj67`)
+** Cílem ukázky je ukázat práci algoritmu pro adaptivní prahování pomocí Gaussova jádra.
