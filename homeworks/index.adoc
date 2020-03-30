@@ -46,9 +46,9 @@ Měření nejkratší vzdálenosti obdélníků
 ]
 | 5 (+2)
 | 2.   | 27. 3. 2020 | 16. 4. 2020  | 📜{nbsp}
-//link:files/2/2_task.html[
+link:files/2/2_task.html[
 Projektivní transformace
-//]
+]
 | 6 (+2)
 | 3.   | 17. 4. 2020  | 29. 4. 2020 | 📜{nbsp}
 //link:files/3/3_task.html[
