@@ -10,6 +10,6 @@ navigation:
     - files 
     - images
     - env
-    - showroom/*.jpg
+    - tutorials/showroom/**/*.jpg
 repository:
   gitlabPath: /BI-SVZ/bi-svz
