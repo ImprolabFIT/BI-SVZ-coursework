@@ -3,7 +3,7 @@
 Přednášky jsou ve své aktuální podobě ze zimního semestru (B182). Postupně se budou upravovat, aby splňovaly nároky letního semestru. Změna programu vyhrazena. 
 
 .Harmonogram přednášek
-[cols="2,2,10", options="header,footer", %hardbreaks]
+[cols="2,2,10", options="header,footer"]
 |=======================
 | Přednáška | Datum      | Téma                                                         
 | 1.        | 21. 2. 2020  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
