@@ -51,9 +51,9 @@ Projektivní transformace
 ]
 | 6 (+2)
 | 3.   | 17. 4. 2020  | 29. 4. 2020 | 📜{nbsp}
-//link:files/3/3_task.html[
+link:files/3/3_task.html[
 Výpočet BMI s využitím dat hloubkového senzoru
-//]
+]
 | 7 (+2)
 | 4.   | 30. 4. 2020 | 14. 5. 2020   | 📜{nbsp}
 //link:files/4/4_task.html[
