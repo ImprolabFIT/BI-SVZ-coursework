@@ -16,7 +16,7 @@ Přednášky jsou ve své aktuální podobě ze zimního semestru (B182). Postup
 | 8.        | 17. 4. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] +
 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 | 9.        | 24. 4. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
-| 10.       | 30. 4. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Plošné]
+| 10.       | 30. 4. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
 | 11.       | 12. 5. 2020 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
 | 12.       | 15. 5. 2020   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] 
 |
