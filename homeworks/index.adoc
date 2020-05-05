@@ -55,9 +55,9 @@ link:files/3/3_task.html[
 Výpočet BMI s využitím dat hloubkového senzoru
 ]
 | 7 (+2)
-| 4.   | 30. 4. 2020 | 14. 5. 2020   | 📜{nbsp}
-//link:files/4/4_task.html[
+| 4.   | 5. 5. 2020 | 20. 5. 2020   | 📜{nbsp}
+link:files/4/4_task.html[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-//]
+]
 | 8 (+2)
 |===
