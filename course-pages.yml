@@ -11,5 +11,6 @@ navigation:
     - images
     - env
     - tutorials/showroom/**/*.jpg
+    - tutorials/showroom/**/*.png
 repository:
   gitlabPath: /BI-SVZ/bi-svz
