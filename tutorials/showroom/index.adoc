@@ -9,3 +9,6 @@ Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce
 == Ukázky
 * xref:adaptive_thresholding/index.html[Adaptivní prahování] (`@novakj67`)
 ** Cílem ukázky je ukázat práci algoritmu pro adaptivní prahování pomocí Gaussova jádra.
+
+* xref:histogram_of_orineted_gradients/index.html[Histogram orientovaných gradientů (HoG)] (`@masekda4`)
+** Cílem ukázky je ukázat práci algoritmu pro HoG pro zisk příznaků pro úlohu klasifikace.
