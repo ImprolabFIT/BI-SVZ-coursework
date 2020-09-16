@@ -2,6 +2,8 @@
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://www..cz/[ZDE] (funkční nejpozději 21. 9. 2020).
+
 == Anotace
 
 Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
@@ -11,6 +13,17 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit. 
 
 V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena.
+
+== Aktuální forma výuky
+V zimním semestru 2020/21 je aktuální forma výuky následující:
+
+* Přednášky
+** Kontaktní výuka v učebně.
+** Streamovaná zároveň online.
+** Dostupný záznam.
+* Cvičení
+** Kontaktní výuka v laboratoři.
+
 
 == Odkazy
 
