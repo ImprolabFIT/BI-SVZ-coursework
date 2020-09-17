@@ -19,8 +19,8 @@ V zimním semestru 2020/21 je aktuální forma výuky následující:
 
 * Přednášky
 ** Kontaktní výuka v učebně.
-** Streamovaná zároveň online.
-** Dostupný záznam.
+** Streamovaná zároveň online přes MS Teams.
+** Dostupný záznam na MS Teams.
 * Cvičení
 ** Kontaktní výuka v laboratoři.
 
