@@ -44,31 +44,17 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.7).
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
 
-==== Systém Windows x64
-* Vytvořte prostředí SVZ pomocí link:env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64] takto:
-** `conda create --name SVZ --file <cesta k SVZ-spec-file-win64.txt>`
+* Zvolte správný spec-file pro váš operační systém
+** Windows 10 (x64): link:env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64]
+** Linux Ubuntu (x64): link:env/SVZ-spec-file-linux-ubuntu.txt[SVZ-spec-file-linux-ubuntu]
+** macOS (x64): link:env/SVZ-spec-file-darwin.txt[SVZ-spec-file-darwin]
+* Vytvořte prostředí SVZ pomocí spec-file  takto:
+** `conda create --name SVZ --file <cesta k SVZ-spec-file-XXX.txt>`
 * Aktivujte vytvořené virtuální prostředí
 ** `activate SVZ`
 * Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
 ** `pip install -r <cesta k SVZ-pip-req.txt>`
 
-==== Systém Linux
-[NOTE]
-====
-Nabízím 2 body aktivity za doplnění instalace na Linux (ubuntu, popř. jiné chtěné). Včetně vytvoření souboru `SVZ-spec-file-linux-ubuntu.txt` (viz https://conda.io/docs/user-guide/tasks/manage-environments.html#building-identical-conda-environments[návod]). Soubor `SVZ-pip-req.txt` by měl fungovat pro všechny systémy stejný jeden.
-
-Aktuálně prosíme o otestování instalace prostředí pro Linux Ubuntu. Jeho instalaci najdete na GITu v repu BI-SVZ v separátní větvi __linux-env-spec-file__.
-
-_mailto:jakub.novak@fit.cvut.cz[Jakub Novák], 19. 2. 2020_
-====
-
-==== Systém macOS
-* Vytvořte prostředí SVZ pomocí link:env/SVZ-spec-file-darwin.txt[SVZ-spec-file-darwin] takto:
-** `conda create --name SVZ --file <cesta k SVZ-spec-file-darwin.txt>`
-* Aktivujte vytvořené virtuální prostředí
-** `activate SVZ`
-* Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
-** `pip install -r <cesta k SVZ-pip-req.txt>`
 
 === Důležité
 
@@ -93,7 +79,7 @@ Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, v
 
 == Přípojení a správa kamer v Pylonu 
 
-Pylon Viewer je software, SDK a zároveň i soubor ovladačů pro připojení a práci s průmyslovými kamerami Basler. Oficiální manuál je k dispozici https://docs.baslerweb.com/=t=en%2Fpylon_camera_software_suite.htm%23bc-1&rhtocid=_3_0[ZDE]. 
+Pylon Viewer je software, SDK a zároveň i soubor ovladačů pro připojení a práci s průmyslovými kamerami Basler. Oficiální manuál je k dispozici https://docs.baslerweb.com/pylon-camera-software-suite[ZDE]. 
 
 === Základ
 

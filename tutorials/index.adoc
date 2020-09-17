@@ -1,6 +1,6 @@
 = Cvičení
 
-Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat letnímu semestru.
+Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat zimnímu semestru.
 
 .Harmonogram cvičení
 [width=100%, cols="^1,2,5,5,^1", options="header"]
@@ -43,14 +43,12 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 📜{nbsp}link:files/svz.html[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
 
 == Postup pro přidání rozšíření do jupyteru
-Hlavně se jedná o rozšíření Codefolding, Codefolding in Editor a RunTools.
+Jedná se o následující rozšíření:
 
-.Spusťte konzoli `Anaconda Prompt` a zadejte:
-[source,cmd]
-activate SVZ
-jupyter contrib nbextension install --sys-prefix
-jupyter nbextensions_configurator enable --sys-prefix
+* Codefolding
+* Codefolding in Editor
+* RunTools
 
-Následně je třeba rozšíření aktivovat přímo v Jupyter Notebooku.
+Rozšíření je třeba aktivovat přímo v Jupyter Notebooku po jeho spuštění.
 
 image::images/jupyter-nbextensions.png[Vybraná rozšíření jsou označena červeně.]
