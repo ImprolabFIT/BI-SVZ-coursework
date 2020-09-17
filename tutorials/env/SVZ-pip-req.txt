@@ -3,9 +3,6 @@ jupyter_contrib_nbextensions==0.5.1
 jupyter_nbextensions_configurator==0.4.1
 opencv_python==4.1.1.26
 matplotlib==3.1.1
-pypylon==1.4.0
-Pillow==6.1.0
-pypylon-opencv-viewer==1.1.0
 pytesseract==0.3.0
+Pillow==6.1.0
 scikit_image==0.15.0
-pyrealsense2==2.28.1.1111
