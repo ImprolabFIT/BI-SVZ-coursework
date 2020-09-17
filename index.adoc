@@ -4,17 +4,17 @@
 
 Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://www..cz/[ZDE] (funkční nejpozději 21. 9. 2020).
 
-== Anotace
+== 🔖 Anotace
 
 Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
 
-== Prerekvizity
+== ❕ Prerekvizity
 
 Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit. 
 
 V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena.
 
-== Aktuální forma výuky
+== 🦠 Aktuální forma výuky
 V zimním semestru 2020/21 je aktuální forma výuky následující:
 
 * Přednášky
@@ -25,7 +25,7 @@ V zimním semestru 2020/21 je aktuální forma výuky následující:
 ** Kontaktní výuka v laboratoři.
 
 
-== Odkazy
+== 🔗 Odkazy
 
 * 📋 https://tiny.cc/improlab_zadani_praci[Zadání prací]
 * 📚 xref:lectures/index#[Přednášky]

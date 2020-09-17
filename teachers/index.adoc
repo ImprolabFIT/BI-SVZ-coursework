@@ -5,12 +5,15 @@
 * 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl], přednášející, cvičící
 * 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
 * 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
-* 🙂{nbsp}Vojtěch Cahlík, cvičící
+* 🙄{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Petr Kasalický], cvičící
+* 👩{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Zuzana Jiránková], cvičící
+* 👦{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Matěj Latka], cvičící
+* 🧑{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[David Mašek], cvičící
+* 👩‍🦱{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Tomáš Koranda], cvičící
 
 == Odborní hosté
-* 🎥{nbsp}https://pa-ats.com/cz-cz[Jaroslav Semerák], https://pa-ats.com/cz-cz[Adam Šolc], odborníci z praxe, firma Vitesco Technologies Czech Republic
+* 🎥{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko]
-* 👱{nbsp}https://usermap.cvut.cz/profile/fef7122b-e367-4c58-8675-88a1238dbbfe[Petr Pulc]
 
 ---
 
