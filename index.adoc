@@ -2,11 +2,13 @@
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://www..cz/[ZDE] (funkční nejpozději 21. 9. 2020).
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://teams.microsoft.com/l/team/19%3a3622ece2bb18465d836a376fb762db28%40thread.tacv2/conversations?groupId=163d4d97-a6e7-4288-b9f3-830b74d177a0&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE] (funkční nejpozději 21. 9. 2020).
+
 
 == 🔖 Anotace
 
 Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
+
 
 == ❗ Prerekvizity
 
@@ -14,15 +16,21 @@ Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popř
 
 V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena.
 
+
 == 🦠 Aktuální forma výuky
+
 V zimním semestru 2020/21 je aktuální forma výuky následující:
 
 * Přednášky
-** Kontaktní výuka v učebně.
-** Streamovaná zároveň online přes MS Teams.
+** Online přes MS Teams.
 ** Dostupný záznam na MS Teams.
 * Cvičení
-** Kontaktní výuka v laboratoři.
+** Online přes MS Teams.
+** Dostupný záznam na MS Teams.
+* Cvičební paralelky
+** Obě paralelky cvičení budou během *online spojeny*.
+** Vznikne tím čas více se věnovat každému cvičení.
+** Čas: *14:30 - 16:30* (podle potřeby se třeba ještě trochu prodlouží).
 
 
 == 🔗 Odkazy
@@ -31,6 +39,7 @@ V zimním semestru 2020/21 je aktuální forma výuky následující:
 * 📚 xref:lectures/index#[Přednášky]
 * 📙 xref:tutorials/index#[Cvičení]
 * 📑 xref:homeworks/index#[Domácí úkoly]
+* 📅 xref:calendar#[Kalendář výuky]
 * 🤸 xref:classification/index#[Získání zápočtu a složení zkoušky]
 * 🎓 xref:teachers/index#[Učitelé]
 * 📈 https://grades.fit.cvut.cz/[Body z předmětu]

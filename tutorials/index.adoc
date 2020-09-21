@@ -42,6 +42,11 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 📜{nbsp}link:files/svz.html[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
 
+== Online záznamy
+TBA
+
+---
+
 == Postup pro přidání rozšíření do jupyteru
 Jedná se o následující rozšíření:
 

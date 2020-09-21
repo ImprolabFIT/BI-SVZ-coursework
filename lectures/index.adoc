@@ -26,3 +26,4 @@ Přednášky jsou ve své aktuální podobě z letního semestru (B192). Postupn
 * 📖{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
 
 == Online záznamy
+TBA
