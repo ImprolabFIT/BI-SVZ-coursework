@@ -12,7 +12,7 @@
 * 👩‍🦱{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
 
 == Odborní hosté
-* 🎥{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
+* 🤖{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko]
 
 ---
