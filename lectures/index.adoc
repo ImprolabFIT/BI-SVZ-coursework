@@ -3,27 +3,24 @@
 Přednášky jsou ve své aktuální podobě z letního semestru (B192). Postupně se budou upravovat, aby splňovaly nároky zimního semestru. Změna programu vyhrazena. 
 
 .Harmonogram přednášek
-[cols="2,2,10", options="header,footer"]
+[cols="2,2,10,^1", options="header,footer"]
 |=======================
-| Přednáška | Datum      | Téma                                                         
-| 1.        | 24. 9. 2020  | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 
-| 2.        | 1. 10. 2020 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 
-| 3.        | 8. 10. 2020 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]
-| 4.        | 15. 10. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]       
-| 5.        | 22. 10. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    
-| 6.        | 29. 10. 2020 | 🎥{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  
-| 7.        | 5. 11. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]        
-| 8.        | 12. 11. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
-| 9.        | 26. 11. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
-| 10.       | 3. 12. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
-| 11.       | 10. 12. 2020 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] 
-| 12.       | 17. 12. 2020   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] 
+| Přednáška | Datum      | Téma | 🎥                                                         
+| 1.        | 24. 9. 2020 | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] | 📼 
+| 2.        | 1. 10. 2020 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] | 📼 
+| 3.        | 8. 10. 2020 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]| 📼 
+| 4.        | 15. 10. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | 📼       
+| 5.        | 22. 10. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | 📼 
+| 6.        | 29. 10. 2020 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | 📼 
+| 7.        | 5. 11. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | 📼    
+| 8.        | 12. 11. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] | 📼 
+| 9.        | 26. 11. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] | 📼 
+| 10.       | 3. 12. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | 📼 
+| 11.       | 10. 12. 2020 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | 📼 
+| 12.       | 17. 12. 2020   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] | 📼 
 |
 |=======================
 
 == Další doplňující materiály
 * 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 * 📖{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
-
-== Online záznamy
-TBA

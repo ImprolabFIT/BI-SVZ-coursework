@@ -3,47 +3,44 @@
 Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat zimnímu semestru.
 
 .Harmonogram cvičení
-[width=100%, cols="^1,2,5,5,^1", options="header"]
+[width=100%, cols="^1,2,5,5,^1,^1", options="header"]
 |====
-| Cvičení | Datum | Téma | Soubory | Body
+| # | Datum | Téma | Soubory | 🎥 | Body
 
 |   1.    | 24. 9. 2020  | Úvodní cvičení, seznámení s nástroji | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
 📜{nbsp}link:files/1/tools-introduction.html[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
 📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu]
-|  2
+| 📼 | 2
 
 |   2.    | 1. 10. 2020 | Práce v Jupyter notebooku        |  📜{nbsp}link:files/2/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
-📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  2
+📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]|  | 2
 
-|   3.    | 8. 10. 2020 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]|  2
+|   3.    | 8. 10. 2020 | Vady optiky, kalibrace kamery        | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]|  | 2
 
-|   4.    | 15. 10. 2020 | Základy segmentace                   | 📜{nbsp}link:files/4/segmentation_and_measuring.html[Základy segmentace] |  2
+|   4.    | 15. 10. 2020 | Základy segmentace                   | 📜{nbsp}link:files/4/segmentation_and_measuring.html[Základy segmentace] |  | 2
 
 |   5.    | 22. 10. 2020 | Pokročilejší  techniky segmentace    | 📜{nbsp}link:files/5/segmentation-objects-count_online.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-📜{nbsp}link:files/5/segmentation-fit-ocr_online.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  2
+📜{nbsp}link:files/5/segmentation-fit-ocr_online.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] |  | 2
 
 |   6.   | 29. 10. 2020  | Perspektiva obrazu                   | 📜{nbsp}link:files/7/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
-📜{nbsp}link:files/7/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  2
+📜{nbsp}link:files/7/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    |  | 2
 
-|   7.    | 5. 11. 2020  | Perspektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system_online.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  |  2
+|   7.    | 5. 11. 2020  | Perspektiva obrazu, 360° objektivy  | 📜{nbsp}link:files/8/perspective-cart-polar-system_online.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  |  | 2
 
-|   8.    | 12. 11. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/6/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace], 📜{nbsp}link:files/6/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}QR{nbsp}kódů]    |  2
+|   8.    | 12. 11. 2020  | Řádkové kamery                       | 📜{nbsp}link:files/6/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace], 📜{nbsp}link:files/6/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}QR{nbsp}kódů]    |  | 2
 
-|   9.    | 26. 11. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí], 📜{nbsp}link:files/9/depth-measurements_online.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]    |  2
+|   9.    | 26. 11. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí], 📜{nbsp}link:files/9/depth-measurements_online.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]    |  | 2
 
 |   10.    | 3. 12. 2020  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
 📜{nbsp}link:files/10/face-detection-description-classification.html[Klasifikace{nbsp}obličeje]
-💾{nbsp}link:https://colab.research.google.com/drive/1sk_o6f-1hLSsJordNHL5nzMGtHqt_3u0[Základy{nbsp}Kerasu{nbsp}v{nbsp}Colabu], 𝔻{nbsp}link:https://beta.deepnote.com/project/2cec202d-137b-4048-bf95-c8d2197a3a7c[Notebooky{nbsp}v{nbsp}Deepnote]   |  2
+💾{nbsp}link:https://colab.research.google.com/drive/1sk_o6f-1hLSsJordNHL5nzMGtHqt_3u0[Základy{nbsp}Kerasu{nbsp}v{nbsp}Colabu], 𝔻{nbsp}link:https://beta.deepnote.com/project/2cec202d-137b-4048-bf95-c8d2197a3a7c[Notebooky{nbsp}v{nbsp}Deepnote]   |  | 2
 
-|   11.    | 10. 12. 2020 | Základy měření s termokamerou        |   📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery], 𝔻{nbsp}link:https://beta.deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176[Notebook{nbsp}v{nbsp}Deepnote]|  2
+|   11.    | 10. 12. 2020 | Základy měření s termokamerou        |   📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery], 𝔻{nbsp}link:https://beta.deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176[Notebook{nbsp}v{nbsp}Deepnote]|  | 2
 
-|   12.   | 17. 12. 2020 | Konzultace k praktické zkoušce              |     |  2
+|   12.   | 17. 12. 2020 | Konzultace k praktické zkoušce              |     |  | 2
 |====
 
 📜{nbsp}link:files/svz.html[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
-
-== Online záznamy
-TBA
 
 ---
 
