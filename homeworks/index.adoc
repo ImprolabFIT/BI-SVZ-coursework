@@ -23,7 +23,7 @@ Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy ta
 
 == Odevzdání úkolů
 
-Úkoly odevzdávejte na FIT Gitlab. Vytvořte si privátní repozitář a přidejte do něj uživatele `@zitnyjak`, `@brchlluk`, `@malecada`, `@cahlivoj` a `@novakj67` s rolemi "reporter".
+Úkoly odevzdávejte na FIT Gitlab. Vytvořte si *privátní repozitář* a přidejte do něj uživatele `@zitnyjak`, `@brchlluk`, `@malecada`, `@kasalpe1` a `@novakj67` s rolemi "reporter".
 Následně *vytvořte issue* a přiřaďte ho na jednoho z nás.
 
 == Etika domácích úkolů
@@ -41,23 +41,23 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | 15. 10. 2020 | 28. 10. 2020 | 📜{nbsp}
-link:files/1/1_task.html[
+//link:files/1/1_task.html[
 Měření nejkratší vzdálenosti obdélníků
-]
+//]
 | 5 (+2)
 | 2.   | 29. 10. 2020 | 11. 11. 2020  | 📜{nbsp}
-link:files/2/2_task.html[
+//link:files/2/2_task.html[
 Projektivní transformace
-]
+//]
 | 6 (+2)
 | 3.   | 12. 11. 2020  | 25. 11. 2020 | 📜{nbsp}
-link:files/3/3_task.html[
+//link:files/3/3_task.html[
 Výpočet BMI s využitím dat hloubkového senzoru
-]
+//]
 | 7 (+2)
 | 4.   | 26. 11. 2020 | 9. 12. 2020   | 📜{nbsp}
-link:files/4/4_task.html[
+//link:files/4/4_task.html[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-]
+//]
 | 8 (+2)
 |===
