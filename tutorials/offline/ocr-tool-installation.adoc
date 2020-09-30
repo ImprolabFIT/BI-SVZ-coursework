@@ -54,8 +54,8 @@ Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z
 ** Napsat příkaz `tesseract -v`
 
 === Použití
-Pokud máte správně fungující prostředí SVZ (viz xref:course-tools-introduction#_postup-doma[Úvod do práce s nástroji]), je možné Tesseract OCR použít v pythonu v jupyter notebooku. 
+Pokud máte správně fungující prostředí SVZ (viz xref:tools-introduction#_postup-doma[Úvod do práce s nástroji]), je možné Tesseract OCR použít v pythonu v jupyter notebooku. 
 
-Vyzkoušejte metodu `ocr()` z notebooku link:files/svz.html[svz.ipynb].
+Vyzkoušejte metodu `ocr()` z notebooku link:../files/svz.html[svz.ipynb].
 
 Složitější použití nástroje je vysvětleno v dokumentaci https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc[zde].
