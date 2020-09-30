@@ -10,21 +10,17 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. Jupyter notebooky. Na domácím PC tedy doporučujeme nainstalovat multiplatformní Anacondu pro správu Python balíčku a vytvořit si virtuální prostředí viz xref:../tutorials/course-tools-introduction#[návod]. Pokud nemáte systém Win x64 nebo MacOS, tak se vám pravděpodobně nepodaří vytvořit prostředí pomocí spec-file a budete muset balíčky nainstalovat ručně. Balíčky se instalují příkazem `conda install` viz xref:../tutorials/course-tools-introduction#[návod].
-
-=== Seznam potřebných balíčků k domácím úkolům
-Je průběžně mezi semestry aktualizován. Jedná se o seznam instalovatelný pomocí nástroje pip.
-
-* link:../tutorials/env/SVZ-pip-req.txt[Seznam balíčků v txt]
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter notebooky. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme nástroj Deepnote. 
 
 == Náležitosti úkolu
 
-Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a zkuste kód udržovat čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce by měla mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný, nebude v našich silách k němu poskytnout zpětnou vazbu.
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a zkuste kód udržovat čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extermních případech může být i nehodnotitelný.
 
 == Odevzdání úkolů
 
-Úkoly odevzdávejte na FIT Gitlab. Vytvořte si *privátní repozitář* a přidejte do něj uživatele `@zitnyjak`, `@brchlluk`, `@malecada`, `@kasalpe1` a `@novakj67` s rolemi "reporter".
-Následně *vytvořte issue* a přiřaďte ho na jednoho z nás.
+Úkoly budete odevzdávat na FIT Gitlab. Konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions]. Pro každý úkol v daném repozitáři vytvořte tzv. Confidential issue viz screen níže. Díky označení flagem Confidential, nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného. 
+
+Do každého issue vložte odkaz na vypracovaný úkol v nástroji Deepnote a zkontrolujte si, že do něj maji všichni cvičící přístup. Kromě toho můžete v popisu ještě uvést jakékoliv jiné detaily, které by nám měly pomoct v hodnocení. Každý odevzdaný úkol vhodně pojmenujte a to ve formátu: "__username__ - Homework __číslo-úkolu__"
 
 == Etika domácích úkolů
 

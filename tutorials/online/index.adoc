@@ -1,0 +1,5 @@
+= Cvičení v online formě
+
+Vzledem k aktuálním opatřením je možné, že část kurzu BI-SVZ bude probíhat čistě online způsobem. Z tohoto důvodu jsme si připravili alternativní verzi kurzu, která nepočítá s tím, že byste navštěvovali naší laboratoř, kde máme připravené softwarové prostředí a hardwarové vybavením. Pro všechna cvičení a domácí úkoly v dálkové podobě bychom si měli vystačit s nástrojem link:deepnote-introduction.adoc[Deepnote].
+
+
