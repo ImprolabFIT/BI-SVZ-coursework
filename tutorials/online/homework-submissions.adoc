@@ -1,0 +1,4 @@
+= Odevzdávání vypracovaých cvičení v online formě
+
+
+Deepnote je online kolaborativní nástroj určený pro data mining. Umožňuje uživatelům spouštět Jupyter notebooky v online prostředí na virtuálním stroji bez toho, aby si cokoliv instalovali na svůj lokální počítač. Hlavní výhodou pro náš kurz je, že není nutné rozcházet vlastní prostředí v Pythonu, které by vám zabíralo několik GB na disku. Zároveň se vyhneme i problémům s nekompatibilitama knihoven a operačních systémů, neboť vše vždy běží na identickém stroji, který po jeho spuštění instaluje všechny potřebné knihovny na novo.

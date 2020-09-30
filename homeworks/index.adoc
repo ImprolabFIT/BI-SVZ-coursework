@@ -18,9 +18,9 @@ Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy ta
 
 == Odevzdání úkolů
 
-Úkoly budete odevzdávat na FIT Gitlab. Konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions]. Pro každý úkol v daném repozitáři vytvořte tzv. Confidential issue viz screen níže. Díky označení flagem Confidential, nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného. 
+Úkoly budete odevzdávat na FIT GitLab. Konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions]. Pro každý úkol v daném repozitáři vytvořte tzv. Confidential issue viz screen níže. Díky označení flagem Confidential, nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného. 
 
-Do každého issue vložte odkaz na vypracovaný úkol v nástroji Deepnote a zkontrolujte si, že do něj maji všichni cvičící přístup. Kromě toho můžete v popisu ještě uvést jakékoliv jiné detaily, které by nám měly pomoct v hodnocení. Každý odevzdaný úkol vhodně pojmenujte a to ve formátu: "__username__ - Homework __číslo-úkolu__"
+Do každého issue vložte odkaz na vypracovaný úkol v nástroji Deepnote a zkontrolujte si, že do něj maji všichni cvičící přístup. Kromě toho můžete v popisu ještě uvést jakékoliv jiné detaily, které by nám měly pomoct v hodnocení. Každý odevzdaný úkol vhodně pojmenujte a to ve formátu: ``__username__ - Homework __číslo-úkolu__``
 
 == Etika domácích úkolů
 
