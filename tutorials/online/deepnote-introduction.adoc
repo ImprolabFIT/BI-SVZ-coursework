@@ -41,20 +41,20 @@ Občas se může stát, že se v notebooku něco zasekne, nefunguje apod. V př�
 
 == Práce v noteboocích
 
-Po nastartování a inciailizaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně CTRL + SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby poznáte tak, že je vlevo dole označena zeleným checkmarkem. 
+Po nastartování a inciailizaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby, poznáte tak, že je vlevo dole označena zeleným checkmarkem. 
 
 Pro efektivnější práci v notebooku se doporučuje využívat klávesové zkratky. Jejich seznam naleznete v nápovědě s ikonou vlevo dole. 
 
 == Instalace dodatečných knihoven
 
-Pokud by se náhodou stalo, že připravený projekt neobsahuje knihovnu, kterou potřebujete nebo byste rádi využili. Je možné tuto knihovnu ručně doinstalovat. Jedním ze způsobů je spustit příkaz
+Pokud by se náhodou stalo, že připravený projekt neobsahuje knihovnu, kterou potřebujete nebo byste rádi využili, je možné tuto knihovnu ručně doinstalovat. Jedním ze způsobů je spustit příkaz
 ``!pip install __název-knihovny__`` v libovolné buňce notebooku. Elegantnější řešení je však úprava souboru **requirements.txt**, díky kterému jsou závislosti nainstalovány po každém spuštění virtuálního stroje daného projektu. Po úpravě tohoto souboru je tedy nutné restartovat virtuální stroj v záložce **Environment**.
 
 == Troubleshooting
 V této sekci je seznam nejčastějších problémů a jejich možné řešení. Před jakýmkoliv troubleshootingem se však doporučuje restartovat notebook nebo virtuální stroj, aby bylo možné jako první vyloučit rozbitý workspace. V případě, že body níže nevyřeší váš problém, nebojte se kontaktovat své cvičící.
 
 === ModuleNotFoundError: No module named 'XYZ'
-Pro všechny projekty (domácí úkoly a cvičení) byste měli mít od cvičících připravený soubor **requirements.txt**, který pokrývá všechny potřebné závislost pro danou úlohu. Nemělo by se tedy stát, že vám bude nějaká knihovna chybět. Nejpravděpodobnější příčina tedy je, že jste spustili nějakou z buněk dříve, než stihl doběhnout inizializační skript **init.ipynb**, který je automaticky spuštěn po nastartování virtuálního stroje. Díky tomu se jednotlivé knihovny  nestihly stáhnout/nainstalovat a prostředí tak není v korektním stavu. 
+Pro všechny projekty (domácí úkoly a cvičení) byste měli mít od cvičících připravený soubor **requirements.txt**, který pokrývá všechny potřebné závislost pro danou úlohu. Nemělo by se tedy stát, že vám bude nějaká knihovna chybět. Nejpravděpodobnější příčina tedy je, že jste spustili nějakou z buněk dříve, než stihl doběhnout inicializační skript **init.ipynb**, který je automaticky spuštěn po nastartování virtuálního stroje. Díky tomu se jednotlivé knihovny  nestihly stáhnout/nainstalovat a prostředí tak není v korektním stavu. 
 
 Chyba se také projevuje tím, že ve stavové liště máte místo stavu *Ready* stav **Initialization failed**. Řešením je restartovat virtuální stroj a počkat na doběhnutí init.ipynb skriptu.
 
