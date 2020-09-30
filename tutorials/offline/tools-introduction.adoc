@@ -1,4 +1,4 @@
-== Virtuální prostředí pro práci v Pythonu
+= Virtuální prostředí pro práci v Pythonu
 
 V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu či Macu jsou však také popsány. 
 
@@ -6,7 +6,7 @@ K naší práci budeme potřebovat několik balíčku, které je potřeba nainst
 
 Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde], detaily k instalaci balíčků https://conda.io/docs/user-guide/tasks/manage-pkgs.html[zde].
 
-=== Postup na cvičení
+== Postup na cvičení
 
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda.
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
@@ -20,7 +20,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 * Pokud stále něco nepůjde, kontaktujte učitele :)
 
 
-=== Postup doma
+== Postup doma
 
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.7).
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
@@ -37,7 +37,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ** `pip install -r <cesta k SVZ-pip-req.txt>`
 
 
-=== Důležité
+== Důležité
 
 * Před každým cvičením/úkolem je nutné zkontrolovat zda nepracujete ve výchozím prostředí (base). Přepnutí do prostředí SVZ:
 ** `conda activate SVZ`
@@ -47,12 +47,12 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ** Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musí se daný balíček doinstalovat pomocí `conda install`. V tom případě kontaktujte učitele.
 
 
-==== Poznámky
+=== Poznámky
 
 Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
 
 
-==== Tvorba nového virtuálního prostředí (pro admina) 
+=== Tvorba nového virtuálního prostředí (pro admina) 
 
 * Stáhnout soubor link:../env/SVZ-spec-file-win64.txt[SVZ-spec-file-win64] a vytvořit virtuální prostředí s balíčky nutnými pro tento kurz. 
 * Virtuální prostředí se vytváří na disku D:
