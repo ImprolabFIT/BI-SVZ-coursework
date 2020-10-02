@@ -13,7 +13,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | link:https://web.microsoftstream.com/video/1d0609d9-fcc1-4e0e-b7e5-b0fce3287c4f[📼] | 2
 
 |   2.    | 1. 10. 2020 | Práce v Jupyter notebooku        |  𝔻{nbsp}link:https://deepnote.com/project/5c5bb43a-acac-4c26-bfc1-d10d44cf30a2[Úvod{nbsp}do{nbsp}Deepnote], 📜{nbsp}link:files/2/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
-📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]| 📼 | 2
+📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]| link:https://web.microsoftstream.com/video/d0a993fa-1ba6-4128-b464-5fecc67a5244[📼] | 2
 
 |   3.    | 8. 10. 2020 | Vady optiky, kalibrace kamery        | 𝔻{nbsp}Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery| 📼 | 2
 
