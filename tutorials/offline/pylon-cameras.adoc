@@ -1,4 +1,4 @@
-= Přípojení a správa kamer v Pylonu 
+= Kamery v Pylonu 
 
 Pylon Viewer je software, SDK a zároveň i soubor ovladačů pro připojení a práci s průmyslovými kamerami Basler. Oficiální manuál je k dispozici https://docs.baslerweb.com/pylon-camera-software-suite[ZDE]. 
 

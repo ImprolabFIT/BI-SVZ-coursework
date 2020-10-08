@@ -1,4 +1,4 @@
-= Virtuální prostředí pro práci v Pythonu
+= Virtuální prostředí
 
 V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu či Macu jsou však také popsány. 
 
