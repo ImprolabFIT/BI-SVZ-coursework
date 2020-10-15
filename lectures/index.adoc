@@ -9,7 +9,7 @@ Přednášky jsou ve své aktuální podobě z letního semestru (B192). Postupn
 | 1.        | 24. 9. 2020 | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] | link:https://web.microsoftstream.com/video/dd6d3777-99ab-442c-8837-7845226f894e[📼] 
 | 2.        | 1. 10. 2020 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] | link:https://web.microsoftstream.com/video/f48bd71b-a454-49f6-bd5b-76d37ba101f9[📼] 
 | 3.        | 8. 10. 2020 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]| link:https://web.microsoftstream.com/video/5ebdcd87-2b46-43d6-92bd-bbc6d781e80a[📼] 
-| 4.        | 15. 10. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | 📼       
+| 4.        | 15. 10. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://web.microsoftstream.com/video/d95610c3-f584-4f66-a458-894a98c2a375[📼]       
 | 5.        | 22. 10. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | 📼 
 | 6.        | 29. 10. 2020 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | 📼 
 | 7.        | 5. 11. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | 📼    
