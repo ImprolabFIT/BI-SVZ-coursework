@@ -17,7 +17,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 |   3.    | 8. 10. 2020 | Vady optiky, kalibrace kamery        | 𝔻{nbsp}link:https://deepnote.com/project/4d7f5e16-d3b3-4dc7-94da-87dd77be0196[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]| link:https://web.microsoftstream.com/video/dca152cc-8d24-45d8-9d9a-134c1e798716[📼] | 2
 
-|   4.    | 15. 10. 2020 | Základy segmentace                   | 𝔻{nbsp}link:https://deepnote.com/project/0b9808dd-9e7b-4fc6-939b-e7bbeadb924c[Základy segmentace] | 📼 | 2
+|   4.    | 15. 10. 2020 | Základy segmentace                   | 𝔻{nbsp}link:https://deepnote.com/project/0b9808dd-9e7b-4fc6-939b-e7bbeadb924c[Základy segmentace] | link:https://web.microsoftstream.com/video/d20763c4-dd06-4555-a353-0f4fcccfb1b3[📼] | 2
 
 |   5.    | 22. 10. 2020 | Pokročilejší  techniky segmentace    | 𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-objects-count_online.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-fit-ocr_online.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] | 📼 | 2
