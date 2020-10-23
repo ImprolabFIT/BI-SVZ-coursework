@@ -20,7 +20,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   4.    | 15. 10. 2020 | Základy segmentace                   | 𝔻{nbsp}link:https://deepnote.com/project/0b9808dd-9e7b-4fc6-939b-e7bbeadb924c[Základy segmentace] | link:https://web.microsoftstream.com/video/d20763c4-dd06-4555-a353-0f4fcccfb1b3[📼] | 2
 
 |   5.    | 22. 10. 2020 | Pokročilejší  techniky segmentace    | 𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-objects-count_online.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-fit-ocr_online.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] | 📼 | 2
+𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-fit-ocr_online.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] | link:https://web.microsoftstream.com/video/443e8f28-b6e5-4c1e-af7b-6fc9dad5a95d[📼] | 2
 
 |   6.   | 29. 10. 2020  | Perspektiva obrazu                   | 𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-length.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-height.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    | 📼 | 2
