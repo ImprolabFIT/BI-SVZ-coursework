@@ -11,7 +11,7 @@ Přednášky jsou ve své aktuální podobě z letního semestru (B192). Postupn
 | 3.        | 8. 10. 2020 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]| link:https://web.microsoftstream.com/video/5ebdcd87-2b46-43d6-92bd-bbc6d781e80a[📼] 
 | 4.        | 15. 10. 2020  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://web.microsoftstream.com/video/d95610c3-f584-4f66-a458-894a98c2a375[📼]       
 | 5.        | 22. 10. 2020  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | link:https://web.microsoftstream.com/video/1993e661-2110-4f25-9caa-e0f90543a2f3[📼] 
-| 6.        | 29. 10. 2020 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | 📼 
+| 6.        | 29. 10. 2020 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | link:https://web.microsoftstream.com/video/92731079-e603-47f5-bfca-c6ad9607d24b[📼] 
 | 7.        | 5. 11. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | 📼    
 | 8.        | 12. 11. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] | 📼 
 | 9.        | 26. 11. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] | 📼 
