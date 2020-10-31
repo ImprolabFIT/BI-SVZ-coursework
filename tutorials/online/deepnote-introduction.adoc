@@ -5,8 +5,7 @@ Deepnote je online kolaborativní nástroj určený pro data mining. Umožňuje 
 Deepnote je nyní stále ve fázi intenzivního vývoje. Může se tedy stát, že objevíte nějaký bug nebo se nějaká funkcionalita nebude chovat plně korektně. Zároveň jsou na roadmapě další funkcionality, které nám pak usnadní práci na našich projektech a to verzování notebooků a code reviews.
 
 == Registrace a přihlášení
-
-Vzhledem k faktu, že Deepnote je nyní ve stavu Closed beta, je možné se do něj přihlásit pouze za pomocí Invite linku. Svou registraci tedy proveďte pod https://deepnote.com/join-team?token=5ee2cb4e12414b5[tímto odkazem] a použijte přihlášení přes Google svým FIT účtem ve tvaru __username@fit.cvut.cz__.
+Svou registraci proveďte pod https://deepnote.com/join-team?token=5ee2cb4e12414b5[tímto odkazem] a použijte přihlášení přes Google svým FIT účtem ve tvaru __username@fit.cvut.cz__.
 
 image::images/Screen_Deepnote_Login.png[width=350, align="center"]
 
