@@ -1,0 +1,34 @@
+= Balíček improutils
+
+Pro jednoduší vypracování cvičení a domácích úkolů jsme se rozhodli vytvořit improutils - balíček s usnadňujícími a užitečnými funkcemi týkající se zpracování obrazu (dříve SVZ.ipynb). 
+
+Procházet kód jednotlivých funkcí je možné přímo v https://gitlab.fit.cvut.cz/bi-svz/improutils_package[oficiálním GitLab repozitáři]. Distribuce balíčku probíhá pomocí nástroje https://pypi.org/project/improutils/[PyPI].
+
+== Použití improutils
+Před použítím balíčku je nutné jej nejdříve nainstalovat do cílového prostředí. Od cvíčících budete mít vždy připravený soubor requirements.txt, který by již měl obsahovat všechny potřebné závislosti. Pokud byste se jej však rozhodli instalovat po vlastní ose, stačí k tomu zavolat příkaz `pip install improutils`. Doporučujeme vždy instalovat pouze poslední verzi.
+
+Ještě než budete volat konkrétní funkce z balíčku, je nutné naimportovat jednotlivé moduly. V rámci zjednodušení doporučujeme naimportovat všechny a to pomocí kódu `from improutils import *`.
+
+== Rozdělení balíčku dle modulů
+Cílem improutils je přehledně rozčlenit funkcionalitu do samostaných funkčních celků. K tomu nám v jazyce Python slouží moduly. Těmi jsou v případě balíčku improutils tyto:
+
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/acquisition/img_io.py[img_io] - obsahuje funkce související s načítacími a ukládacími operacemi.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/preprocessing/preprocessing.py[preprocessing] - obsahuje funkce předzpracování jako je převod barevných profilů, rotace, ořez, normalizace atd.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/preprocessing/contours.py[contours] - obsahuje funkce související s prací s konturama.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/filtration/filtration.py[filtration] - obsahuje funkce související s filtračními operacemi používané pro zpracování signálů.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/recognition/image_features.py[image_features] - obsahuje funkce týkající se vytěžování znalostí z obrazu.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/recognition/ocr.py[ocr] - obsahuje funkce týkající se optické rozpoznávání znaků v obraze.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/segmentation/segmentation.py[segmentation] - obsahuje funkce pro segmentaci objektů.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/visualisation/visualisation.py[visualisation] - obsahuje funkce vhodné pro vizualizaci výstupů.
+* https://gitlab.fit.cvut.cz/bi-svz/improutils_package/blob/master/improutils/other.py[other] - obsahuje divné funkce, které zatím neumíme logicky začlenit.
+
+
+== Příspívání vlastních vychytávek
+
+Pokud se vám během kurzu podaří naimplementovat funkcionalitu, která by mohla být užitečná i pro ostatní, nebojte se o ní podělit. Každou užitečnou a zdokumentovanou implementaci rádi oceníme body aktivity. 
+
+Novou funkcionalitu je možné do balíčku dostat pomocí forknutí https://gitlab.fit.cvut.cz/bi-svz/improutils_package[improutils] repozitáře a vytvoření https://gitlab.fit.cvut.cz/bi-svz/improutils_package/merge_requests[pull requestu]. Pokud si nejste jisti, zda je vámi zamýšlená funkcionalita přínosná nebo nevíte, jak přesně přispět, neváhejte se obrátit na své cvičící.
+
+== Hlášení chyb
+
+Nalezli jste v nějaké funkci chybu v implementaci nebo jiný nedostatek? Pomozte nám to zlepšit a chybu nahlaste za pomocí https://gitlab.fit.cvut.cz/bi-svz/improutils_package/issues/new[vytvoření issue] na FIT GitLabu. Pokud byste rádi získali body aktivity, můžete rovnou poslat i opravu formou pull requestu.
