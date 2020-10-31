@@ -38,6 +38,3 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 |   12.   | 17. 12. 2020 | Konzultace k praktické zkoušce              |     | 📼 | 2
 |====
-
-📜{nbsp}link:files/svz.html[Notebook funkcí použitých v SVZ]. Bude se postupně zlepšovat s přibývajícími cvičeními.
-
