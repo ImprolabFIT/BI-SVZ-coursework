@@ -12,6 +12,8 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote]. 
 
+Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../tutorials/google-cloud.adoc[zde].
+
 == Náležitosti úkolu
 
 Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extermních případech může být i nehodnotitelný.
