@@ -30,7 +30,7 @@ image::images/Git_Homework_Submission.png[]
 
 == Etika domácích úkolů
 
-Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatně.* Plagiátorství nebude tolerováno.
+Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatně.* Plagiátorství nebude tolerováno. V případě *podezření* bude automaticky úkol ohodnocen 0 body. Záleží pak pouze na studentovi, zda se to změní.
 
 Pokud budete využívat části kódů z internetových zdrojů (např. StackOverflow), *uvádějte v kódu odkaz na zdrojové vlákno*. Dále *převzatý kód okomentujte,* ať je vidět, že dané problematice rozumíte.
 
