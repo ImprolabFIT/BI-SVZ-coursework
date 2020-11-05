@@ -25,7 +25,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   6.   | 29. 10. 2020  | Perspektiva obrazu                   | 𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-length.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-height.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    | link:https://web.microsoftstream.com/video/b260abff-833d-4994-85bc-d514cf1573f9[📼] | 2
 
-|   7.    | 5. 11. 2020  | Perspektiva obrazu, 360° objektivy  | 𝔻{nbsp}link:https://deepnote.com/project/b811a276-887b-4b3a-b9ab-aaea94179fac#%2Fperspective-cart-polar-system_online.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  | 📼 | 2
+|   7.    | 5. 11. 2020  | Perspektiva obrazu, 360° objektivy  | 𝔻{nbsp}link:https://deepnote.com/project/b811a276-887b-4b3a-b9ab-aaea94179fac#%2Fperspective-cart-polar-system_online.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]  | link:https://web.microsoftstream.com/video/1ec1ef9b-6b1d-4b51-9db1-3aa2928ba8ab[📼] | 2
 
 |   8.    | 12. 11. 2020  | Řádkové kamery                       | 𝔻{nbsp}link:https://deepnote.com/project/36a4043c-9c4b-4ce5-8021-55097026e152#%2Ffourier-transform.ipynb[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace], 📜{nbsp}link:files/6/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}QR{nbsp}kódů]    | 📼 | 2
 
