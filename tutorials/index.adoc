@@ -29,7 +29,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 
 |   8.    | 12. 11. 2020  | Řádkové kamery                       | 𝔻{nbsp}link:https://deepnote.com/project/2e89dc22-cd8a-42d2-92d6-59353aa368ad#%2Ffourier-transform.ipynb[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace], 📜{nbsp}link:files/6/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}QR{nbsp}kódů]    | link:https://web.microsoftstream.com/video/bd8beb6a-2fe5-465d-aaae-bdec4c2c8d68[📼] | 2
 
-|   9.    | 26. 11. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí], 𝔻{nbsp}link:https://deepnote.com/project/d5ca4d39-0e88-4d16-bf91-8f486d659031#%2Fdepth-measurements_online.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]    | 📼 | 2
+|   9.    | 26. 11. 2020 | Práce s hloubkovou kamerou           | 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí], 𝔻{nbsp}link:https://deepnote.com/project/d5ca4d39-0e88-4d16-bf91-8f486d659031#%2Fdepth-measurements_online.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]    | link:https://web.microsoftstream.com/video/e6e69b32-297b-4b04-bdf1-d68dd594f39d[📼] | 2
 
 |   10.    | 3. 12. 2020  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
 𝔻{nbsp}link:https://deepnote.com/project/9b53dc64-cfbc-4fb4-bc0c-a7d5a589c738#%2Fdetectron_faces.ipynb[Klasifikace{nbsp}obličeje]   | 📼 | 2
