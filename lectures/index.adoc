@@ -15,7 +15,7 @@ Přednášky jsou ve své aktuální podobě z letního semestru (B192). Postupn
 | 7.        | 5. 11. 2020 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | link:https://web.microsoftstream.com/video/037588ad-300c-4faa-9a0b-7c2a8c0714a8[📼]    
 | 8.        | 12. 11. 2020 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] | link:https://web.microsoftstream.com/video/f39cfe94-ef33-4210-a9ce-f6842352167d[📼] 
 | 9.        | 26. 11. 2020 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] | link:https://web.microsoftstream.com/video/48cf2c9b-5fe4-484b-943e-234050471329[📼] 
-| 10.       | 3. 12. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | 📼 
+| 10.       | 3. 12. 2020  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | link:https://web.microsoftstream.com/video/499be6f6-3786-4a2e-94bb-1c0dc8bb2920[📼] 
 | 11.       | 10. 12. 2020 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | 📼 
 | 12.       | 17. 12. 2020   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] | 📼 
 |
