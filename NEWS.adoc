@@ -1,5 +1,10 @@
 = Novinky
 
+== Poslední cvičení prezenčně
+:date: 2020-12-17
+Cvičení dne 17. 12. 2020 bude probíhat prezenčně v ImproLabu (A-1256). Využijeme příležitosti pro seznámení se s hardware potřebným pro absolvování praktické zkoušky - kamery, objektivy, světla a kalibrace kamery.
+
+
 == Zkoušky v LS 2019/2020 (B-192)
 Úprava pokynů a doplnění ke konání zkoušek je k dispozici v https://teams.microsoft.com/l/message/19:207727ff9019487a99e0b65b9e6857b8@thread.tacv2/1588675409413?tenantId=f345c406-5268-43b0-b19f-5862fa6833f8&groupId=4c128b6f-3716-422f-85d3-88b3ef581a65&parentMessageId=1588675409413&teamName=Team-Predmet-B192-BI-SVZ&channelName=Obecn%C3%A9&createdTime=1588675409413[kanálu na MS Teams].
 
