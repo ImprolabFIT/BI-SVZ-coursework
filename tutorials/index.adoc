@@ -34,7 +34,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |   10.    | 3. 12. 2020  | Klasifikace obrazu, detekce objektů  | 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky]
 𝔻{nbsp}link:https://deepnote.com/project/9b53dc64-cfbc-4fb4-bc0c-a7d5a589c738#%2Fdetectron_faces.ipynb[Klasifikace{nbsp}obličeje]   | link:https://web.microsoftstream.com/video/db6a4c51-af3e-4af8-9ca9-e2448b3cdc9b[📼] | 2
 
-|   11.    | 10. 12. 2020 | Základy měření s termokamerou        |   𝔻{nbsp}link:https://deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176#%2Fface-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] | 📼 | 2
+|   11.    | 10. 12. 2020 | Základy měření s termokamerou        |   𝔻{nbsp}link:https://deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176#%2Fface-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery] | link:https://web.microsoftstream.com/video/1e9adf43-e297-4d8c-9af9-3618359e8fb0[📼] | 2
 
 |   12.   | 17. 12. 2020 | Konzultace k praktické zkoušce              |     | 📼 | 2
 |====
