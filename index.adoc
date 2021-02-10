@@ -40,7 +40,7 @@ V letním semestru 2021 bude **předběžně** aktuální forma zkoušky násled
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
 * Teoretická část zkoušky bude probíhat **distančně** v nástroji https://marast.fit.cvut.cz/cs/kvizy/BI-SVZ[MARAST].
-** V KOSu budou vyspány termíny formou **jednorázových akcí**. 
+** V KOSu budou vypsány termíny formou **jednorázových akcí**. 
 ** Student se musí na akci přihlásit.
 ** Kvíz bude zaheslován vždy na konkrétní termín. 
 ** Heslo se dozví student v grades.
