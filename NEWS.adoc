@@ -1,5 +1,12 @@
 = Novinky
 
+== Vítejte v letním semestru
+:date: 2021-02-15
+Vážení studenti, předmět bude opět probíhat čistě distančně 😟 Během semestru se však počítá s organizací několika individuálních laboratorních cvičení pro menší počet lidí, abyste si alespoň trochu osahali HW a sžili se s ním.
+
+Jinak všechny vítáme a těšíme se na společný semestr!
+
+
 == Poslední cvičení prezenčně
 :date: 2020-12-17
 Cvičení dne 17. 12. 2020 bude probíhat prezenčně v ImproLabu (A-1256). Využijeme příležitosti pro seznámení se s hardware potřebným pro absolvování praktické zkoušky - kamery, objektivy, světla a kalibrace kamery.
