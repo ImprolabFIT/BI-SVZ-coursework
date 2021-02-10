@@ -2,7 +2,7 @@
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://teams.microsoft.com/l/team/19%3a3622ece2bb18465d836a376fb762db28%40thread.tacv2/conversations?groupId=163d4d97-a6e7-4288-b9f3-830b74d177a0&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE].
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://teams.microsoft.com/l/team/19%3a7e4596264a2e49bba22561f7288323e1%40thread.tacv2/conversations?groupId=6a846f28-a7d3-4bfd-925a-888c8fdb9a9c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE].
 
 
 == 🔖 Anotace
