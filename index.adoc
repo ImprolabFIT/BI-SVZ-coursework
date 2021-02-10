@@ -14,12 +14,12 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit. 
 
-V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena.
+V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena. Bude využit online nástroj https://deepnote.com/[Deepnote].
 
 
 == 🦠 Aktuální forma výuky
 
-V zimním semestru 2020/21 je aktuální forma výuky následující:
+V letním semestru 2021 je aktuální forma výuky následující:
 
 * Přednášky
 ** Online přes MS Teams.
@@ -30,12 +30,12 @@ V zimním semestru 2020/21 je aktuální forma výuky následující:
 * Cvičební paralelky
 ** Obě paralelky cvičení budou během *online spojeny*.
 ** Vznikne tím čas více se věnovat každému cvičení.
-** Čas: *14:30 - 16:30* (podle potřeby se třeba ještě trochu prodlouží).
+** Čas: *11:00 - 14:00* (deadline odevzdání cvičení je 14:15).
 
 
 == 💯 Zkouška a průběh zkoušky
 
-V zimním semestru 2020/21 je aktuální forma zkoušky následujcí:
+V letním semestru 2021 bude **předběžně** aktuální forma zkoušky následujcí:
 
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
