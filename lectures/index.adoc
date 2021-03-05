@@ -8,20 +8,19 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Po
 | # | Datum      | Téma | 🎥                                                         
 | 1.        | 19. 2. 2021 | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata] 💬{nbsp}Info k předmětu a organizaci | link:https://youtu.be/psqkcTZ8APs[📼] link:https://youtu.be/QNUftCo5f_Y[📼] 
 | 2.        | 26. 2. 2021 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika] 💬{nbsp}Druhy senzorů a optika, podrobněji | link:https://youtu.be/dli9cXnFhpo[📼] link:https://youtu.be/jJb497X37qo[📼]
-| 3.        | 5. 3. 2021 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]| link:https://youtu.be/eG7EpOe4msk[📼] 
-| 4.        | 12. 3. 2021  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://web.microsoftstream.com/video/d95610c3-f584-4f66-a458-894a98c2a375[📼]       
-| 5.        | 19. 3. 2021  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | link:https://web.microsoftstream.com/video/1993e661-2110-4f25-9caa-e0f90543a2f3[📼] 
-| 6.        | 26. 3. 2021 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | link:https://web.microsoftstream.com/video/92731079-e603-47f5-bfca-c6ad9607d24b[📼] 
-| 7.        | 9. 4. 2021 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | link:https://web.microsoftstream.com/video/037588ad-300c-4faa-9a0b-7c2a8c0714a8[📼]    
-| 8.        | 16. 4. 2021 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] | link:https://web.microsoftstream.com/video/f39cfe94-ef33-4210-a9ce-f6842352167d[📼] 
-| 9.        | 23. 4. 2021 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] | link:https://web.microsoftstream.com/video/48cf2c9b-5fe4-484b-943e-234050471329[📼] 
-| 10.       | 30. 4. 2021  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | link:https://web.microsoftstream.com/video/499be6f6-3786-4a2e-94bb-1c0dc8bb2920[📼] 
-| 11.       | 7. 5. 2021 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://web.microsoftstream.com/video/a12b7b02-a8e1-49d7-8410-264e5e869c85[📼] 
-| 12.       | 14. 5. 2021   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] | link:https://web.microsoftstream.com/video/fa639729-e03e-4ae9-aa8d-c423937952e7[📼] 
+| 3.        | 5. 3. 2021 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu] 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů] | link:https://youtu.be/eG7EpOe4msk[📼] link:https://youtu.be/mrYzwSv-DUc[📼]
+| 4.        | 12. 3. 2021  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://youtu.be/KacwHFYQods[📼]       
+| 5.        | 19. 3. 2021  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | link:https://youtu.be/nUdqWlqvh8c[📼] 
+| 6.        | 26. 3. 2021 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | link:https://youtu.be/539thQTNgPo[📼] 
+| 7.        | 9. 4. 2021 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     | link:https://youtu.be/Sqole2oLMkA[📼]    
+| 8.        | 16. 4. 2021 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] | link:https://youtu.be/anMIwotiO94[📼] 
+| 9.        | 23. 4. 2021 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] | link:https://youtu.be/m8Zb7t3fYF8[📼] 
+| 10.       | 30. 4. 2021  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | link:https://youtu.be/o0J2VNgoDbQ[📼] 
+| 11.       | 7. 5. 2021 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼] 
+| 12.       | 14. 5. 2021   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] | link:https://youtu.be/ZX30MnyTrrk[📼] 
 |
 |=======================
 
 == Další doplňující materiály
-* 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů]
 * 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 * 📖{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
