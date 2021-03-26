@@ -12,5 +12,6 @@ navigation:
     - env
     - showroom/**/*.jpg
     - showroom/**/*.png
+    - showroom/**/data*
 repository:
   gitlabPath: /BI-SVZ/bi-svz
