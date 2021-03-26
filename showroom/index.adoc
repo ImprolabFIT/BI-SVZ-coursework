@@ -12,3 +12,6 @@ Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce
 
 * xref:histogram_of_oriented_gradients/index.html[Histogram orientovaných gradientů (HoG)] (`@masekda4`)
 ** Cílem ukázky je ukázat práci algoritmu HoG pro zisk příznaků pro úlohu klasifikace.
+
+* xref:morfologie/index.html[Morfologie] (`@novakj67`)
+** Ukázka je podpůrným materiálem k rozšířenému videomateriálu přednášky 11 - xref:../lectures/index.html[Morfologie a tvarové charakteristiky].
