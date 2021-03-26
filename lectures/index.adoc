@@ -16,9 +16,11 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Po
 .2+| 3.        .2+| 5. 3. 2021 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]  | link:https://youtu.be/eG7EpOe4msk[📼] 
 <| 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů] ^| link:https://youtu.be/mrYzwSv-DUc[📼]
 
-| 4.        | 12. 3. 2021  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://youtu.be/KacwHFYQods[📼]       
+.2+| 4.        .2+| 12. 3. 2021  | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] | link:https://youtu.be/KacwHFYQods[📼]       
+<| 💬{nbsp}Aliasing a DCT ^| link:https://youtu.be/mhAI-4nA1zw[📼]
 
-| 5.        | 19. 3. 2021  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | link:https://youtu.be/nUdqWlqvh8c[📼] 
+.2+| 5.        .2+| 19. 3. 2021  | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    | link:https://youtu.be/nUdqWlqvh8c[📼] 
+<| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
 | 6.        | 26. 3. 2021 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  | link:https://youtu.be/539thQTNgPo[📼] 
 
@@ -30,7 +32,8 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Po
 
 | 10.       | 30. 4. 2021  | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] | link:https://youtu.be/o0J2VNgoDbQ[📼] 
 
-| 11.       | 7. 5. 2021 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼] 
+.2+| 11.       .2+| 7. 5. 2021 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼] 
+<| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie] ^| link:https://youtu.be/mqSSUN-I3Ig[📼]
 
 | 12.       | 14. 5. 2021   | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] | link:https://youtu.be/ZX30MnyTrrk[📼] 
 
