@@ -3,7 +3,7 @@
 Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Postupně se budou upravovat, aby splňovaly nároky aktuálního semestru. Změna programu vyhrazena. 
 
 .Harmonogram přednášek
-[cols="^1,3,10,^1", options="header,footer"]
+[cols="^1,3,12,^1", options="header,footer"]
 |=======================
 | # | Datum      | Téma | 🎥   
 
