@@ -1,6 +1,6 @@
 = Cvičení
 
-Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat zimnímu semestru a překládát do nástroje Deepnote. Pro online výuku budou přibývat linky na 𝔻.
+Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat zimnímu semestru a překládat do nástroje Deepnote. Pro online výuku budou přibývat linky na 𝔻.
 
 .Harmonogram cvičení
 [width=100%, cols="^1,2,5,5,^1,^1", options="header"]
