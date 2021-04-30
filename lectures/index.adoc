@@ -61,10 +61,12 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Po
 <| 💬{nbsp}Fourierova transformace a DCT, podrobněji 
 ^| link:https://youtu.be/8iOTwA4bxoY[📼]
 
-| 9.        
-| 23. 4. 2021 
+.2+| 9.        
+.2+| 23. 4. 2021 
 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] 
 | link:https://youtu.be/m8Zb7t3fYF8[📼] 
+<| 💬{nbsp}Hranové segmentace, podrobněji
+^| link:https://youtu.be/nZVNvs0g_uk[📼] 
 
 | 10.       
 | 30. 4. 2021  
