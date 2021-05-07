@@ -46,8 +46,8 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru (B201). Po
 .2+| 26. 3. 2021 
 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 📖{nbsp}Industry 4.0 - strojové vidění v praxi  
 | link:https://youtu.be/539thQTNgPo[📼] 
-<| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 📖{nbsp}Chytré zemědělství - strojové vidění v praxi  
-^|📼 
+<| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 📖{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi  
+^|link:https://youtu.be/VsxtQKGuVTk[📼] 
 
 | 7.        
 | 9. 4. 2021 
