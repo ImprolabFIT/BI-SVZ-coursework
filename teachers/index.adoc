@@ -5,16 +5,16 @@
 * 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl], přednášející, cvičící
 * 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
 * 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
-* 👦{nbsp}https://usermap.cvut.cz/profile/c04dac50-b8c1-4f45-ab06-d70c898fe920[Matěj Latka], cvičící
-* 🧑{nbsp}https://usermap.cvut.cz/profile/caf7c3f0-ec86-4945-adad-739835d10714[David Mašek], cvičící
-* 👩‍🦱{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
-* 👩{nbsp}https://usermap.cvut.cz/profile/?[Justýna Frommová], cvičící
-* 🙄{nbsp}https://usermap.cvut.cz/profile/?[Matěj Jech], cvičící
+* 🧑{nbsp}https://usermap.cvut.cz/profile/c04dac50-b8c1-4f45-ab06-d70c898fe920[Matěj Latka], cvičící
+* 🧑🏻{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
+* 👩🏻{nbsp}https://usermap.cvut.cz/profile/?[Justýna Frommová], cvičící
+* 👨🏼{nbsp}https://usermap.cvut.cz/profile/?[Matěj Jech], cvičící
 
 
 == Odborní hosté
-* 🤖{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
+* 🦾{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
 * 🌱{nbsp}firma Ullmanna
+* 🚘{nbsp}David Hurych, odborník z praxe, firma Valeo Praha - vývojové centrum
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko]
 
 ---
