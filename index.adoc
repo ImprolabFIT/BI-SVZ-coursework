@@ -35,7 +35,7 @@ V letním semestru 2021 je aktuální forma výuky následující:
 
 == 💯 Zkouška a průběh zkoušky
 
-V letním semestru 2021 bude **předběžně** aktuální forma zkoušky následujcí:
+V letním semestru 2021 bude **předběžně** aktuální forma zkoušky následující:
 
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.

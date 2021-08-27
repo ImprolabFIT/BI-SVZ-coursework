@@ -10,10 +10,10 @@
 * *Docházka* na cvičení *se eviduje*, nemá však vliv na hodnocení.
 * Předmět není možné absolvovat bez získání zápočtu.
 
-== Podmínky pro složení záverečné zkoušky
+== Podmínky pro složení závěrečné zkoušky
 
-* K závěrečné zkoušce je možné přístoupit *pouze se získaným zápočtem*.
-* Závěrečná zkouška se skládá z *dvou povinných částí*. Bez úspěšného složení teoretické zkoušky nelze přístoupit ke zkoušce praktické.
+* K závěrečné zkoušce je možné přistoupit *pouze se získaným zápočtem*.
+* Závěrečná zkouška se skládá z *dvou povinných částí*. Bez úspěšného složení teoretické zkoušky nelze přistoupit ke zkoušce praktické.
 * Z obou částí zkoušky je nutné získat *alespoň* tolik bodů, kolik je minimální hranice.
 * Obě části zkoušky je možné absolvovat v ten samý den, pokud bude splněno výše zmíněné.
 
@@ -30,7 +30,7 @@
 === Praktická část
 
 * Pro úspěšné absolvování praktické části je nutné získat *alespoň 15 bodů* z možných 30.
-* Praktická část se skládá ze samostatného vypracování úlohy podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semetru.
+* Praktická část se skládá ze samostatného vypracování úlohy podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
 
 
 == Ústní gamble
