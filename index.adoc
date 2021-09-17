@@ -2,7 +2,7 @@
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Konkrétní odkaz je https://teams.microsoft.com/l/team/19%3a7e4596264a2e49bba22561f7288323e1%40thread.tacv2/conversations?groupId=6a846f28-a7d3-4bfd-925a-888c8fdb9a9c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE].
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je https://teams.microsoft.com/l/team/19%3aJmwG19PYaW1haBcTv__2ux-9vaTim8r1I3PJ7UT1Qac1%40thread.tacv2/conversations?groupId=d89fad77-f3af-43f9-8caa-82f71e2acca7&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE].
 
 
 == 🔖 Anotace
@@ -14,41 +14,23 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit. 
 
-V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena. Bude využit online nástroj https://deepnote.com/[Deepnote].
+V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
 
 
 == 🦠 Aktuální forma výuky
 
-V letním semestru 2021 je aktuální forma výuky následující:
+V zimním semestru 2021 (B211) je aktuální forma výuky následující:
 
 * Přednášky
-** Online přes MS Teams.
-** Dostupný záznam na MS Teams.
+** Prezenčně v učebně A-1242.
+** Dostupný záznam na Youtube z minulého běhu včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
 * Cvičení
-** Online přes MS Teams.
-** Dostupný záznam na MS Teams.
-* Cvičební paralelky
-** Obě paralelky cvičení budou během *online spojeny*.
-** Vznikne tím čas více se věnovat každému cvičení.
-** Čas: *11:00 - 14:00* (deadline odevzdání cvičení je 14:15).
+** Prezenčně v ImproLabu (A-1256).
 
 
 == 💯 Zkouška a průběh zkoušky
 
-V letním semestru 2021 bude **předběžně** aktuální forma zkoušky následující:
-
-* Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
-* Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
-* Teoretická část zkoušky bude probíhat **distančně** v nástroji https://marast.fit.cvut.cz/cs/kvizy/BI-SVZ[MARAST].
-** V KOSu budou vypsány termíny formou **jednorázových akcí**. 
-** Student se musí na akci přihlásit.
-** Kvíz bude zaheslován vždy na konkrétní termín. 
-** Heslo se dozví student v grades.
-* Praktická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256).
-** V KOSu budou vypsány termíny formou **zkouškových termínů**. 
-** Student se musí na termín přihlásit.
-
-*Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). Takovém případě kontaktujte Jakuba Nováka na MS Teams.
+Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
 
 
 == 🔗 Odkazy
