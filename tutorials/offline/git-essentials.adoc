@@ -19,7 +19,7 @@ Repozitář je třeba si tzv. __naklonovat__. Znamená to zkopírovat jeho obsah
 
 Na cvičení preferujeme naklonovat si repozitář na svůj vlastní uživatelský síťový disk `X:`. 
 
-Otevřete `Git-CMD`, přejděte do svého síťového disku a vytořte složku `_git`:
+Otevřete `Git-CMD`, přejděte do svého síťového disku a vytvořte složku `_git`:
 [source]
 X: 
 mkdir _git
