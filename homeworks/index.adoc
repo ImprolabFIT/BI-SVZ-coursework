@@ -16,7 +16,7 @@ Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu.
 
 == Náležitosti úkolu
 
-Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extermních případech může být i nehodnotitelný.
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extrémních případech může být i nehodnotitelný.
 
 == Odevzdání úkolů
 
