@@ -12,7 +12,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | Úvodní cvičení, seznámení s nástroji 
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
 📜{nbsp}link:files/1/tools-introduction.html[Úvod{nbsp}do{nbsp}práce{nbsp}s{nbsp}nástroji],
-📜{nbsp}link:files/2/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 
+📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 
 📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu],
 📖{nbsp}Zásady{nbsp}práce{nbsp}s{nbsp}kamerou
 | 📼 
