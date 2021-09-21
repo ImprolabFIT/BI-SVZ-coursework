@@ -38,6 +38,8 @@ WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `
 
 . Nefunguje rozšíření Jupyter notebooku `nbextension`. To lze opravit link:https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/issues/96#issuecomment-849050273[instalací přes condu]. 
 ** `conda install -c conda-forge jupyter_contrib_nbextensions`
+** Potom uvnitř virtuálního prostředí nainstalovat rozšíření do uživatele.
+*** `jupyter contrib nbextension install --user`
 
 . Jupyter hází v konzoli `Kernel error` vypadající přibližně takto: 
 ** `win32security.DACL_SECURITY_INFORMATION access is denied` 
@@ -45,16 +47,14 @@ WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `
 *** `set JUPYTER_ALLOW_INSECURE_WRITES=1`
    
 . Jupyter hází v konzoli chybu:
+** `tornado.util.TimeoutError: Timeout`
+** Řešením je downgradenout knihovnu `jupyter_client` na verzi `6.1.12`:
+*** `pip install -Iv jupyter_client==6.1.12`
+
+. Jupyter hází v konzoli chybu:
 ** `ImportError: DLL load failed while importing win32api: Uvedený modul nebyl nalezen.`
 ** Řeší se pomocí condy (pip nefunguje).
 *** `conda install pywin32` 
-   
-. Jupyter hází v konzoli chybu:
-** `tornado.util.TimeoutError: Timeout`
-** Řešení:
-*** `python -m ipykernel install --user`
-   
-NOTE: Tohle možná není řešení, možná se jedná o error z bodu 1. Píše se o tom link:https://discourse.jupyter.org/tkernel-error-in-jupyter-notebook-fail-to-start/2260/5[tady].
 
 
 == Důležité
