@@ -1,0 +1,39 @@
+= Zásady práce s vybavením laboratoře
+
+ImproLab již od vzniku v roce 2017 disponuje profesionálním vybavením, které je běžně používáno v průmyslových aplikacích strojového / počítačového vidění v praxi. Proto jsou pořizovací ceny jednotlivých kamer, objektivů a příslušenství relativně vysoké. Aby nám toto vybavení vydrželo co nejdéle funkční a zachovalé pro budoucí generace studentů, je nutné dodržovat několik jednoduchých pravidel.
+
+== Manipulace s kamerou
+
+. Když s kamerou nepracuji, vložím ji do ochranného igelitu a do krabičky.
+. Krytku kamery sundavám až bezprostředně předtím, než na ní šroubuji objektiv. 
+. Jakmile má kamera sundanou krytku, otočím ji snímačem / závitem k zemi a začnu šroubovat objektiv, aby se do ní zbytečně neprášilo.
+. V žádném případě nemávám kamerou bez krytky a nedotýkám se ničím snímače.
+. Jakmile má kamera nasazený objektiv, přišroubuji ji ke Kaiser stojanu a krytku položím na stojan.
+. Až když je kamera na stojanu, připojuji do ní kabel.
+
+== Manipulace s objektivem
+. Vždy mám před sebou maximálně jeden vybalený objektiv, se kterým zrovna pracuji. 
+. Když se rozhodnu objektiv našroubovat na kameru, sundám jeho zadní krytku a až pak krytku kamery.
+. Spojení s kamerou se snažím udělat co nejrychleji, aby se ani do objektivu neprášilo.
+. Přední krytku sundavám až po umístění ke Kaiser stojanu a všechny krytky uschovám na stojan.
+. V žádném případě se nedotýkám optiky a ani se ji nepokouším čistit vlastními silami.
+. Aretační šrouby ostření / clony mám vždy utažené. Povolím je, jen pokud měním hodnoty objektivu.
+
+== Manipulace s kulovou hlavou
+. Kulovou hlavu používám, jen když to dává smysl (např. potřebuji natočit kameru směrem ke mně).
+. Při umístění kamery mám hlavu zaaretovanou, aby se mi neprotáčel šroub v kameře.
+. Hlavu dávám na stojan Kaiser vždy do stran pojezdu, abych měl aretační šroub přístupný
+. V žádném případě se nesnažím kulovou hlavu “přeprat” silou. Vždy povolím aretační šroub.
+
+== Manipulace s KATE
+. KATE mám připojenou, jen když potřebuji pracovat se světly.
+. Nedotýkám se žádných obvodů a součástek na KATE, kvůli možnému ublížení elektrickým proudem.
+
+== Hlavní pravidlo
+Než opustím stanoviště, ujistím se, že je vše odpojeno, uklizeno a v původním stavu, aby to pohodlně mohl používat někdo po mně. V místnosti 
+nejím, ani nepiju.
+
+== Co dělat, když objevím závadu?
+Okamžitě to nahlásím cvičícím. Pokud jsi náhodou viníkem závady ty, je lepší nám to sdělit s předstihem, než se to dozvíme z bezpečností kamery v laboratoři.  Pokud to budeme řešit my zpětně bez nahlášení, vina padá automaticky na tebe.
+
+
