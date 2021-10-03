@@ -8,6 +8,7 @@ Jedná se o následující rozšíření:
 
 * Codefolding
 * Codefolding in Editor
+* Python Markdown
 * RunTools
 
 Rozšíření je třeba aktivovat přímo v Jupyter Notebooku po jeho spuštění.
