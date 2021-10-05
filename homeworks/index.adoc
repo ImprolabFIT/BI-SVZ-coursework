@@ -43,7 +43,7 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | 15. 10. 2021 | 28. 10. 2021 | 𝔻{nbsp}
-//link:https://deepnote.com/project/c9e3323a-143e-4c9e-8ef1-c6ed9062e53c[
+//link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
 //]
 | 5 (+2)
