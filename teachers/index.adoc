@@ -14,7 +14,7 @@
 == Odborní hosté
 * 🦾{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
 * 🌱{nbsp}firma Ullmanna
-* 🚘{nbsp}David Hurych, odborník z praxe, firma Valeo Praha - vývojové centrum
+* 👁{nbsp}Tomáš Gřeš, odborník z praxe, firma Pekat Vision
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko]
 
 ---
