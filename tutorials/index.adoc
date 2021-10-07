@@ -29,7 +29,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 3.    
 | 8. 10. 2021 
 | Vady optiky, kalibrace kamery        
-| 𝔻{nbsp}link:https://deepnote.com/project/4d7f5e16-d3b3-4dc7-94da-87dd77be0196[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
+| 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
 | 📼
 | 2
 
