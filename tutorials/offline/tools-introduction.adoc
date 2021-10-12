@@ -62,6 +62,8 @@ WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `
 * Otevřete úvodní notebook link:../files/1/python-introduction.ipynb[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
 ** Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musí se daný balíček doinstalovat pomocí `conda install`. V tom případě kontaktujte učitele.
 
+NOTE: Na cvičení je zjednodušeno použitím skriptu `svz` (xref:#_postup-na-cvičení[viz výše]).
+
 
 === Poznámky
 
