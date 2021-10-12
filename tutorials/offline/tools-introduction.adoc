@@ -10,13 +10,9 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda.
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
-* Zkontrolujte, jaké u vás existují virtuální prostředí 
-** `conda env list`
-* Pokud v seznamu *NENÍ* prostředí SVZ:
-** Přidejte cestu s vytvořeným virtuální prostředí do Anacondy. 
-*** `conda config --append envs_dirs D:\env`
-* Vyzkoušejte:
-** `conda activate SVZ`
+* Zavolejte zjednodušený skript `svz` s parametrem adresy vašeho xref:git-essentials#[naklonovaného repozitáře]
+** `svz X:\_git\bi-svz`
+
 * Pokud stále něco nepůjde, kontaktujte učitele :)
 
 
