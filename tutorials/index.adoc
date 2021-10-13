@@ -36,7 +36,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 4.    
 | 15. 10. 2021 
 | Základy segmentace                   
-| 𝔻{nbsp}link:https://deepnote.com/project/0b9808dd-9e7b-4fc6-939b-e7bbeadb924c[Základy segmentace] 
+| 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace] 
 | 📼
 | 2
 
