@@ -35,7 +35,9 @@ Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Z
 
 == 🔗 Odkazy
 
-* 📋 https://tiny.cc/improlab_zadani_praci[Zadání prací]
+* 📋 Zadání témat závěrečných prací
+** https://projects.fit.cvut.cz/topics/search?author=novakj67[Jakub Novák]
+** https://projects.fit.cvut.cz/topics/search?author=brchlluk[Lukáš Brchl]
 * 📚 xref:lectures/index#[Přednášky]
 * 📙 xref:tutorials/index#[Cvičení]
 * 📑 xref:homeworks/index#[Domácí úkoly]
