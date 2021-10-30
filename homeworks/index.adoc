@@ -47,17 +47,17 @@ link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
 ]
 | 5 (+2)
-| 2.   | 29. 10. 2021 | 11. 11. 2021  | 𝔻{nbsp}
+| 2.   | 29. 10. 2021 | 18. 11. 2021  | 𝔻{nbsp}
 link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
 Projektivní transformace
 ]
 | 6 (+2)
-| 3.   | 12. 11. 2021  | 25. 11. 2021 | 𝔻{nbsp}
+| 3.   | 19. 11. 2021  | 02. 12. 2021 | 𝔻{nbsp}
 //link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
 Výpočet BMI s využitím dat hloubkového senzoru
 //]
 | 7 (+2)
-| 4.   | 26. 11. 2021 | 9. 12. 2021   | 𝔻{nbsp}
+| 4.   | 03. 12. 2021 | 16. 12. 2021   | 𝔻{nbsp}
 //link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
 //]
