@@ -43,16 +43,16 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 5.    
 | 22. 10. 2021 
 | Pokročilejší  techniky segmentace    
-| 𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-objects-count_online.ipynb[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-𝔻{nbsp}link:https://deepnote.com/project/d252bc88-4bc4-438b-bc06-6f01b67ef0b0#%2Fsegmentation-fit-ocr_online.ipynb[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] 
+| 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
+📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] 
 | 📼 
 | 2
 
 | 6.   
 | 5. 11. 2021  
 | Perspektiva obrazu                   
-| 𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-length.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
-𝔻{nbsp}link:https://deepnote.com/project/f87e3787-5d1c-4730-9697-0dc9ee810813#%2Fperspective-measuring-height.ipynb[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]    
+| 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
+📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 📼 
 | 2
 
