@@ -59,8 +59,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 7.    
 | 12. 11. 2021  
 | Perspektiva obrazu, 360° objektivy  
-| 𝔻{nbsp}link:https://deepnote.com/project/b811a276-887b-4b3a-b9ab-aaea94179fac#%2Fperspective-cart-polar-system_online.ipynb[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém],
-📜{nbsp}link:files/6/perspective-inside-view.html[Pespektiva{nbsp}s{nbsp}Basler{nbsp}kamerami],  
+| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém],  
 | 📼
 | 2
 
