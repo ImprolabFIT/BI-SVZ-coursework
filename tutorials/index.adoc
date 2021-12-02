@@ -7,97 +7,97 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 |====
 | # | Datum | Téma | Soubory | 🎥 | Body
 
-| 1.    
-| 24. 9. 2021  
-| Úvodní cvičení, seznámení s nástroji 
+| 1.
+| 24. 9. 2021
+| Úvodní cvičení, seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
-📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku], 
+📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
 📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu],
 📖{nbsp}link:lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}kamerou]
-| 📼 
+| 📼
 | 2
 
-| 2.    
-| 1. 10. 2021 
-| Práce s kamerami v Jupyter notebooku        
+| 2.
+| 1. 10. 2021
+| Práce s kamerami v Jupyter notebooku
 | 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu],
 📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]
-| 📼 
+| 📼
 | 2
 
-| 3.    
-| 8. 10. 2021 
-| Vady optiky, kalibrace kamery        
+| 3.
+| 8. 10. 2021
+| Vady optiky, kalibrace kamery
 | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
 | 📼
 | 2
 
-| 4.    
-| 15. 10. 2021 
-| Základy segmentace                   
-| 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace] 
+| 4.
+| 15. 10. 2021
+| Základy segmentace
+| 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace]
 | 📼
 | 2
 
-| 5.    
-| 22. 10. 2021 
-| Pokročilejší  techniky segmentace    
+| 5.
+| 22. 10. 2021
+| Pokročilejší  techniky segmentace
 | 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu] 
-| 📼 
+📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu]
+| 📼
 | 2
 
-| 6.   
-| 5. 11. 2021  
-| Perspektiva obrazu                   
+| 6.
+| 5. 11. 2021
+| Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
-| 📼 
-| 2
-
-| 7.    
-| 12. 11. 2021  
-| Perspektiva obrazu, 360° objektivy  
-| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém],  
 | 📼
 | 2
 
-| 8.    
-| 19. 11. 2021  
-| Řádkové kamery                       
-| 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů] 
-| 📼 
+| 7.
+| 12. 11. 2021
+| Perspektiva obrazu, 360° objektivy
+| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém],
+| 📼
 | 2
 
-| 9.    
-| 26. 11. 2021  
-| Techniky transformace                
-| 𝔻{nbsp}link:https://deepnote.com/project/2e89dc22-cd8a-42d2-92d6-59353aa368ad#%2Ffourier-transform.ipynb[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace],    
-| 📼 
+| 8.
+| 19. 11. 2021
+| Řádkové kamery
+| 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
+| 📼
 | 2
 
-| 10.    
-| 3. 12. 2021  
-| Práce s hloubkovou kamerou           
-| 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí], 
-𝔻{nbsp}link:https://deepnote.com/project/d5ca4d39-0e88-4d16-bf91-8f486d659031#%2Fdepth-measurements_online.ipynb[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů] 
-| 📼 
+| 9.
+| 26. 11. 2021
+| Techniky transformace
+| 𝔻{nbsp}link:https://deepnote.com/project/2e89dc22-cd8a-42d2-92d6-59353aa368ad#%2Ffourier-transform.ipynb[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace],
+| 📼
 | 2
 
-| 11.    
-| 10. 12. 2021 
-| Základy měření s termokamerou        
+| 10.
+| 3. 12. 2021
+| Práce s hloubkovou kamerou
+//| 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí],
+| 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
+| 📼
+| 2
+
+| 11.
+| 10. 12. 2021
+| Základy měření s termokamerou
 |   𝔻{nbsp}link:https://deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176#%2Fface-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery],
-📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]  
-| 📼 
+📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
+| 📼
 | 2
 
-| 12.   
-| 17. 12. 2021 
-| Klasifikace obrazu, detekce objektů  
-| 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky], 
-📜{nbsp}link:.[Detekce{nbsp}obličejů]  
-|  
+| 12.
+| 17. 12. 2021
+| Klasifikace obrazu, detekce objektů
+| 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
+📜{nbsp}link:.[Detekce{nbsp}obličejů]
+|
 | 2
 |====
