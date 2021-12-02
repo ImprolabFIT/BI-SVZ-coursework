@@ -73,7 +73,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 9.
 | 26. 11. 2021
 | Techniky transformace
-| 𝔻{nbsp}link:https://deepnote.com/project/2e89dc22-cd8a-42d2-92d6-59353aa368ad#%2Ffourier-transform.ipynb[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace],
+| 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace],
 | 📼
 | 2
 
