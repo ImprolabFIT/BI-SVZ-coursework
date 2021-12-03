@@ -10,7 +10,7 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote]. 
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote].
 
 Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../tutorials/google-cloud.adoc[zde].
 
@@ -20,9 +20,9 @@ Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy ta
 
 == Odevzdání úkolů
 
-Úkoly se odevzdávají na *FIT GitLab*, konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions]. 
+Úkoly se odevzdávají na *FIT GitLab*, konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions].
 
-Pro každý úkol v daném repozitáři vytvořte tzv. *Confidential issue* (viz screen níže). Díky označení flagem *Confidential* nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného. 
+Pro každý úkol v daném repozitáři vytvořte tzv. *Confidential issue* (viz screen níže). Díky označení flagem *Confidential* nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného.
 
 Do každého issue *vložte odkaz* na vypracovaný úkol v nástroji Deepnote a zkontrolujte si, že do odevzdávaného projektu mají *všichni cvičící* přístup. Kromě toho můžete v popisu ještě uvést jakékoliv jiné detaily, které by nám měly pomoct v hodnocení. Každý odevzdaný úkol vhodně pojmenujte a to ve formátu: ``__username__ - Homework __číslo-úkolu__``.
 
@@ -58,8 +58,8 @@ Výpočet BMI s využitím dat hloubkového senzoru
 ]
 | 7 (+2)
 | 4.   | 03. 12. 2021 | 16. 12. 2021   | 𝔻{nbsp}
-//link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
+link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-//]
+]
 | 8 (+2)
 |===
