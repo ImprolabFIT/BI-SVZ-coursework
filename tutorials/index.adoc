@@ -88,8 +88,8 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 11.
 | 10. 12. 2021
 | Základy měření s termokamerou
-|   𝔻{nbsp}link:https://deepnote.com/project/d6676f52-ffe2-4b9d-bcf7-6f5d40b3f176#%2Fface-detection.ipynb[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery],
-📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
+|   📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
+//📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
 | 📼
 | 2
 
