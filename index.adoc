@@ -30,7 +30,20 @@ V zimním semestru 2021 (B211) je aktuální forma výuky následující:
 
 == 💯 Zkouška a průběh zkoušky
 
-Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky]
+V zimním semestru B211 bude aktuální forma zkoušky následující:
+
+* Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky].
+* Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
+* Teoretická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256) v nástroji MARAST.
+** V KOSu budou vypsány termíny formou jednorázových akcí.
+** Student se musí na akci přihlásit.
+** Kvíz bude zaheslován vždy na konkrétní termín.
+** Heslo se dozví student od zkoušejícího v místnosti.
+* Praktická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256).
+** V KOSu budou vypsány termíny formou zkouškových termínů.
+** Student se musí na termín přihlásit.
+
+**Individuálně** budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte Jakuba Nováka na MS Teams.
 
 
 == 🔗 Odkazy
