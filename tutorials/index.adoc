@@ -80,15 +80,15 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 10.
 | 3. 12. 2021
 | Práce s hloubkovou kamerou
-//| 📜{nbsp}link:files/9/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí],
-| 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
+| 📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí],
+📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
 | 📼
 | 2
 
 | 11.
 | 10. 12. 2021
 | Základy měření s termokamerou
-|   📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
+| 📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
 //📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
 | 📼
 | 2
@@ -96,8 +96,8 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 12.
 | 17. 12. 2021
 | Klasifikace obrazu, detekce objektů
-| 📜{nbsp}link:files/10/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
-📜{nbsp}link:.[Detekce{nbsp}obličejů]
-|
+| 📜{nbsp}link:files/12/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
+📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]
+| 📼
 | 2
 |====
