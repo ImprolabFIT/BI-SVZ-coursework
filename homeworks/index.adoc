@@ -2,15 +2,15 @@
 
 V semestru budou postupně zadány celkem *4 jednoduché domácí úkoly*. Úkoly zadáváme, abychom ověřili vaše pochopení probírané látky. Pro všechny, kteří porozumí látce probrané na cvičení, se jedná maximálně o dvou hodinovou záležitost. Úkoly volně *navazují na úlohy z cvičení*.
 
-Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné za cvičení získat *minimálně 25 bodů*, podrobnosti viz sekce xref:../classification/index#[hodnocení].
+Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné za cvičení získat *minimálně 25 bodů*, podrobnosti viz sekce xref:../classification/index#[Hodnocení].
 
-Na začátku každého cvičení bude prostor na dotazy týkající se aktuálního zadaného úkolu. Cílem je vyřešit problémy a nejasnosti. Referenční řešení úkolů bude vždy probráno následující cvičení po deadlinu.
+Na začátku každého cvičení bude prostor na dotazy týkající se aktuálního zadaného úkolu. Cílem je vyřešit problémy a nejasnosti.
 
-Může se stát, že v rámci úkolu budete řešit nějaký technický problém - např. nefunguje knihovna, nevyřešitelná chyba, nefungující  prostředí, nemáte data, apod. Ideální by tedy bylo tyto věci *zkontrolovat dříve než den před odevzdáním*. Jinak nebude v naší moci, vám s vyřešením problému pomoct.
+Může se stát, že v rámci úkolu budete řešit nějaký technický problém - např. nefunguje knihovna, nevyřešitelná chyba, nefungující  prostředí, nemáte data, apod. Ideální by tedy bylo tyto věci *zkontrolovat dříve než den před odevzdáním*. Jinak nebude v naší moci vám s vyřešením problému pomoct.
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote].
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote].
 
 Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../tutorials/google-cloud.adoc[zde].
 
@@ -42,23 +42,23 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 [cols="2,3,3,9,^2", options="header"]
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
-| 1.   | 15. 10. 2021 | 28. 10. 2021 | 𝔻{nbsp}
-link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
+| 1.   | 11. 3. 2022 | 24. 3. 2022 | 𝔻{nbsp}
+// link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
 ]
 | 5 (+2)
-| 2.   | 29. 10. 2021 | 18. 11. 2021  | 𝔻{nbsp}
-link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
+| 2.   | 25. 3. 2022 | 7. 4. 2022  | 𝔻{nbsp}
+// link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
 Projektivní transformace
 ]
 | 6 (+2)
-| 3.   | 19. 11. 2021  | 02. 12. 2021 | 𝔻{nbsp}
-link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
+| 3.   | 8. 4. 2022  | 28. 4. 2022 | 𝔻{nbsp}
+// link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
 Výpočet BMI s využitím dat hloubkového senzoru
 ]
 | 7 (+2)
-| 4.   | 03. 12. 2021 | 16. 12. 2021   | 𝔻{nbsp}
-link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
+| 4.   | 29. 4. 2022 | 12. 5. 2022   | 𝔻{nbsp}
+// link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
 ]
 | 8 (+2)

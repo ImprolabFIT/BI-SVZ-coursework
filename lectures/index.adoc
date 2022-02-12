@@ -1,92 +1,92 @@
 = Přednášky
 
-Přednášky jsou ve své aktuální podobě z předchozího semestru (B202). Postupně se budou upravovat, aby splňovaly nároky aktuálního semestru. Změna programu vyhrazena. 
+Přednášky jsou ve své aktuální podobě z předchozího semestru. Postupně se budou upravovat, aby splňovaly nároky aktuálního semestru. Změna programu vyhrazena.
 
 .Harmonogram přednášek
 [cols="^1,3,12,^1", options="header,footer"]
 |=======================
-| # | Datum      | Téma | 🎥   
+| # | Datum      | Téma | 🎥
 
-.2+| 1.        
-.2+| 24. 9. 2021 
-| 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata]  
-| link:https://youtu.be/psqkcTZ8APs[📼]  
-<| 💬{nbsp}Info k předmětu a organizaci 
+.2+| 1.
+.2+| 18. 2. 2022
+| 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata]
+| link:https://youtu.be/psqkcTZ8APs[📼]
+<| 💬{nbsp}Info k předmětu a organizaci
 ^| link:https://youtu.be/QNUftCo5f_Y[📼]
 
-.2+| 2.        
-.2+| 1. 10. 2021 
-| 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika]  
-| link:https://youtu.be/dli9cXnFhpo[📼] 
-<| 💬{nbsp}Druhy senzorů a optika, podrobněji 
+.2+| 2.
+.2+| 25. 2. 2022
+| 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika]
+| link:https://youtu.be/dli9cXnFhpo[📼]
+<| 💬{nbsp}Druhy senzorů a optika, podrobněji
 ^| link:https://youtu.be/jJb497X37qo[📼]
 
-.2+| 3.        
-.2+| 8. 10. 2021 
-| 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]  
-| link:https://youtu.be/eG7EpOe4msk[📼] 
-<| 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů] 
+.2+| 3.
+.2+| 4. 3. 2022
+| 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]
+| link:https://youtu.be/eG7EpOe4msk[📼]
+<| 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů]
 ^| link:https://youtu.be/mrYzwSv-DUc[📼]
 
-.2+| 4.        
-.2+| 15. 10. 2021  
-| 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice] 
-| link:https://youtu.be/KacwHFYQods[📼]       
-<| 💬{nbsp}Aliasing a DCT 
+.2+| 4.
+.2+| 11. 3. 2022
+| 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]
+| link:https://youtu.be/KacwHFYQods[📼]
+<| 💬{nbsp}Aliasing a DCT
 ^| link:https://youtu.be/mhAI-4nA1zw[📼]
 
-.2+| 5.        
-.2+| 22. 10. 2021  
-| 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]    
-| link:https://youtu.be/nUdqWlqvh8c[📼] 
-<| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji 
+.2+| 5.
+.2+| 18. 3. 2022
+| 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]
+| link:https://youtu.be/nUdqWlqvh8c[📼]
+<| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
-.3+| 6.        
-.3+| 5. 11. 2021 
-| 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi  
-| link:https://youtu.be/539thQTNgPo[📼] 
-<| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 💬{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi  
-^|link:https://youtu.be/VsxtQKGuVTk[📼] 
-<| 👁{nbsp}https://www.pekatvision.com/cs[Pekat Vision]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi  
+.3+| 6.
+.3+| 25. 3. 2022
+| 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi
+| link:https://youtu.be/539thQTNgPo[📼]
+<| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 💬{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi
+^|link:https://youtu.be/VsxtQKGuVTk[📼]
+<| 👁{nbsp}https://www.pekatvision.com/cs[Pekat Vision]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi
 ^|📼
 
-| 7.        
-| 12. 11. 2021 
-| 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]     
-| link:https://youtu.be/Sqole2oLMkA[📼]   
+| 7.
+| 12. 11. 2022
+| 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
+| link:https://youtu.be/Sqole2oLMkA[📼]
 
-.2+| 8.        
-.2+| 19. 11. 2021 
-| 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti] 
-| link:https://youtu.be/anMIwotiO94[📼] 
-<| 💬{nbsp}Fourierova transformace a DCT, podrobněji 
+.2+| 8.
+.2+| 1. 4. 2022
+| 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
+| link:https://youtu.be/anMIwotiO94[📼]
+<| 💬{nbsp}Fourierova transformace a DCT, podrobněji
 ^| link:https://youtu.be/8iOTwA4bxoY[📼]
 
-.2+| 9.        
-.2+| 26. 11. 2021 
-| 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové] 
-| link:https://youtu.be/m8Zb7t3fYF8[📼] 
+.2+| 9.
+.2+| 8. 4. 2022
+| 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
+| link:https://youtu.be/m8Zb7t3fYF8[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
-^| link:https://youtu.be/nZVNvs0g_uk[📼] 
+^| link:https://youtu.be/nZVNvs0g_uk[📼]
 
-.2+| 10.       
-.2+| 3. 12. 2021  
-| 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace] 
-| link:https://youtu.be/o0J2VNgoDbQ[📼] 
+.2+| 10.
+.2+| 22. 4. 2022
+| 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
+| link:https://youtu.be/o0J2VNgoDbQ[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
-^| link:https://youtu.be/Jx4NRcIX2nc[📼] 
+^| link:https://youtu.be/Jx4NRcIX2nc[📼]
 
-.2+| 11.       
-.2+| 10. 12. 2021 
-| 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼] 
-<| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie] 
+.2+| 11.
+.2+| 29. 4. 2022
+| 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼]
+<| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://youtu.be/mqSSUN-I3Ig[📼]
 
-| 12.       
-| 17. 12. 2021   
-| 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy] 
-| link:https://youtu.be/ZX30MnyTrrk[📼] 
+| 12.
+| 6. 5. 2022
+| 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]
+| link:https://youtu.be/ZX30MnyTrrk[📼]
 
 
 |=======================

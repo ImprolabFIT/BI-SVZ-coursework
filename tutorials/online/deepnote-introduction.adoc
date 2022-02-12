@@ -1,8 +1,8 @@
 = Seznámení s Deepnote
 
-Deepnote je online kolaborativní nástroj určený pro data mining. Umožňuje uživatelům spouštět Jupyter notebooky v online prostředí na virtuálním stroji bez toho, aby si cokoliv instalovali na svůj lokální počítač. Hlavní výhodou pro náš kurz je, že není nutné rozcházet vlastní prostředí v Pythonu, které by vám zabíralo několik GB na disku. Zároveň se vyhneme i problémům s nekompatibilitama knihoven a operačních systémů, neboť vše vždy běží na identickém stroji, který po jeho spuštění instaluje všechny potřebné knihovny na novo.
+Deepnote je online kolaborativní nástroj určený pro data mining. Umožňuje uživatelům spouštět Jupyter Notebooky v online prostředí na virtuálním stroji bez toho, aby si cokoliv instalovali na svůj lokální počítač. Hlavní výhodou pro náš kurz je, že není nutné rozcházet vlastní prostředí v Pythonu, které by vám zabíralo několik GB na disku. Zároveň se vyhneme i problémům s nekompatibilitami knihoven a operačních systémů, neboť vše vždy běží na identickém stroji, který po jeho spuštění instaluje všechny potřebné knihovny nanovo.
 
-Deepnote je nyní stále ve fázi intenzivního vývoje. Může se tedy stát, že objevíte nějaký bug nebo se nějaká funkcionalita nebude chovat plně korektně. Zároveň jsou na roadmapě další funkcionality, které nám pak usnadní práci na našich projektech a to verzování notebooků a code reviews.
+Deepnote je nyní stále ve fázi intenzivního vývoje. Může se tedy stát, že objevíte nějaký bug nebo se nějaká funkcionalita nebude chovat zcela korektně. Zároveň jsou na roadmapě další funkcionality, které nám pak usnadní práci na našich projektech a to verzování notebooků a code reviews.
 
 == Registrace a přihlášení
 Svou registraci proveďte pod https://deepnote.com/join-team?token=5ee2cb4e12414b5[tímto odkazem] a použijte přihlášení přes Google svým FIT účtem ve tvaru __username@fit.cvut.cz__.
@@ -16,15 +16,15 @@ image::images/Screen_Deepnote_Project_Overview.png[align="center"]
 
 == Přehled projektů
 
-Po prostudování informací v **Starter Projectu**, klikněte vpravo nahoře na ikonku svého profilu a přejděte do sekce **My Projects**. V této sekci vždy uvidíte projekty ve svém osobním workspace, ale zároveň budete mít přístup k projektům týmu BI-SVZ, kam budeme nahrávat všechny potřebné podklady pro tento kurz (cvičení a úkoly). 
+Po prostudování informací v **Starter Projectu**, klikněte vpravo nahoře na ikonku svého profilu a přejděte do sekce **My Projects**. V této sekci vždy uvidíte projekty ve svém osobním workspace, ale zároveň budete mít přístup k projektům týmu BI-SVZ, kam budeme nahrávat všechny potřebné podklady pro tento kurz (cvičení a úkoly).
 
 image::images/Screen_Deepnote_Project_List.png[align="center"]
 
-V sekci přehledu projektů můžete vytvořit svůj vlastní projekt, který je ve výchozím stavu privátní. Pokud byste jej chtěli s někým sdílet, tak je nutné jej otevřít a v horní liště vpravo využít tlačítko **Share**. Po dobu tohoto kurzu byste si však měli vystačit s již připravenými notebooky, které naleznete v týmu BI-SVZ. 
+V sekci přehledu projektů můžete vytvořit svůj vlastní projekt, který je ve výchozím stavu privátní. Pokud byste jej chtěli s někým sdílet, tak je nutné jej otevřít a v horní liště vpravo využít tlačítko **Share**. Po dobu tohoto kurzu byste si však měli vystačit s již připravenými notebooky, které naleznete v týmu BI-SVZ.
 
 == Práce na projektu
 
-Všechny dostupné projekty v diskutovaném týmu BI-SVZ jsou pro studenty pouze s právy **View only**. Abyste mohli notebook spouštět a dělat do něj vlastní úpravy, je nejdříve nutné vytvořit jeho kopii. To lze učinit pomocí tlačítka *Duplicate* v horní liště, které jej nakopíruje do vašeho osobního workspace. 
+Všechny dostupné projekty v diskutovaném týmu BI-SVZ jsou pro studenty pouze s právy **View only**. Abyste mohli notebook spouštět a dělat do něj vlastní úpravy, je nejdříve nutné vytvořit jeho kopii. To lze učinit pomocí tlačítka *Duplicate* v horní liště, které jej nakopíruje do vašeho osobního workspace.
 
 image::images/Screen_Deepnote_Project_Duplicate.png[align="center"]
 
@@ -34,15 +34,15 @@ image::images/Screen_Deepnote_Project_Add_Admins.png[width=300, align="center"]
 
 == Spuštění hardwaru
 
-Jakmile dojde k úspěšnému duplikování cílového projektu, Deepnote začne automaticky spouštět virtuální stroj. Aktuální stav stroje je možné vidět v horním panelu vedle tlačítek *Run notebook* a **Restart notebook**. Cílem je, abyste v panelu před jakoukoliv interakcí s notebooky (např. spouštění buňek) viděli nápis *Ready* se zelenou ikonkou. 
+Jakmile dojde k úspěšnému duplikování cílového projektu, Deepnote začne automaticky spouštět virtuální stroj. Aktuální stav stroje je možné vidět v horním panelu vedle tlačítek *Run notebook* a **Restart notebook**. Cílem je, abyste v panelu před jakoukoliv interakcí s notebooky (např. spouštění buňek) viděli nápis *Ready* se zelenou ikonkou.
 
-Občas se může stát, že se v notebooku něco zasekne, nefunguje apod. V případě, že jste si jisti, že nejde o vaší chybu, je možné restartovat kernel daného notebooku tlačítkem Restart notebook. Poté zkuste dané buňky opětovně spustit. 
+Občas se může stát, že se v notebooku něco zasekne, nefunguje apod. V případě, že jste si jisti, že nejde o vaší chybu, je možné restartovat kernel daného notebooku tlačítkem Restart notebook. Poté zkuste dané buňky opětovně spustit.
 
 == Práce v noteboocích
 
-Po nastartování a inciailizaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby, poznáte tak, že je vlevo dole označena zeleným checkmarkem. 
+Po nastartování a inciailizaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby, poznáte tak, že je vlevo dole označena zeleným checkmarkem.
 
-Pro efektivnější práci v notebooku se doporučuje využívat klávesové zkratky. Jejich seznam naleznete v nápovědě s ikonou vlevo dole. 
+Pro efektivnější práci v notebooku se doporučuje využívat klávesové zkratky. Jejich seznam naleznete v nápovědě s ikonou vlevo dole.
 
 == Instalace dodatečných knihoven
 
@@ -53,7 +53,7 @@ Pokud by se náhodou stalo, že připravený projekt neobsahuje knihovnu, kterou
 V této sekci je seznam nejčastějších problémů a jejich možné řešení. Před jakýmkoliv troubleshootingem se však doporučuje restartovat notebook nebo virtuální stroj, aby bylo možné jako první vyloučit rozbitý workspace. V případě, že body níže nevyřeší váš problém, nebojte se kontaktovat své cvičící.
 
 === ModuleNotFoundError: No module named 'XYZ'
-Pro všechny projekty (domácí úkoly a cvičení) byste měli mít od cvičících připravený soubor **requirements.txt**, který pokrývá všechny potřebné závislost pro danou úlohu. Nemělo by se tedy stát, že vám bude nějaká knihovna chybět. Nejpravděpodobnější příčina tedy je, že jste spustili nějakou z buněk dříve, než stihl doběhnout inicializační skript **init.ipynb**, který je automaticky spuštěn po nastartování virtuálního stroje. Díky tomu se jednotlivé knihovny  nestihly stáhnout/nainstalovat a prostředí tak není v korektním stavu. 
+Pro všechny projekty (domácí úkoly a cvičení) byste měli mít od cvičících připravený soubor **requirements.txt**, který pokrývá všechny potřebné závislost pro danou úlohu. Nemělo by se tedy stát, že vám bude nějaká knihovna chybět. Nejpravděpodobnější příčina tedy je, že jste spustili nějakou z buněk dříve, než stihl doběhnout inicializační skript **init.ipynb**, který je automaticky spuštěn po nastartování virtuálního stroje. Díky tomu se jednotlivé knihovny  nestihly stáhnout/nainstalovat a prostředí tak není v korektním stavu.
 
 Chyba se také projevuje tím, že ve stavové liště máte místo stavu *Ready* stav **Initialization failed**. Řešením je restartovat virtuální stroj a počkat na doběhnutí init.ipynb skriptu.
 
@@ -66,7 +66,7 @@ Tato chybová hláška znamená, že cesta k danému souboru XYZ neexistuje. Př
 
 . Překlep v cestě k souboru. **Řešení**: Zkontrolovat cestu a opravit překlepy
 
-. Z nějakého důvodu jste změnili aktuální složku, ve které notebook pracuje. To lze zjistit z výstupu magického příkazu ``%cd``. 
+. Z nějakého důvodu jste změnili aktuální složku, ve které notebook pracuje. To lze zjistit z výstupu magického příkazu ``%cd``.
 **Řešení**: spustit příkaz ``%cd ~/work``, který workspace změní na korektní cestu ``/home/jovyan/work``
 
 Tento problém může být také signalizován jinými chybovými hláškami např.:

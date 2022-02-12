@@ -1,6 +1,6 @@
-= Rozšíření
+= Rozšíření pro Jupyter notebooky
 
-I nástroj Jupyter notebook umožňuje přidat různá rozšíření pro zlepšení a zjednodušení práce. Doporučujeme přidat následující rozšíření podle návodu níže.
+I nástroj Jupyter Notebook umožňuje přidat různá rozšíření pro zlepšení a zjednodušení práce. Doporučujeme přidat následující rozšíření podle návodu níže.
 
 == Postup pro přidání rozšíření do jupyteru
 

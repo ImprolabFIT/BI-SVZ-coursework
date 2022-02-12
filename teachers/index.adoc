@@ -3,12 +3,15 @@
 * 😏{nbsp}https://usermap.cvut.cz/profile/f99fa711-d3b6-43ae-9ab9-4c2585994759[Marcel Jiřina], přednášející
 * 😃{nbsp}https://usermap.cvut.cz/profile/f8989a38-a52d-447f-8e35-3549529e5db0[Jakub Novák], přednášející, cvičící
 * 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl], přednášející, cvičící
-* 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
-* 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
+// * 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
+// * 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
 * 🧑{nbsp}https://usermap.cvut.cz/profile/c04dac50-b8c1-4f45-ab06-d70c898fe920[Matěj Latka], cvičící
 * 🧑🏻{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
-* 👩🏻{nbsp}https://usermap.cvut.cz/profile/?[Justýna Frommová], cvičící
-* 👨🏼{nbsp}https://usermap.cvut.cz/profile/?[Matěj Jech], cvičící
+* 👩🏻{nbsp}https://usermap.cvut.cz/profile/67620ac3-b529-4350-a81b-ed6c9cb4dde8[Justýna Frommová], cvičící
+* 👨🏼{nbsp}https://usermap.cvut.cz/profile/2eb45535-7f12-45bd-b769-3f8f919d87e8[Matěj Jech], cvičící
+* 😇{nbsp}https://usermap.cvut.cz/profile/9214310b-a1ea-40d9-9b76-8380a8272504[Jiří Szkandera], cvičící
+* 🤓{nbsp}https://usermap.cvut.cz/profile/f7846755-d298-414e-90e2-7a9c4bd62553[Filip Čacký], cvičící
+
 
 
 == Odborní hosté
@@ -19,7 +22,7 @@
 
 ---
 
-* Telefon do labu: +420 224 359 737 
-* E-mail: mailto:improlab@fit.cvut.cz[improlab@fit.cvut.cz] 
+* Telefon do labu: +420 224 359 737
+* E-mail: mailto:improlab@fit.cvut.cz[improlab@fit.cvut.cz]
 * Web: https://improlab.fit.cvut.cz/[improlab.fit.cvut.cz]
 * Místnost labu: A-1256 & A-1258

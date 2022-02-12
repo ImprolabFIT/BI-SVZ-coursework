@@ -12,29 +12,29 @@ Kamerové systémy se stávají běžnou součástí života tím, že jsou vše
 
 == ❗ Prerekvizity
 
-Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit. 
+Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
 
-V předmětu se využívá pro práci nástroj *Jupyter notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
+V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter Notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
 
 
 == 🦠 Aktuální forma výuky
 
-V zimním semestru 2021 (B211) je aktuální forma výuky následující:
+V letním semestru 2021 (B212) je aktuální forma výuky následující:
 
 * Přednášky
-** Prezenčně v učebně A-1242.
-** Dostupný záznam na Youtube z minulého běhu včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
+** Prezenčně v učebně A-1247.
+** Dostupný záznam přednášek na YouTube včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
 * Cvičení
 ** Prezenčně v ImproLabu (A-1256).
 
 
 == 💯 Zkouška a průběh zkoušky
 
-V zimním semestru B211 bude aktuální forma zkoušky následující:
+V zimním semestru B212 bude aktuální forma zkoušky následující:
 
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky].
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
-* Teoretická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256) v nástroji MARAST.
+* Teoretická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256) v nástroji https://marast.fit.cvut.cz[MARAST].
 ** V KOSu budou vypsány termíny formou jednorázových akcí.
 ** Student se musí na akci přihlásit.
 ** Kvíz bude zaheslován vždy na konkrétní termín.
