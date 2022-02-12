@@ -1,6 +1,6 @@
 = Cvičení
 
-Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru a upravovat podle stylu výuky buď do nástroje 📜 Jupyter Notebook ;(prezenční) nebo 𝔻 Deepnote (online).
+Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru a upravovat podle stylu výuky buď do nástroje 📜 Jupyter Notebook (prezenční) nebo 𝔻 Deepnote (online).
 
 .Harmonogram cvičení
 [width=100%, cols="^1,2,5,5,^1", options="header"]
