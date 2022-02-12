@@ -5,18 +5,18 @@ ImproLab již od vzniku v roce 2017 disponuje profesionálním vybavením, kter�
 == Manipulace s kamerou
 
 . Když s kamerou nepracuji, vložím ji do ochranného igelitu a do krabičky.
-. Krytku kamery sundavám až bezprostředně předtím, než na ní šroubuji objektiv. 
+. Krytku kamery sundavám až bezprostředně předtím, než na ní šroubuji objektiv.
 . Jakmile má kamera sundanou krytku, otočím ji snímačem / závitem k zemi a začnu šroubovat objektiv, aby se do ní zbytečně neprášilo.
 . V žádném případě nemávám kamerou bez krytky a nedotýkám se ničím snímače.
 . Jakmile má kamera nasazený objektiv, přišroubuji ji ke Kaiser stojanu a krytku položím na stojan.
 . Až když je kamera na stojanu, připojuji do ní kabel.
 
 == Manipulace s objektivem
-. Vždy mám před sebou maximálně jeden vybalený objektiv, se kterým zrovna pracuji. 
+. Vždy mám před sebou maximálně jeden vybalený objektiv, se kterým zrovna pracuji.
 . Když se rozhodnu objektiv našroubovat na kameru, sundám jeho zadní krytku a až pak krytku kamery.
 . Spojení s kamerou se snažím udělat co nejrychleji, aby se ani do objektivu neprášilo.
 . Přední krytku sundavám až po umístění ke Kaiser stojanu a všechny krytky uschovám na stojan.
-. V žádném případě se nedotýkám optiky a ani se ji nepokouším čistit vlastními silami.
+. V žádném případě se nedotýkám optiky a ani se ji nepokouším čistit vlastními silami. Pokud je nutno optiku vyčistit, obrátím se na cvičící.
 . Aretační šrouby ostření / clony mám vždy utažené. Povolím je, jen pokud měním hodnoty objektivu.
 
 == Manipulace s kulovou hlavou
@@ -30,10 +30,10 @@ ImproLab již od vzniku v roce 2017 disponuje profesionálním vybavením, kter�
 . Nedotýkám se žádných obvodů a součástek na KATE, kvůli možnému ublížení elektrickým proudem.
 
 == Hlavní pravidlo
-Než opustím stanoviště, ujistím se, že je vše odpojeno, uklizeno a v původním stavu, aby to pohodlně mohl používat někdo po mně. V místnosti 
+Než opustím stanoviště, ujistím se, že je vše odpojeno, uklizeno a v původním stavu, aby to pohodlně mohl používat někdo po mně. V místnosti
 nejím, ani nepiju.
 
 == Co dělat, když objevím závadu?
-Okamžitě to nahlásím cvičícím. Pokud jsi náhodou viníkem závady ty, je lepší nám to sdělit s předstihem, než se to dozvíme z bezpečností kamery v laboratoři.  Pokud to budeme řešit my zpětně bez nahlášení, vina padá automaticky na tebe.
+Okamžitě to nahlásím cvičícím. Pokud jsi náhodou viníkem závady Ty, je lepší nám to sdělit s předstihem, než se to dozvíme z bezpečností kamery v laboratoři.  Pokud to budeme řešit my zpětně bez nahlášení, vina padá automaticky na Tebe.
 
 
