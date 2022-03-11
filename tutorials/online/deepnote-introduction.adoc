@@ -26,15 +26,15 @@ V sekci přehledu projektů můžete vytvořit svůj vlastní projekt, který je
 
 Všechny dostupné projekty v diskutovaném týmu BI-SVZ jsou pro studenty pouze s právy **View only**. Abyste mohli notebook spouštět a dělat do něj vlastní úpravy, je nejdříve nutné vytvořit jeho kopii. To lze učinit pomocí tlačítka *Duplicate* po kliku na *název projektu* vlevo v horní liště, které jej nakopíruje do vašeho osobního workspace.
 
-image::images/Deepnote_duplicate-project.png[width=300, align="center"]
+image::images/Deepnote_duplicate-project.png[align="center"]
 
 Duplikovaný projekt si uložte do svých osobních projektů (*Personal projects*).
 
-image::images/Deepnote_personal-projects.png[width=300, align="center"]
+image::images/Deepnote_personal-projects.png[align="center"]
 
 Abychom mohli k vašim úkolům přistupovat a hodnotit je, je zapotřebí je nasdílet pomocí tlačítka *Share* v pravé části horní lišty. Tam je třeba kliknout na *přepínač vpravo* a v dropdownu zvolit možnost *Execute*.
 
-image::images/Deepnote_share-project.png[width=300, align="center"]
+image::images/Deepnote_share-project.png[align="center"]
 
 V případě, že cílový projekt obsahuje např. dataset nebo jiná velká data, může proces duplikace trvat i několik minut.
 
