@@ -24,23 +24,30 @@ V sekci přehledu projektů můžete vytvořit svůj vlastní projekt, který je
 
 == Práce na projektu
 
-Všechny dostupné projekty v diskutovaném týmu BI-SVZ jsou pro studenty pouze s právy **View only**. Abyste mohli notebook spouštět a dělat do něj vlastní úpravy, je nejdříve nutné vytvořit jeho kopii. To lze učinit pomocí tlačítka *Duplicate* v horní liště, které jej nakopíruje do vašeho osobního workspace.
+Všechny dostupné projekty v diskutovaném týmu BI-SVZ jsou pro studenty pouze s právy **View only**. Abyste mohli notebook spouštět a dělat do něj vlastní úpravy, je nejdříve nutné vytvořit jeho kopii. To lze učinit pomocí tlačítka *Duplicate* po kliku na *název projektu* vlevo v horní liště, které jej nakopíruje do vašeho osobního workspace.
 
-image::images/Screen_Deepnote_Project_Duplicate.png[align="center"]
+image::images/Deepnote_duplicate-project.png[align="center"]
 
-Abychom mohli k vašim úkolům přistupovat a hodnotit je, nezapomeňte před duplikováním zaškrtnout checkbox "**Add admins of team BI-SVZ as collaborators?**". Po potvrzení dojde k duplikaci do vašich projektů a zároveň k přesměrování už na editovatelný a spustitelný notebook. V případě, že cílový projekt obsahuje např. dataset nebo jiná velká data, může proces duplikace trvat i několik minut.
+Duplikovaný projekt si uložte do svých osobních projektů (*Personal projects*).
 
-image::images/Screen_Deepnote_Project_Add_Admins.png[width=300, align="center"]
+image::images/Deepnote_personal-projects.png[align="center"]
+
+Abychom mohli k vašim úkolům přistupovat a hodnotit je, je zapotřebí je nasdílet pomocí tlačítka *Share* v pravé části horní lišty. Tam je třeba kliknout na *přepínač vpravo* a v dropdownu zvolit možnost *Execute*.
+
+image::images/Deepnote_share-project.png[align="center"]
+
+V případě, že cílový projekt obsahuje např. dataset nebo jiná velká data, může proces duplikace trvat i několik minut.
+
 
 == Spuštění hardwaru
 
-Jakmile dojde k úspěšnému duplikování cílového projektu, Deepnote začne automaticky spouštět virtuální stroj. Aktuální stav stroje je možné vidět v horním panelu vedle tlačítek *Run notebook* a **Restart notebook**. Cílem je, abyste v panelu před jakoukoliv interakcí s notebooky (např. spouštění buňek) viděli nápis *Ready* se zelenou ikonkou.
+Jakmile dojde k úspěšnému duplikování cílového projektu, Deepnote začne automaticky spouštět virtuální stroj. Aktuální stav stroje je možné vidět v horním panelu vedle tlačítek *Run notebook* a **Restart notebook**. Cílem je, abyste v panelu před jakoukoliv interakcí s notebooky (např. spouštění buněk) viděli nápis *Ready* se zelenou ikonkou.
 
 Občas se může stát, že se v notebooku něco zasekne, nefunguje apod. V případě, že jste si jisti, že nejde o vaší chybu, je možné restartovat kernel daného notebooku tlačítkem Restart notebook. Poté zkuste dané buňky opětovně spustit.
 
 == Práce v noteboocích
 
-Po nastartování a inciailizaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby, poznáte tak, že je vlevo dole označena zeleným checkmarkem.
+Po nastartování a inicializaci virtuálního stroje už můžete plně využívat dostupné prostředí. Do buněk můžete psát svůj vlastní Python kód, který můžete spouštět pomocí zkratky CTRL + ENTER (alternativně SHIFT + ENTER s přeskočením na další buňku) a výstupy vždy uvidíte po vykonání daného kódu hned pod buňkou. To, zda daná buňka již byla spuštěna a skončila bez chyby, poznáte tak, že je vlevo dole označena zeleným checkmarkem.
 
 Pro efektivnější práci v notebooku se doporučuje využívat klávesové zkratky. Jejich seznam naleznete v nápovědě s ikonou vlevo dole.
 
