@@ -48,7 +48,7 @@ Měření nejkratší vzdálenosti obdélníků
 ]
 | 5 (+2)
 | 2.   | 25. 3. 2022 | 7. 4. 2022  | 𝔻{nbsp}
-// link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
+link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
 Projektivní transformace
 //]
 | 6 (+2)
