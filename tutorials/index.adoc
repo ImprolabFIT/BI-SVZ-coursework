@@ -53,7 +53,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 7.
 | 1. 4. 2022
 | Perspektiva obrazu, 360° objektivy
-| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém]
+| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/7/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 
 | 8.
