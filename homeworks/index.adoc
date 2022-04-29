@@ -58,8 +58,8 @@ Výpočet BMI s využitím dat hloubkového senzoru
 ]
 | 7 (+2)
 | 4.   | 29. 4. 2022 | 12. 5. 2022   | 𝔻{nbsp}
-// link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
+link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-//]
+]
 | 8 (+2)
 |===
