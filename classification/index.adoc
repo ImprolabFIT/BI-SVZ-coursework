@@ -30,7 +30,8 @@
 === Praktická část
 
 * Pro úspěšné absolvování praktické části je nutné získat *alespoň 15 bodů* z možných 30.
-* Praktická část se skládá ze samostatného vypracování úlohy podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
+* Praktická část se skládá ze samostatného vypracování několika dílčích úloh podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
+* Ze zadaných dílčích úloh není přípustné získat z některé úlohy 0 bodů. V tom případě by bylo nutné celou praktickou zkoušku opakovat.
 
 
 == Ústní gamble
