@@ -8,7 +8,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | # | Datum | Téma | Soubory | Body
 
 | 1.
-| 18. 2. 2022
+| 23. 9. 2022
 | Úvodní cvičení, seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
 📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
@@ -17,7 +17,7 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 2
 
 | 2.
-| 25. 2. 2022
+| 30. 9. 2022
 | Práce s kamerami v Jupyter notebooku
 | 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu],
@@ -25,65 +25,65 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 2
 
 | 3.
-| 4. 3. 2022
+| 7. 10. 2022
 | Vady optiky, kalibrace kamery
 | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
 | 2
 
 | 4.
-| 11. 3. 2022
+| 14. 10. 2022
 | Základy segmentace
 | 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace]
 | 2
 
 | 5.
-| 18. 3. 2022
+| 21. 10. 2022
 | Pokročilejší  techniky segmentace
 | 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu]
 | 2
 
 | 6.
-| 25. 3. 2022
+| 4. 11. 2022
 | Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 2
 
 | 7.
-| 1. 4. 2022
+| 11. 11. 2022
 | Perspektiva obrazu, 360° objektivy
 | 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/7/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 
 | 8.
-| 8. 4. 2022
+| 15. 11. 2022
 | Řádkové kamery
 | 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
 
 | 9.
-| 22. 4. 2022
+| 25. 11. 2022
 | Techniky transformace
 | 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
 
 | 10.
-| 29. 4. 2022
+| 2. 12. 2022
 | Práce s hloubkovou kamerou
 | 📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí],
 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
 | 2
 
 | 11.
-| 6. 5. 2022
+| 9. 12. 2022
 | Základy měření s termokamerou
 | 📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
 //📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
 | 2
 
 | 12.
-| 13. 5. 2022
+| 16. 12. 2022
 | Klasifikace obrazu, detekce objektů
 | 📜{nbsp}link:files/12/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
 📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]

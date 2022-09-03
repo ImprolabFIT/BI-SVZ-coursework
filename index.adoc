@@ -2,7 +2,7 @@
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je https://teams.microsoft.com/l/team/19%3aVIN4V5Heac6k4h8mnTUfRgPWKuBl27UuKXjz7CL7LOc1%40thread.tacv2/conversations?groupId=9842d6f6-4562-4c2a-9628-a7a2d038b497&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8[ZDE].
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je [ZDE].
 
 
 == 🔖 Anotace
@@ -19,7 +19,7 @@ V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost 
 
 == 🦠 Aktuální forma výuky
 
-V letním semestru 2021 (B212) je aktuální forma výuky následující:
+V zimním semestru 2022 (B221) je aktuální forma výuky následující:
 
 * Přednášky
 ** Prezenčně v učebně A-1247.
@@ -30,7 +30,7 @@ V letním semestru 2021 (B212) je aktuální forma výuky následující:
 
 == 💯 Zkouška a průběh zkoušky
 
-V zimním semestru B212 bude aktuální forma zkoušky následující:
+V zimním semestru B221 bude aktuální forma zkoušky následující:
 
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky].
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
