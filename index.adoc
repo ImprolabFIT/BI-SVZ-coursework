@@ -51,6 +51,7 @@ V zimním semestru B221 bude aktuální forma zkoušky následující:
 * 📋 Zadání témat závěrečných prací
 ** https://projects.fit.cvut.cz/topics/search?author=novakj67[Jakub Novák]
 ** https://projects.fit.cvut.cz/topics/search?author=brchlluk[Lukáš Brchl]
+** https://projects.fit.cvut.cz/topics/search?author=glaseja1[Jan Glaser]
 * 📚 xref:lectures/index#[Přednášky]
 * 📙 xref:tutorials/index#[Cvičení]
 * 📑 xref:homeworks/index#[Domácí úkoly]
