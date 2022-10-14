@@ -43,9 +43,9 @@ Harmonogram úkolů je předběžný. V průběhu semestru může být upravová
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | 14. 10. 2022 | 27. 10. 2022 | 𝔻{nbsp}
-//link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
+link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
-//]
+]
 | 5 (+2)
 | 2.   | 28. 10. 2022 | 10. 11. 2022  | 𝔻{nbsp}
 //link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
