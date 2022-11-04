@@ -42,14 +42,17 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru. Postupně
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
-.3+| 6.
-.3+| 4. 11. 2022
+.4+| 6.
+.4+| 4. 11. 2022
 | 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi
 | link:https://youtu.be/539thQTNgPo[📼]
 <| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 💬{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi
 ^|link:https://youtu.be/VsxtQKGuVTk[📼]
 <| 👁{nbsp}https://www.pekatvision.com/cs[Pekat Vision]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi
 ^|link:https://youtu.be/kL89ZQt09zU[📼]
+<| 🃏{nbsp}https://www.revolt.bi[Revolt.BI]: 💬{nbsp}link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
+^|link:https://youtu.be/YfyLf-K45ho[📼]
+
 
 | 7.
 | 11. 11. 2022
