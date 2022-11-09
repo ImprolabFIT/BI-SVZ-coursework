@@ -9,6 +9,7 @@ navigation:
     - README.* 
     - files 
     - images
+    - lectures/praxe/*
     - env
     - showroom/**/*.jpg
     - showroom/**/*.png
