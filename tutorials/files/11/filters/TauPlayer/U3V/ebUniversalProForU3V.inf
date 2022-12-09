@@ -1,0 +1,100 @@
+;
+; ebUniversalProForU3V.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=PleoraU3VClass
+ClassGuid={5BBE678D-B4EB-4E12-87C2-756D50CCBDA9}
+Provider=%ManufacturerName%
+CatalogFile=ebUniversalProForU3V.cat
+DriverVer=07/20/2018,6.1.10.4642
+
+[DestinationDirs]
+DefaultDestDir = 12
+ebUniversalProForU3V_Device_CoInstaller_CopyFiles = 11
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+ebUniversalProForU3V.sys  = 1,,
+WdfCoInstaller01011.dll=1 ; make sure the number matches with SourceDisksNames
+
+;*****************************************
+; Install Section
+;*****************************************
+
+[ControlFlags]
+ExcludeFromSelect=USB\%U3VClassID%      
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTamd64
+
+[Standard.NTamd64]
+%ebUniversalProForU3V.DeviceDesc%=ebUniversalProForU3V_Device, USB\%U3VClassID% 
+
+[ebUniversalProForU3V_Device.NT]
+CopyFiles=Drivers_Dir
+
+[Drivers_Dir]
+ebUniversalProForU3V.sys
+
+[ebUniversalProForU3V_Device.NT.HW]
+AddReg=ebUniversalProForU3V_AddReg
+
+[ebUniversalProForU3V_AddReg]
+HKR,,FriendlyName,,%ebUniversalProForU3V.DeviceDesc%
+
+;-------------- Class definition
+
+[ClassInstall32]
+AddReg = ClassInstall_AddReg
+
+[ClassInstall_AddReg]
+HKR,,,,%ClassName%
+HKR,,NoInstallClass,,1
+HKR,,IconPath,%REG_MULTI_SZ%,"%%systemroot%%\system32\setupapi.dll,-20"
+HKR,,LowerLogoVersion,,5.2
+
+;-------------- Service installation
+[ebUniversalProForU3V_Device.NT.Services]
+AddService = ebUniversalProForU3V,%SPSVCINST_ASSOCSERVICE%, ebUniversalProForU3V_Service_Inst
+
+; -------------- ebUniversalProForU3V driver install sections
+[ebUniversalProForU3V_Service_Inst]
+DisplayName    = %ebUniversalProForU3V.SVCDESC%
+ServiceType    = 1               ; SERVICE_KERNEL_DRIVER
+StartType      = 3               ; SERVICE_DEMAND_START
+ErrorControl   = 1               ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %12%\ebUniversalProForU3V.sys
+LoadOrderGroup = Extended Base
+
+;
+;--- ebUniversalProForU3V_Device Coinstaller installation ------
+;
+
+[ebUniversalProForU3V_Device.NT.CoInstallers]
+AddReg=ebUniversalProForU3V_Device_CoInstaller_AddReg
+CopyFiles=ebUniversalProForU3V_Device_CoInstaller_CopyFiles
+
+[ebUniversalProForU3V_Device_CoInstaller_AddReg]
+HKR,,CoInstallers32,0x00010000, "WdfCoInstaller01011.dll,WdfCoInstaller"
+
+[ebUniversalProForU3V_Device_CoInstaller_CopyFiles]
+WdfCoInstaller01011.dll
+
+[ebUniversalProForU3V_Device.NT.Wdf]
+KmdfService =  ebUniversalProForU3V, ebUniversalProForU3V_wdfsect
+[ebUniversalProForU3V_wdfsect]
+KmdfLibraryVersion = 1.11
+
+[Strings]
+SPSVCINST_ASSOCSERVICE= 0x00000002
+ManufacturerName="Pleora Technologies Inc."
+ClassName="USB3 Vision devices"
+DiskName = "ebUniversal Pro For USB3 Vision Installation Disk"
+ebUniversalProForU3V.DeviceDesc = "USB3 Vision device"
+ebUniversalProForU3V.SVCDESC = "eBUS Universal Pro for USB3 Vision Service"
+REG_MULTI_SZ = 0x00010000
+U3VClassID = "CLASS_EF&SUBCLASS_05&PROT_00"

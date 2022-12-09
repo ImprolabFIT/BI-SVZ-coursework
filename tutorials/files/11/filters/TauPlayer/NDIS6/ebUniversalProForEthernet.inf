@@ -1,0 +1,88 @@
+﻿;-------------------------------------------------------------------------
+; ebUniversalProForEthernet.INF
+;
+; Copyright (c), 2010 Pleora Technologies Inc.  All rights reserved.
+;-------------------------------------------------------------------------
+
+[Version]
+Signature   = "$Windows NT$"
+Class       = NetService
+ClassGUID   = {4D36E974-E325-11CE-BFC1-08002BE10318}
+Provider    = %Provider%
+DriverVer=07/20/2018,6.1.10.4642
+CatalogFile = ebUniversalProForEthernet.cat
+
+[Manufacturer]
+%Provider%=PROVIDER,NTx86, NTamd64
+
+[PROVIDER.NTx86]
+%ebUniversalProForEthernetForEthernet_Desc%=Install, PT_ebUniversalProForEthernet
+
+[PROVIDER.NTamd64]
+%ebUniversalProForEthernetForEthernet_Desc%=Install, PT_ebUniversalProForEthernet
+
+[Install]
+AddReg=Inst_Ndi
+Characteristics=0x40000
+NetCfgInstanceId="{A0B15510-D345-4734-8B12-FC1DEDF5B934}"
+Copyfiles = ebUniversalProForEthernet.copyfiles.sys
+
+[Install.Remove]
+DelFiles = ebUniversalProForEthernet.copyfiles.sys
+
+[SourceDisksNames]
+1=%ebUniversalProForEthernetForEthernet_Desc%,"",,
+
+[SourceDisksFiles]
+ebUniversalProForEthernet.sys=1
+
+[DestinationDirs]
+DefaultDestDir=12
+ebUniversalProForEthernet.copyfiles.sys=12
+
+[ebUniversalProForEthernet.copyfiles.sys]
+ebUniversalProForEthernet.sys,,,0x00002002
+
+
+[Inst_Ndi]  
+HKR, Ndi,            ClsID,                    0, {AA22A954-5DFE-4B91-BDE7-3E9C2460A7A2}
+HKR, Ndi,            Service,                   , "ebUniversalProForEthernet"
+HKR, Ndi,            CoServices,      0x00010000, "ebUniversalProForEthernet"
+HKR, Ndi,            HelpText,                  , %ebUniversalProForEthernet_HelpText%
+HKR, Ndi,            FilterClass,               , custom
+HKR, Ndi,            FilterType,      0x00010001, 0x00000001
+HKR, Ndi\Interfaces, UpperRange,                ,"noupper"
+HKR, Ndi\Interfaces, LowerRange,                ,"nolower"
+HKR, Ndi\Interfaces, FilterMediaTypes,          ,"ethernet"
+HKR, Ndi,            FilterRunType,   0x00010001, 0x00000002 
+
+[Install.Services]
+AddService=ebUniversalProForEthernet,,ebUniversalProForEthernet_Service_Inst
+
+[ebUniversalProForEthernet_Service_Inst]
+DisplayName     = %ebUniversalProForEthernetForEthernet_Desc%
+ServiceType     = 1 ;SERVICE_KERNEL_DRIVER
+StartType       = 1 ;SERVICE_SYSTEM_START
+ErrorControl    = 1 ;SERVICE_ERROR_NORMAL
+ServiceBinary   = %12%\ebUniversalProForEthernet.sys
+LoadOrderGroup  = NDIS
+Description     = %ebUniversalProForEthernetForEthernet_Desc%
+AddReg          = ebUniversalProForEthernet.Params.reg
+
+[Install.Remove.Services]
+DelService=ebUniversalProForEthernet,0x200
+
+[ebUniversalProForEthernet.Params.reg]
+HKR, Parameters, MaximumNumberOfPlugInInstances, 	0x00010001, 0x00000020
+HKR, Parameters, MaximumNumberOfResendByAdapter, 	0x00010001, 0x00000200
+HKR, Parameters, RXPacketPoolSize, 			0x00010001, 0x00000100
+
+[Strings]
+Provider = "Pleora Technologies Inc."
+ebUniversalProForEthernetForEthernet_Desc = "eBUS Universal Pro For Ethernet Driver"
+ebUniversalProForEthernet_HelpText = "eBUS Universal Pro For Ethernet Filter Driver"
+
+
+
+
+
