@@ -34,9 +34,11 @@ Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatn�
 
 Pokud budete využívat části kódů z internetových zdrojů (např. StackOverflow), *uvádějte v kódu odkaz na zdrojové vlákno*. Dále *převzatý kód okomentujte,* ať je vidět, že dané problematice rozumíte.
 
+Pokud bude úkol odevzdán po deadlinu, ten je zpravidla před půlnocí daný den, bude ohodnocen 0 body.
+
 == Harmonogram úkolů
 
-Harmonogram úkolů je předběžný. V průběhu semestru může být upravován.
+Harmonogram úkolů je předběžný. V průběhu semestru může být upravován. 
 
 .Harmonogram úkolů
 [cols="2,3,3,9,^2", options="header"]
