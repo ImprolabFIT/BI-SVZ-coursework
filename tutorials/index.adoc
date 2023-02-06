@@ -2,22 +2,25 @@
 
 Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru a upravovat podle stylu výuky buď do nástroje 📜 Jupyter Notebook (prezenční) nebo 𝔻 Deepnote (online).
 
+// Definice proměnných datumů
+include::../vars.adoc[]
+
 .Harmonogram cvičení
 [width=100%, cols="^1,2,5,5,^1", options="header"]
 |====
 | # | Datum | Téma | Soubory | Body
 
 | 1.
-| 23. 9. 2022
+| {d01}
 | Úvodní cvičení, seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
+📖{nbsp}link:lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}kamerou],
 📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
-📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu],
-📖{nbsp}link:lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}kamerou]
+📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu]
 | 2
 
 | 2.
-| 30. 9. 2022
+| {d02}
 | Práce s kamerami v Jupyter notebooku
 | 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu],
@@ -25,65 +28,65 @@ Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobov
 | 2
 
 | 3.
-| 7. 10. 2022
+| {d03}
 | Vady optiky, kalibrace kamery
 | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
 | 2
 
 | 4.
-| 14. 10. 2022
-| Základy segmentace
-| 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace]
+| {d04}
+| Segmentace obrazu
+| 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace],
+📜{nbsp}link:files/4/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 | 2
 
 | 5.
-| 21. 10. 2022
-| Pokročilejší  techniky segmentace
-| 📜{nbsp}link:files/5/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
-📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu]
+| {d05}
+| Využití světel
+| 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu]
 | 2
 
 | 6.
-| 4. 11. 2022
+| {d06}
 | Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 2
 
 | 7.
-| 11. 11. 2022
+| {d07}
 | Perspektiva obrazu, 360° objektivy
 | 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/7/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 
 | 8.
-| 15. 11. 2022
+| {d08}
 | Řádkové kamery
 | 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
 
 | 9.
-| 25. 11. 2022
+| {d09}
 | Techniky transformace
 | 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
 
 | 10.
-| 2. 12. 2022
+| {d10}
 | Práce s hloubkovou kamerou
-| 📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí],
-📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
+| 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
+//📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
 | 2
 
 | 11.
-| 9. 12. 2022
+| {d11}
 | Základy měření s termokamerou
-| 📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
-//📜{nbsp}link:.[Měření{nbsp}fyzikálních{nbsp}vlastností{nbsp}materiálů]
+| 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
+//📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
 | 2
 
 | 12.
-| 16. 12. 2022
+| {d12}
 | Klasifikace obrazu, detekce objektů
 | 📜{nbsp}link:files/12/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
 📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]
