@@ -4,6 +4,8 @@
 
 Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je [ZDE].
 
+// Definice proměnných datumů
+include::vars.adoc[]
 
 == 🔖 Anotace
 
@@ -19,18 +21,18 @@ V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost 
 
 == 🦠 Aktuální forma výuky
 
-V zimním semestru 2022 (B221) je aktuální forma výuky následující:
+V semestru {semestr_id} je aktuální forma výuky následující:
 
 * Přednášky
 ** Prezenčně v učebně A-1247.
-** Dostupný záznam přednášek na YouTube včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
+** Dostupný záznam z dřívějších přednášek na YouTube včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
 * Cvičení
 ** Prezenčně v ImproLabu (A-1256).
 
 
 == 💯 Zkouška a průběh zkoušky
 
-V zimním semestru B221 bude aktuální forma zkoušky následující:
+V aktuálním semestru bude forma zkoušky následující:
 
 * Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky].
 * Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
@@ -55,7 +57,6 @@ V zimním semestru B221 bude aktuální forma zkoušky následující:
 * 📚 xref:lectures/index#[Přednášky]
 * 📙 xref:tutorials/index#[Cvičení]
 * 📑 xref:homeworks/index#[Domácí úkoly]
-* 📅 xref:calendar#[Kalendář výuky]
 * 🤸 xref:classification/index#[Získání zápočtu a složení zkoušky]
 * 🎓 xref:teachers/index#[Učitelé]
 * 📈 https://grades.fit.cvut.cz/[Body z předmětu]

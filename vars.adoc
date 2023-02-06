@@ -20,3 +20,5 @@
 :hw3_to:    27. 4. 2023
 :hw4_from:  {d09}
 :hw4_to:    11. 5. 2023 
+// Semestr
+:semestr_id: B222
