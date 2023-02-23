@@ -6,6 +6,7 @@
 * Za každé cvičení je možné získat *2 body*.
 * Budou zadány *4 úkoly* celkem za *26 bodů*. 
 * Během semestru je též možné získat až *10 prémiových bodů* za nadprůměrnou aktivitu a práci nad rámec povinností. Prémiové body neslouží k zisku zápočtu, vylepšují celkové hodnocení po zkoušce.
+* Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
 * Na cvičení se nepíší *žádné testy*.
 * *Docházka* na cvičení *se eviduje*, nemá však vliv na hodnocení.
 * Předmět není možné absolvovat bez získání zápočtu.
