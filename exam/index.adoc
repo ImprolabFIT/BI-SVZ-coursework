@@ -1,4 +1,4 @@
-= Informace ke zkoušce
+= 5. Informace ke zkoušce
 
 // Definice proměnných datumů
 include::../vars.adoc[]

@@ -1,4 +1,4 @@
-= Cvičení
+= 2. Cvičení
 
 Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru a upravovat podle stylu výuky buď do nástroje 📜 Jupyter Notebook (prezenční) nebo 𝔻 Deepnote (online).
 

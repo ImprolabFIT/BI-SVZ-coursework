@@ -1,4 +1,4 @@
-= Showroom
+= 7. Showroom
 
 Sekce odkazuje na ukázky zdrojových kódů podrobněji vysvětlující algoritmy nebo principy strojového vidění a zpracování obrazu.
 
