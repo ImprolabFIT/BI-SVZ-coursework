@@ -25,7 +25,7 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 ** `conda create --name SVZ python=3.8`
 * Aktivujte vytvořené virtuální prostředí
 ** `activate SVZ`
-* Doinstalujte potřebné knihovny pipem pomocí link:../env/SVZ-pip-req.txt[SVZ-pip-req] takto:
+* Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
 ** `pip install -r <cesta k SVZ-pip-req.txt>`
 
 
@@ -59,7 +59,7 @@ WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `
 ** `conda activate SVZ`
 * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
 ** `jupyter notebook <cesta k souborum kurzu>` 
-* Otevřete úvodní notebook link:../files/1/python-introduction.ipynb[Seznámení s jazykem Python] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
+* Otevřete úvodní notebook xref:../tutorials/files/1/jupyter-introduction.html[Práce s Jupyter notebooky] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
 ** Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musí se daný balíček doinstalovat pomocí `conda install`. V tom případě kontaktujte učitele.
 
 NOTE: Na cvičení je zjednodušeno použitím skriptu `svz` (xref:#_postup-na-cvičení[viz výše]).
