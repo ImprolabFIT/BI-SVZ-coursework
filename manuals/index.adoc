@@ -34,4 +34,4 @@ Sekce sjednocuje práci v Pythonu a Jupyter noteboocích, jejichž znalost je so
 
 * 🐍 xref:python-introduction.html#[Základy syntaxe jazyka Python], struktury a funkce
 * 📖 xref:jupyter-extensions.html#[Vhodná rozšíření do Jupyter notebooku], která jsou používána v předmětu
-* 📄 xref:juypter-notebook-cheatsheet.pdf[Cheatsheet pro práci s Jupyter notebooky] ve formě PDF
+* 📄 xref:jupyter-notebook-cheatsheet.pdf[Cheatsheet pro práci s Jupyter notebooky] ve formě PDF

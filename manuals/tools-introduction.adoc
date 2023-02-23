@@ -4,7 +4,7 @@ V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy
 
 K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí. Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor _spec-file.txt_, který obsahuje seznam potřebných balíčků pro tento kurz (viz jednotlivé soubory pro různé operační systémy níže). Ty se následně nainstalují při vytváření virtuálního prostředí. 
 
-Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde], detaily k instalaci balíčků https://conda.io/docs/user-guide/tasks/manage-pkgs.html[zde].
+Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
 
 == Postup na cvičení
 
