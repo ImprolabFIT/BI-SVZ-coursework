@@ -1,20 +1,42 @@
 = Úvodní stránka
 
-*Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
-
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je [ZDE].
-
 // Definice proměnných datumů
 include::vars.adoc[]
 
+*Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
+
+Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je {teams_link}[ZDE].
+
+
 == 🔖 Anotace
 
-Kamerové systémy se stávají běžnou součástí života tím, že jsou všeobecně dostupné. S tímto fenoménem souvisí i potřeba obrazové informace zpracovávat a vyhodnocovat. Předmět seznamuje studenty s různými druhy kamerových systémů a s řadou metod pro zpracování obrazu a videa. Předmět je orientován na praktické využití kamerových systémů pro řešení úloh z praxe, se kterými se mohou absolventi setkat.
+Předmět *Strojové vidění a zpracování obrazu* je orientován na automatizaci v průmyslu, kde se tzv. __machine vision__ využívá stále častěji.
+
+=== 🧠 Student si má z předmětu odnést
+
+* schopnost reagovat na vágně zadanou poptávku po strojovém vidění v praxi 
+* znalosti, které mu umožní pochopit problém z pohledu strojového vidění a navrhnout vhodnou snímací soustavu včetně kamery, objektivu a osvětlení s cílem zisku ideálních obrazových dat pro další zpracování 
+* teoretické znalosti o přehledu algoritmů použitelných s nejmenším možným úsilím na svoje získaná ideální data s cílem vyřešení úlohy
+* praktické znalosti s použitím implementací těchto algoritmů v jazyce Python na reálná data
+
+=== ✅ Předmět obsahuje
+
+* práci s *průmyslovým HW pro snímání dat* jako jsou maticové kamery, řádkové kamery, hloubkové senzory či termokamery
+* návrh *optické snímací soustavy* pomocí vhodných objektivů, filtrů a světel a její kalibraci
+* zisk ideálních dat pro další zpracování
+* návrh algoritmů pomocí *tradičních metod* zpracování obrazu
+* implementace algoritmů v *jazyce Python* s využitím *knihovny OpenCV*
+
+=== ❌ Předmět neobsahuje
+
+* návrh, výrobu a testování vlastního HW
+* návrh algoritmů s využitím *metod konvolučních neuronových sítí*
+* management projektu automatizace v průmyslu a cenotvorbu
 
 
 == ❗ Prerekvizity
 
-Prerekvizitou k zapsání předmětu je *základní znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
+Prerekvizitou k zapsání předmětu je *znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
 
 V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter Notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
 
@@ -30,36 +52,13 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 ** Prezenčně v ImproLabu (A-1256).
 
 
-== 💯 Zkouška a průběh zkoušky
-
-V aktuálním semestru bude forma zkoušky následující:
-
-* Platí veškeré podmínky a možnosti dostupné na xref:classification/index#[Získání zápočtu a složení zkoušky].
-* Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
-* Teoretická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256) v nástroji https://marast.fit.cvut.cz[MARAST].
-** V KOSu budou vypsány termíny formou jednorázových akcí.
-** Student se musí na akci přihlásit.
-** Kvíz bude zaheslován vždy na konkrétní termín.
-** Heslo se dozví student od zkoušejícího v místnosti.
-* Praktická část zkoušky bude probíhat **prezenčně** v ImproLabu (A-1256).
-** V KOSu budou vypsány termíny formou zkouškových termínů.
-** Student se musí na termín přihlásit.
-
-**Individuálně** budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte Jakuba Nováka na MS Teams.
-
-
 == 🔗 Odkazy
 
+* 📈 https://grades.fit.cvut.cz/[Body z předmětu]
+* 📆 https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
 * 📋 Zadání témat závěrečných prací
 ** https://projects.fit.cvut.cz/topics/search?author=novakj67[Jakub Novák]
 ** https://projects.fit.cvut.cz/topics/search?author=brchlluk[Lukáš Brchl]
 ** https://projects.fit.cvut.cz/topics/search?author=glaseja1[Jan Glaser]
-* 📚 xref:lectures/index#[Přednášky]
-* 📙 xref:tutorials/index#[Cvičení]
-* 📑 xref:homeworks/index#[Domácí úkoly]
-* 🤸 xref:classification/index#[Získání zápočtu a složení zkoušky]
-* 🎓 xref:teachers/index#[Učitelé]
-* 📈 https://grades.fit.cvut.cz/[Body z předmětu]
-* 👍 https://www.facebook.com/groups/219262205443063/[Nechceme vypadnout z BI-SVZ]
-* 📆 https://timetable.fit.cvut.cz/new/courses/BI-SVZ[Rozvrh předmětu]
+
 
