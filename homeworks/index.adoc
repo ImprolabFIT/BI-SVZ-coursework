@@ -10,9 +10,9 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../tutorials/online/deepnote-introduction#[𝔻 Deepnote].
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../manuals/deepnote-introduction#[𝔻 Deepnote].
 
-Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../tutorials/google-cloud.adoc[zde].
+Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../manuals/google-cloud#[zde].
 
 == Náležitosti úkolu
 

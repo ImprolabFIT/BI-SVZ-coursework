@@ -10,7 +10,7 @@ navigation:
     - files 
     - images
     - lectures/praxe/*
-    - manuals/*
+    - manuals/**/*
     - env
     - showroom/**/*.jpg
     - showroom/**/*.png

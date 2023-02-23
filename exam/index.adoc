@@ -7,7 +7,7 @@ Předmět je z pohledu obsahu a množství látky hodnocen jako jeden z těch t�
 
 Stránka upřesňuje formu a průběh zkoušky s cílem lepšího přiblížení studentům.
 
-NOTE: Konkrétní požadavky na absolvování předmětu (počet bodů atd.) jsou dostupné na stránce xref:classification/index#[Hodnocení].
+NOTE: Konkrétní požadavky na absolvování předmětu (počet bodů atd.) jsou dostupné na stránce xref:../classification/index#[Hodnocení].
 
 == ℹ️ Rozdělení a zdůvodnění
 

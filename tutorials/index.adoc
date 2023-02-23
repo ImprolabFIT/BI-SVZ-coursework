@@ -14,17 +14,15 @@ include::../vars.adoc[]
 | {d01}
 | Úvodní cvičení, seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
-📖{nbsp}link:lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}vybavením],
-📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
-📜{nbsp}link:files/1/python-introduction.html[Úvod{nbsp}do{nbsp}Pythonu]
+📖{nbsp}link:../manuals/lab-equipment#[Zásady{nbsp}práce{nbsp}s{nbsp}vybavením],
+📜{nbsp}link:files/1/jupyter-introduction#[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
 | 2
 
 | 2.
 | {d02}
 | Práce s kamerami v Jupyter notebooku
 | 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
-📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu],
-📚{nbsp}https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[Knihovna{nbsp}pro{nbsp}práci{nbsp}s{nbsp}kamerami]
+📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu]
 | 2
 
 | 3.

@@ -12,5 +12,5 @@ Cílem tohoto kurzu však není vyučovat jazyk Python, nýbrž zaměřit se pr�
 
 Naše práce se nebude skládat ani tak z programování v Pythonu, ale převážně z volání již hotových metod a využívání rozhraní (např. OpenCV). Uvidíte sami, že většina úkolů, které budeme řešit, budou předpřipravené a vystačíme si tedy se základní syntaxí jazyka. Mnohem důležitější je porozumění kontextu problému a návrh algoritmů/metod k jeho vyřešení.
 
-Stručné základy Pythonu lze nalézt v notebooku link:../files/1/python-introduction.ipynb[python-introduction.ipynb]. Pro hlubší poznání existuje třeba kurz v češtině od https://naucse.python.cz/course/pyladies/[PyLadies]
-Často využívané klávesové zkratky v Jupyter notebooku jsou popsány link:jupyter-notebook-cheat-sheet.pdf[zde].
+Stručné základy Pythonu lze nalézt v notebooku link:../../manuals/python-introduction.html[Základy syntaxe v Pythonu]. Pro hlubší poznání existuje třeba kurz v češtině od https://naucse.python.cz/course/pyladies/[PyLadies].
+Často využívané klávesové zkratky v Jupyter notebooku jsou popsány xref:../../manuals/jupyter-notebook-cheat-sheet.pdf[zde].
