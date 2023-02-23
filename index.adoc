@@ -61,7 +61,7 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 ** https://projects.fit.cvut.cz/topics/search?author=glaseja1[Jan Glaser]
 
 
-=== Další vhled do problematiky
+=== 🚶 Další vhled do problematiky
 
 Pro další vhled do problematiky využití neuronových sítí či počítačového vidění a tím rozšíření znalostí doporučujeme tyto předměty.
 
