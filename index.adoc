@@ -33,7 +33,6 @@ Předmět *Strojové vidění a zpracování obrazu* je orientován na automatiz
 * návrh algoritmů s využitím *metod konvolučních neuronových sítí*
 * management projektu automatizace v průmyslu a cenotvorbu
 
-
 == ❗ Prerekvizity
 
 Prerekvizitou k zapsání předmětu je *znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
@@ -61,4 +60,13 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 ** https://projects.fit.cvut.cz/topics/search?author=brchlluk[Lukáš Brchl]
 ** https://projects.fit.cvut.cz/topics/search?author=glaseja1[Jan Glaser]
 
+
+=== Další vhled do problematiky
+
+Pro další vhled do problematiky využití neuronových sítí či počítačového vidění a tím rozšíření znalostí doporučujeme tyto předměty.
+
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684506.html[Metody počítačového vidění] na FEL ČVUT, pro rozšíření a hlubší pochopení tradičních metod
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/54/67/p5467606.html[Zpracování medicínských obrazů] na FEL ČVUT, pro využití sofistikovanějších metod zpracování obrazu včetně využití hlubokého učení
+* https://courses.fit.cvut.cz/MI-MVI/[Metody výpočetní inteligence] na FIT ČVUT, pro základy a využití neuronových sítí
+* https://ufal.mff.cuni.cz/courses/npfl114/2122-summer[Hluboké učení] na MATFYZ UK, pro hlubší pochopení a využití hlubokého učení neuronových sítí i na obrazová data
 
