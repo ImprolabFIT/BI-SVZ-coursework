@@ -14,8 +14,8 @@ include::../vars.adoc[]
 | {d01}
 | Úvodní cvičení, seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
-📖{nbsp}link:../manuals/lab-equipment#[Zásady{nbsp}práce{nbsp}s{nbsp}vybavením],
-📜{nbsp}link:files/1/jupyter-introduction#[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
+📖{nbsp}link:../manuals/lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}vybavením],
+📜{nbsp}link:files/1/jupyter-introduction.html[Práce{nbsp}v{nbsp}Jupyter{nbsp}notebooku],
 | 2
 
 | 2.
