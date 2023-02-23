@@ -22,3 +22,5 @@
 :hw4_to:    11. 5. 2023 
 // Semestr
 :semestr_id: B222
+// MS Teams link
+:teams_link: https://teams.microsoft.com/l/team/19%3aTI13epp9UkZSUz_kFUYNk47cD_5Weoekkp20ruNiMbo1%40thread.tacv2/conversations?groupId=7762d9b4-f498-415b-b22e-53696f07ee2c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8
