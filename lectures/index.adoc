@@ -6,7 +6,7 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru. Postupně
 include::../vars.adoc[]
 
 .Harmonogram přednášek
-[cols="^1,3,12,^1", options="header,footer"]
+[width=100%, cols="^1,3,12,^1", options="header,footer"]
 |=======================
 | # | Datum      | Téma | 🎥
 
