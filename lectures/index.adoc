@@ -62,12 +62,14 @@ include::../vars.adoc[]
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
 | link:https://youtu.be/Sqole2oLMkA[📼]
 
-.2+| 8.
-.2+| {d08}
+.3+| 8.
+.3+| {d08}
 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | link:https://youtu.be/anMIwotiO94[📼]
 <| 💬{nbsp}Fourierova transformace a DCT, podrobněji
 ^| link:https://youtu.be/8iOTwA4bxoY[📼]
+<| 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
+^| -
 
 .2+| 9.
 .2+| {d09}
@@ -76,12 +78,14 @@ include::../vars.adoc[]
 <| 💬{nbsp}Hranové segmentace, podrobněji
 ^| link:https://youtu.be/nZVNvs0g_uk[📼]
 
-.2+| 10.
-.2+| {d10}
+.3+| 10.
+.3+| {d10}
 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
 | link:https://youtu.be/o0J2VNgoDbQ[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
 ^| link:https://youtu.be/Jx4NRcIX2nc[📼]
+<| 📊{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
+^| -
 
 .2+| 11.
 .2+| {d11}
@@ -97,6 +101,4 @@ include::../vars.adoc[]
 
 |=======================
 
-== Další doplňující materiály
-* 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
-* 📊{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
+//== Další doplňující materiály
