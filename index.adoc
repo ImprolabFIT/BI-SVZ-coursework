@@ -65,8 +65,9 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 
 Pro další vhled do problematiky využití neuronových sítí či počítačového vidění a tím rozšíření znalostí doporučujeme tyto předměty.
 
-* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684506.html[Metody počítačového vidění] na FEL ČVUT, pro rozšíření a hlubší pochopení tradičních metod
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684506.html[Metody počítačového vidění] a https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684106.html[Digitální obraz] na FEL ČVUT, pro rozšíření a hlubší pochopení tradičních metod
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/85/p4685306.html[Three-dimensional Computer Vision] na FEL ČVUT
 * https://intranet.fel.cvut.cz/cz/education/bk/predmety/54/67/p5467606.html[Zpracování medicínských obrazů] na FEL ČVUT, pro využití sofistikovanějších metod zpracování obrazu včetně využití hlubokého učení
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684306.html[Geometry of Computer Vision and Graphics] na FEL ČVUT, který navazuje na geometrické koncepty probírané v BI-SVZ
 * https://courses.fit.cvut.cz/MI-MVI/[Metody výpočetní inteligence] na FIT ČVUT, pro základy a využití neuronových sítí
-* https://ufal.mff.cuni.cz/courses/npfl114/2122-summer[Hluboké učení] na MFF UK, pro hlubší pochopení a využití hlubokého učení neuronových sítí i na obrazová data
-
+* https://ufal.mff.cuni.cz/courses/npfl114/2122-summer[Hluboké učení] na MFF UK, pro hlubší pochopení a využití hlubokého učení neuronových sítí na obrazových i jiných datech
