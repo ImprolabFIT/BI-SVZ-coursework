@@ -4,7 +4,7 @@ Sekce odkazuje na ukázky zdrojových kódů podrobněji vysvětlující algorit
 
 Uveřejnění ukázky studenta si zaslouží *body aktivity*.
 
-Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce `tutorials\showroom`.
+Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce `showroom`.
 
 == Ukázky
 * xref:adaptive_thresholding/index.html[Adaptivní prahování] (`@novakj67`)
