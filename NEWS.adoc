@@ -1,5 +1,24 @@
 = Novinky
 
+== Refaktor kurzu BI-SVZ
+:date: 2023-02-27
+Vážení studenti, dnes byl dokončen velký refaktor kurzu reflektující podněty v anketě za semestr B221. Byly provedeny tyto aktivity:
+
+* Úvodní stránka předmětu přehledně ukazuje co je cílem předmětu, co se student naučí a co se nenaučí, aby se zabránilo případným mylným očekáváním.
+* Byly dodány linky na předměty napříč pražskými univerzitami, které poskytují další znalosti a vhled do probrané problematiky.
+* Byla dodána stránka s dalšími informacemi ke zkoušce, které se běžně vyskytovaly v kanálu předmětu na MS Teams.
+* Materiály a návody byly přesunuty do přehlednější struktury na vlastní stránku.
+
+* Byla doplněna dokumentace knihovny improutils a vložena nová verze na PyPi (1.1.12).
+* Byla zkontrolovány jupyter notebooky cvičení kvůli chybám a opraveny.
+* Bylo navrženo a přidáno nové cvičení na práci se světly.
+
+* Byly vyhodnoceny kvízy v teoretické části zkoušky a nalezeny rozporuplné příklady z pohledu odpovědí.
+* Byly upraveny špatně odpovídané možnosti nalezených příkladů tak, aby byly jednoznačněji pochopitelné.
+
+Věříme, že všechna vylepšení reflektují podněty v anketě a povedou ke zvýšení kvality kurzu.
+
+
 == Vítejte v letním semestru
 :date: 2021-02-15
 Vážení studenti, předmět bude opět probíhat čistě distančně 😟 Během semestru se však počítá s organizací několika individuálních laboratorních cvičení pro menší počet lidí, abyste si alespoň trochu osahali HW a sžili se s ním.
