@@ -101,4 +101,9 @@ include::../vars.adoc[]
 
 |=======================
 
-//== Další doplňující materiály
+== Další doplňující materiály
+
+Odkazy na videa:
+
+* xref:media/star_thinning.wmv[Přednáška 4 - Hvězda]
+* xref:media/girl_thinning.wmv[Přednáška 4 - Silueta]
