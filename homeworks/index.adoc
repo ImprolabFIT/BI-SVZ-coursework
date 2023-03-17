@@ -38,7 +38,7 @@ Pokud bude úkol odevzdán po deadlinu, ten je zpravidla před půlnocí daný d
 
 == Harmonogram úkolů
 
-Harmonogram úkolů je předběžný. V průběhu semestru může být upravován. 
+Harmonogram úkolů je předběžný. V průběhu semestru může být upravován.
 
 // Definice proměnných datumů
 include::../vars.adoc[]
@@ -48,9 +48,9 @@ include::../vars.adoc[]
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | {hw1_from} | {hw1_to} | 𝔻{nbsp}
-//link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
+link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
-//]
+]
 | 5 (+2)
 | 2.   | {hw2_from} | {hw2_to}  | 𝔻{nbsp}
 //link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
