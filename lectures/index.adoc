@@ -105,5 +105,5 @@ include::../vars.adoc[]
 
 Odkazy na videa:
 
-* xref:files/media/star_thinning.wmv[Přednáška 4 - Hvězda]
-* xref:files/media/girl_thinning.wmv[Přednáška 4 - Silueta]
+* xref:files/media/star_thinning.wmv[Přednáška 11 - Hvězda]
+* xref:files/media/girl_thinning.wmv[Přednáška 11 - Silueta]
