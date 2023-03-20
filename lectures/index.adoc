@@ -45,9 +45,9 @@ include::../vars.adoc[]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
-.4+| 6.
-.4+| {d06}
-| 🤖{nbsp}https://vitesco-technologies.com/en/[Firma Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi
+.5+| 6.
+.5+| {d06}
+| 🤖{nbsp}https://vitesco-technologies.com/en/[Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi
 | link:https://youtu.be/539thQTNgPo[📼]
 <| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 💬{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi
 ^|link:https://youtu.be/VsxtQKGuVTk[📼]
@@ -55,6 +55,8 @@ include::../vars.adoc[]
 ^|link:https://youtu.be/kL89ZQt09zU[📼]
 <| 🃏{nbsp}https://www.revolt.bi[Revolt.BI]: 💬{nbsp}link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
 ^|link:https://youtu.be/YfyLf-K45ho[📼]
+<| 🦾{nbsp}https://www.atg.cz[ATG]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi
+^|link:TODO[📼]
 
 
 | 7.
