@@ -15,3 +15,6 @@ Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce
 
 * xref:morfologie/index.html[Morfologie] (`@novakj67`)
 ** Ukázka je podpůrným materiálem k rozšířenému videomateriálu přednášky 11 - xref:../lectures/index.html[Morfologie a tvarové charakteristiky].
+
+* xref:illumination/index.html[Volba vhodného osvětlení v kombinaci s kamerou] (`@kramnda1`)
+** Cílem ukázky je zdůraznit důležitost volby vhodného osvětlení a kamery. Zároveň jsou představena světla se kterými je možnost setkat se při cvičení. Každé světlo je stručně popsáno a jsou uvedeny konkrétní informace o světle samotném, např. jeho vlnová délka.
