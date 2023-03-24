@@ -41,7 +41,8 @@ include::../vars.adoc[]
 | 5.
 | {d05}
 | Využití světel
-| 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu]
+| 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
+📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
 | 2
 
 | 6.
