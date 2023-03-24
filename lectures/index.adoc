@@ -55,8 +55,8 @@ include::../vars.adoc[]
 ^|link:https://youtu.be/kL89ZQt09zU[📼]
 <| 🃏{nbsp}https://www.revolt.bi[Revolt.BI]: 💬{nbsp}link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
 ^|link:https://youtu.be/YfyLf-K45ho[📼]
-<| 🦾{nbsp}https://www.atg.cz[ATG]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi
-^|link:TODO[📼]
+<| 🦾{nbsp}https://www.atg.cz[ATG]: 💬{nbsp}Strojové vidění v NDT (__video na YT po přihlášení přes google FIT účet__)
+^|link:https://youtu.be/_Pxu07_bELw[📼]
 
 
 | 7.
