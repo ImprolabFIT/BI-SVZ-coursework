@@ -16,10 +16,11 @@
 
 
 == Odborní hosté
-* 🦾{nbsp}Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
-* 🌱{nbsp}firma Ullmanna
-* 👁{nbsp}Tomáš Gřeš, odborník z praxe, firma Pekat Vision
-* 🃏{nbsp}Karolína Everlingová, odbornice z praxe, firma Revolt.BI
+* Jaroslav Semerák, Adam Šolc, odborníci z praxe, firma Vitesco Technologies Czech Republic
+* firma Ullmanna
+* Tomáš Gřeš, odborník z praxe, firma Pekat Vision
+* Karolína Everlingová, odbornice z praxe, firma Revolt.BI
+* Radek Salač, Veronika Boučková, odborníci z praxe, firma ATG
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko], technik laboratoře
 * ♟{nbsp}https://usermap.cvut.cz/profile/fad3d524-0fc1-4d96-9a60-bcf544a8fa90[Jan Glaser], doktorand
 

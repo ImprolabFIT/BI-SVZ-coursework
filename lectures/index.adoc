@@ -45,24 +45,15 @@ include::../vars.adoc[]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
-.5+| 6.
-.5+| {d06}
-| 🤖{nbsp}https://vitesco-technologies.com/en/[Vitesco Technologies]: 💬{nbsp}Industry 4.0 - strojové vidění v praxi
-| link:https://youtu.be/539thQTNgPo[📼]
-<| 🌱{nbsp}https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]: 💬{nbsp}Chytré zemědělství - strojové vidění a umělá inteligence v praxi
-^|link:https://youtu.be/VsxtQKGuVTk[📼]
-<| 👁{nbsp}https://www.pekatvision.com/cs[Pekat Vision]: 💬{nbsp}Strojové vidění a umělá inteligence v praxi
-^|link:https://youtu.be/kL89ZQt09zU[📼]
-<| 🃏{nbsp}https://www.revolt.bi[Revolt.BI]: 💬{nbsp}link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
-^|link:https://youtu.be/YfyLf-K45ho[📼]
-<| 🦾{nbsp}https://www.atg.cz[ATG]: 💬{nbsp}Strojové vidění v NDT (__video na YT po přihlášení přes google FIT účet__)
-^|link:https://youtu.be/_Pxu07_bELw[📼]
-
+| 6.
+| {d06}
+| 🦾 Zvaná přednáška od odborníka z praxe
+^| xref:#_zvané_přednášky_z_praxe[🔗]
 
 | 7.
 | {d07}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
-| link:https://youtu.be/Sqole2oLMkA[📼]
+^| link:https://youtu.be/Sqole2oLMkA[📼]
 
 .3+| 8.
 .3+| {d08}
@@ -98,7 +89,7 @@ include::../vars.adoc[]
 | 12.
 | {d12}
 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]
-| link:https://youtu.be/ZX30MnyTrrk[📼]
+^| link:https://youtu.be/ZX30MnyTrrk[📼]
 
 
 |=======================
@@ -109,3 +100,46 @@ Odkazy na videa:
 
 * xref:files/media/star_thinning.wmv[Přednáška 11 - Hvězda]
 * xref:files/media/girl_thinning.wmv[Přednáška 11 - Silueta]
+
+
+== Přednášky od odborníků z praxe
+
+V rámci předmětu typicky namísto 6. přednášky je pozvaná firma z praxe, kde odborník předvede firmu a ukáže konkrétní aplikace strojového vidění a zpracování obrazu v praxi. 
+
+Cílem je přiblížit studentům praktické úlohy včetně řešení, na které je předmět BI-SVZ připravuje. Jedná se také o ideální příležitost se s někým z praxe pobavit a zjistit, jak to v realitě chodí.
+
+NOTE: Záznamy přednášek jsou k dispozici na YT. Občas je potřeba se na YT přihlásit FITím google účtem pro zobrazení videa.
+
+
+.Zvané přednášky z praxe
+[width=100%, cols="3,5,10,^1", options="header,footer"]
+|=======================
+| Datum      | Firma     | Téma | 🎥
+
+| 24. 3. 2023
+| https://www.atg.cz[ATG]
+| link:praxe/2022LS_ATG.pdf[Strojové vidění v NDT]
+footnote:[V případě zájmu o prezentace s videi ve formátu pptx, kontaktujte učitele.]
+| link:https://youtu.be/_Pxu07_bELw[📼]
+
+| 4. 11. 2022
+| https://www.revolt.bi[Revolt.BI]
+| link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
+| link:https://youtu.be/YfyLf-K45ho[📼]
+
+| 4. 4. 2022
+| https://www.pekatvision.com/cs[Pekat Vision]
+| Strojové vidění a umělá inteligence v praxi
+| link:https://youtu.be/kL89ZQt09zU[📼]
+
+| 7. 5. 2021
+| https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]
+| Chytré zemědělství - strojové vidění a umělá inteligence v praxi
+| link:https://youtu.be/VsxtQKGuVTk[📼]
+
+| 5. 3. 2021 
+| https://vitesco-technologies.com/en/[Vitesco Technologies]
+| Industry 4.0 - strojové vidění v praxi
+| link:https://youtu.be/539thQTNgPo[📼]
+
+|=======================
