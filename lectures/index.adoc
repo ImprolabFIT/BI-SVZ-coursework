@@ -48,7 +48,7 @@ include::../vars.adoc[]
 | 6.
 | {d06}
 | 🦾 Zvaná přednáška od odborníka z praxe
-^| xref:#_přednášky_od_odborníků_z_praxe[🔗]
+^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
 
 | 7.
 | {d07}
