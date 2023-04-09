@@ -12,14 +12,15 @@
 :d11: 12. 5. 2023
 :d12: 19. 5. 2023
 // Datumy úkolů
+:hw_hour_to: 23:59
 :hw1_from:  {d04}
-:hw1_to:    30. 3. 2023
+:hw1_to:    30. 3. 2023 {hw_hour_to}
 :hw2_from:  {d06}
-:hw2_to:    13. 4. 2023 
+:hw2_to:    13. 4. 2023 {hw_hour_to}
 :hw3_from:  {d07}
-:hw3_to:    27. 4. 2023
+:hw3_to:    27. 4. 2023 {hw_hour_to}
 :hw4_from:  {d09}
-:hw4_to:    11. 5. 2023 
+:hw4_to:    11. 5. 2023 {hw_hour_to}
 // Semestr
 :semestr_id: B222
 // MS Teams link
