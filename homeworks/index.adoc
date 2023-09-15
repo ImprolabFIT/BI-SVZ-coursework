@@ -48,23 +48,23 @@ include::../vars.adoc[]
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
 | 1.   | {hw1_from} | {hw1_to} | 𝔻{nbsp}
-link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
+//link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
-]
+//]
 | 5 (+2)
 | 2.   | {hw2_from} | {hw2_to}  | 𝔻{nbsp}
-link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
+//link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
 Projektivní transformace
-]
+//]
 | 6 (+2)
 | 3.   | {hw3_from}  | {hw3_to} | 𝔻{nbsp}
-link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
+//link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
 Výpočet BMI s využitím dat hloubkového senzoru
-]
+//]
 | 7 (+2)
 | 4.   | {hw4_from} | {hw4_to}   | 𝔻{nbsp}
-link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
+//link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-]
+//]
 | 8 (+2)
 |===

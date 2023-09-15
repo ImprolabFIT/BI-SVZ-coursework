@@ -1,27 +1,28 @@
 // Datumy přednášek a cvik
-:d01: 24. 2. 2023
-:d02: 3. 3. 2023
-:d03: 10. 3. 2023
-:d04: 17. 3. 2023
-:d05: 24. 3. 2023
-:d06: 31. 3. 2023
-:d07: 14. 4. 2023
-:d08: 21. 4. 2023
-:d09: 28. 4. 2023
-:d10: 5. 5. 2023
-:d11: 12. 5. 2023
-:d12: 19. 5. 2023
+// FIXME: na semestr B231, který má jen 11 týdnů bylo odstraněno datum "d11"
+:d01: 6. 10. 2023
+:d02: 13. 10. 2023
+:d03: 20. 10. 2023
+:d04: 27. 10. 2023
+:d05: 3. 11. 2023
+:d06: 10. 11. 2023
+:d07: 24. 11. 2023
+:d08: 1. 12. 2023
+:d09: 8. 12. 2023
+:d10: 15. 12. 2023
+:d11: 
+:d12: 22. 12. 2023
 // Datumy úkolů
 :hw_hour_to: 23:59
 :hw1_from:  {d04}
-:hw1_to:    30. 3. 2023 {hw_hour_to}
+:hw1_to:    9. 11. 2023 {hw_hour_to}
 :hw2_from:  {d06}
-:hw2_to:    13. 4. 2023 {hw_hour_to}
+:hw2_to:    23. 11. 2023 {hw_hour_to}
 :hw3_from:  {d07}
-:hw3_to:    27. 4. 2023 {hw_hour_to}
+:hw3_to:    7. 12. 2023 {hw_hour_to}
 :hw4_from:  {d09}
-:hw4_to:    11. 5. 2023 {hw_hour_to}
+:hw4_to:    21. 12. 2023 {hw_hour_to}
 // Semestr
-:semestr_id: B222
+:semestr_id: B231
 // MS Teams link
 :teams_link: https://teams.microsoft.com/l/team/19%3aTI13epp9UkZSUz_kFUYNk47cD_5Weoekkp20ruNiMbo1%40thread.tacv2/conversations?groupId=7762d9b4-f498-415b-b22e-53696f07ee2c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8

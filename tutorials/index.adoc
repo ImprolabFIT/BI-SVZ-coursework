@@ -54,8 +54,9 @@ include::../vars.adoc[]
 
 | 7.
 | {d07}
-| Perspektiva obrazu, 360° objektivy
-| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/7/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
+| Práce s hloubkovou kamerou
+| 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
+//📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
 | 2
 
 | 8.
@@ -72,17 +73,16 @@ include::../vars.adoc[]
 
 | 10.
 | {d10}
-| Práce s hloubkovou kamerou
-| 📜{nbsp}link:files/10/depth-measurements.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}meření{nbsp}rozměrů]
-//📜{nbsp}link:files/10/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
+| Perspektiva obrazu, 360° objektivy
+| 📜{nbsp}link:files/7/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/7/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 
-| 11.
-| {d11}
-| Základy měření s termokamerou
-| 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
+//| 11.
+//| {d11}
+//| Základy měření s termokamerou
+//| 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
 //📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
-| 2
+//| 2
 
 | 12.
 | {d12}

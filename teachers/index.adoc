@@ -9,10 +9,11 @@
 //* 🧑🏻{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
 * 👩🏻{nbsp}https://usermap.cvut.cz/profile/67620ac3-b529-4350-a81b-ed6c9cb4dde8[Justýna Frommová], cvičící
 * 👨🏼{nbsp}https://usermap.cvut.cz/profile/2eb45535-7f12-45bd-b769-3f8f919d87e8[Matěj Jech], cvičící
-* 😇{nbsp}https://usermap.cvut.cz/profile/9214310b-a1ea-40d9-9b76-8380a8272504[Jiří Szkandera], cvičící
-* 🤓{nbsp}https://usermap.cvut.cz/profile/f7846755-d298-414e-90e2-7a9c4bd62553[Filip Čacký], cvičící
-* 🥸{nbsp}https://usermap.cvut.cz/profile/caf7c3f0-ec86-4945-adad-739835d10714[David Mašek], cvičící
+//* 😇{nbsp}https://usermap.cvut.cz/profile/9214310b-a1ea-40d9-9b76-8380a8272504[Jiří Szkandera], cvičící
+//* 🤓{nbsp}https://usermap.cvut.cz/profile/f7846755-d298-414e-90e2-7a9c4bd62553[Filip Čacký], cvičící
+//* 🥸{nbsp}https://usermap.cvut.cz/profile/caf7c3f0-ec86-4945-adad-739835d10714[David Mašek], cvičící
 * 🧐{nbsp}https://usermap.cvut.cz/profile/5cfe7f5c-d480-4089-9ad2-5d8547c330ad[David Kramný], cvičící
+* 😇{nbsp}https://usermap.cvut.cz/profile/23ec15b2-b948-4a95-a3c6-711ca6ebaf2b[Daniel Pilař], cvičící
 
 
 == Odborní hosté

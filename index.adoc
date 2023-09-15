@@ -5,7 +5,7 @@ include::vars.adoc[]
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je {teams_link}[ZDE].
+//Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je {teams_link}[ZDE].
 
 
 == 🔖 Anotace
