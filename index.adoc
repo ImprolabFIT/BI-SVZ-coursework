@@ -37,7 +37,7 @@ Předmět *Strojové vidění a zpracování obrazu* je orientován na automatiz
 
 Prerekvizitou k zapsání předmětu je *znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
 
-V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost je k dobru, není však podmínkou. Práce v Jupyter Notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
+V předmětu se využívá pro práci nástroj *Jupyter Notebook*. Práce v Jupyter Notebooku bude vysvětlena. V případě online výuky bude využit online nástroj https://deepnote.com/[Deepnote].
 
 
 == 🦠 Aktuální forma výuky
@@ -45,7 +45,7 @@ V předmětu se využívá pro práci nástroj *Jupyter Notebook*, jeho znalost 
 V semestru {semestr_id} je aktuální forma výuky následující:
 
 * Přednášky
-** Prezenčně v učebně A-1247.
+** Prezenčně v učebně A-1242.
 ** Dostupný záznam z dřívějších přednášek na YouTube včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
 * Cvičení
 ** Prezenčně v ImproLabu (A-1256).
