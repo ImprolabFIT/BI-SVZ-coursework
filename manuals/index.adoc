@@ -33,5 +33,6 @@ Sekce odkazuje na návody související s prací s externími nástroji či apli
 Sekce sjednocuje práci v Pythonu a Jupyter noteboocích, jejichž znalost je součástí jiných předmětů na FIT.
 
 * 🐍 xref:python-introduction.html#[Základy syntaxe jazyka Python], struktury a funkce
+* 📜 xref:jupyter-introduction.html[Práce s Jupyter notebooky], zkratky a práce s buňkami
 * 📖 xref:jupyter-extensions.html#[Vhodná rozšíření do Jupyter notebooku], která jsou používána v předmětu
 * 📄 xref:jupyter-notebook-cheatsheet.pdf[Cheatsheet pro práci s Jupyter notebooky] ve formě PDF
