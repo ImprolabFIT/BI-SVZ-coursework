@@ -18,6 +18,7 @@ Sekce obsahuje návody na začátek práce se softwarovým prostředím.
 * 🖥️ xref:git-essentials.html#[GIT repozitář předmětu] včetně jeho použití
 * 📚 xref:improutils-package.html#[Improutils] je knihovna pro zjednodušení práce s OpenCV
 * 📚 https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[PyPylon OpenCV Viewer] je způsob připojení Basler kamer přímo do Jupyter notebooku
+** 📜 xref:basler-introduction[Práce s kamerami Basler] je notebook ukazující jeho konkrétní použití
 
 
 == Instalace dalších nástrojů a práce s nimi
