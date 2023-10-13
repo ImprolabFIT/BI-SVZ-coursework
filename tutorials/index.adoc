@@ -20,7 +20,7 @@ include::../vars.adoc[]
 | 2.
 | {d02}
 | Práce s kamerami a základy zpracování obrazu
-| 📜{nbsp}link:files/2/basler-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
+| 📜{nbsp}link:files/2/camera-introduction.html[Práce{nbsp}s{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu]
 | 2
 
