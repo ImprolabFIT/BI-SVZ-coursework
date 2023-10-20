@@ -27,7 +27,8 @@ include::../vars.adoc[]
 | 3.
 | {d03}
 | Vady optiky, kalibrace kamery
-| 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky{nbsp}a{nbsp}kalibrace{nbsp}kamery]
+| 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky]
+📜{nbsp}link:files/3/camera-calibration.html[Kalibrace{nbsp}kamery]
 | 2
 
 | 4.
