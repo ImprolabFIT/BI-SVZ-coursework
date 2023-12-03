@@ -50,16 +50,21 @@ include::../vars.adoc[]
 //| 🦾 Zvaná přednáška od odborníka z praxe
 //^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
 
-| 6.
-| {d06}
+
+.2+| 6
+.2+| {d06}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
 ^| link:https://youtu.be/Sqole2oLMkA[📼]
+<| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
+^| -
+
 
 .2+| 7.
 .2+| {d07}
 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://youtu.be/mqSSUN-I3Ig[📼]
+
 
 .3+| 8.
 .3+| {d08}
