@@ -54,6 +54,8 @@ include::../vars.adoc[]
 | {d07}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
 ^| link:https://youtu.be/Sqole2oLMkA[📼]
+<| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
+^| -
 
 .2+| 8.
 .2+| {d08}
