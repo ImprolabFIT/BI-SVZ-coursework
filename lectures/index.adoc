@@ -45,24 +45,24 @@ include::../vars.adoc[]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://youtu.be/btGz2TGLXuM[📼]
 
-//| 6.
-//| {d06}
-//| 🦾 Zvaná přednáška od odborníka z praxe
-//^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
-
 | 6.
 | {d06}
+| 🦾 Zvaná přednáška od odborníka z praxe
+^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
+
+| 7.
+| {d07}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
 ^| link:https://youtu.be/Sqole2oLMkA[📼]
 
-.2+| 7.
-.2+| {d07}
+.2+| 8.
+.2+| {d08}
 | 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://youtu.be/mqSSUN-I3Ig[📼]
 
-.3+| 8.
-.3+| {d08}
+.3+| 9.
+.3+| {d09}
 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | link:https://youtu.be/anMIwotiO94[📼]
 <| 💬{nbsp}Fourierova transformace a DCT, podrobněji
@@ -70,15 +70,15 @@ include::../vars.adoc[]
 <| 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 ^| -
 
-.2+| 9.
-.2+| {d09}
+.2+| 10.
+.2+| {d10}
 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
 | link:https://youtu.be/m8Zb7t3fYF8[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
 ^| link:https://youtu.be/nZVNvs0g_uk[📼]
 
-.3+| 10.
-.3+| {d10}
+.3+| 11.
+.3+| {d11}
 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
 | link:https://youtu.be/o0J2VNgoDbQ[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
@@ -86,7 +86,7 @@ include::../vars.adoc[]
 <| 📊{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
 ^| -
 
-| 11.
+| 12.
 | {d12}
 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]
 ^| link:https://youtu.be/ZX30MnyTrrk[📼]
