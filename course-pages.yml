@@ -14,6 +14,7 @@ navigation:
     - env
     - showroom/**/*.jpg
     - showroom/**/*.png
+    - showroom/**/*.py
     - showroom/**/data*
     - vars.*
 repository:

@@ -31,7 +31,7 @@ Praktická část zkoušky probíhá *prezenčně* v ImproLabu (A-1256).
 * V KOSu budou vypsány termíny formou zkouškových termínů.
 * Student se musí na termín přihlásit.
 
-NOTE: https://new.kos.cvut.cz/terms[Nový] webový KOS obsahuje všechny termíny přehledně na jedné straně - jak regulérní termíny, tak jednorázové akce.
+NOTE: https://kos.cvut.cz/terms[Webový KOS] obsahuje všechny termíny přehledně na jedné straně - jak regulérní termíny, tak jednorázové akce.
 
 *Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte xref:../teachers/index#[Jakuba Nováka] na MS Teams.
 
@@ -47,7 +47,7 @@ Co se na zkoušce děje:
 ** Vytvořte si vlastní notebook s funkcemi, kterým rozumíte!
 ** Notebook musí být spustitelný pomocí příkazu `%run vlastni_notebook.ipynb`.
 
-*Chyby* studentů při tvorbě vlastního notebooku:
+=== 🙅 Chyby studentů při tvorbě vlastního notebooku:
 
 * Nakopírují si všechny cvika pod sebe do notebooku ve snaze mít s sebou všechno a o nic nepřijít.
 ** Notebook je pak obrovský a nedá se nejen spustit ale i otevřít.
@@ -59,7 +59,7 @@ Co se na zkoušce děje:
 * Notebook si nevyzkouší jestli lze spustit pomocí `%run ...`
 ** Objevují se chyby, které student neumí v časové tísni zkoušky vyřešit a nakonec mu není k ničemu.¨
 
-*Výhody* vlastního notebooku s funkcemi:
+=== 👍 Výhody vlastního notebooku s funkcemi:
 
 * Student má materiál s knihovnou funkcí, kterým rozumí a umí je volat ke splnění úkolu.
 * Student si vylepšil funkce z ukázkového notebooku, které neuměl použít.
