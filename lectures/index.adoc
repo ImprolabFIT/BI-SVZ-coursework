@@ -50,8 +50,8 @@ include::../vars.adoc[]
 | 🦾 Zvaná přednáška od odborníka z praxe
 ^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
 
-| 7.
-| {d07}
+.2+| 7.
+.2+| {d07}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
 ^| link:https://youtu.be/Sqole2oLMkA[📼]
 <| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
