@@ -49,6 +49,7 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 ** Dostupný záznam z dřívějších přednášek na YouTube včetně dalšího záznamu rozšířeného vysvětlujícího materiálu k dané látce.
 * Cvičení
 ** Prezenčně v ImproLabu (A-1256).
+** Probíhají ve dvojicích, najít si vhodného parťáka pomůže, není však nutné.
 
 
 == 🔗 Odkazy
