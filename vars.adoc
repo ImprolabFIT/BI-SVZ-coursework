@@ -17,7 +17,7 @@
 :hw1_from:  {d04}
 :hw1_to:    4. 4. 2024 {hw_hour_to}
 :hw2_from:  {d06}
-:hw2_to:    18. 4. 2024 {hw_hour_to}
+:hw2_to:    21. 4. 2024 {hw_hour_to}
 :hw3_from:  {d08}
 :hw3_to:    2. 5. 2024 {hw_hour_to}
 :hw4_from:  {d10}
