@@ -32,6 +32,9 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 === Nejznámější problémy a errory
 WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `SVZ`!
 
+. Balíček `abc` si stěžuje na chybějící knihovnu `xyz`
+** Nainstalujte příslušnou knihovnu. Na linuxu je potřeba mít nainstalovány tyto knihovny: `ffmpeg`, `libsm6`, `libxext6`, `zbar-tools`, `tesseract-ocr`
+
 . Nefunguje rozšíření Jupyter notebooku `nbextension`. To lze opravit link:https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/issues/96#issuecomment-849050273[instalací přes condu]. 
 ** `conda install -c conda-forge jupyter_contrib_nbextensions`
 ** Potom uvnitř virtuálního prostředí nainstalovat rozšíření do uživatele.
