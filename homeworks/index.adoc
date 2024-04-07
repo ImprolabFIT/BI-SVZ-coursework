@@ -33,12 +33,12 @@ image::images/Git_Homework_Submission.png[]
 Nebude-li fungovat přístup na Deepnote ani po registraci fakultním e-mailem, potom
 
 . Stáhněte si Jupyter Notebook a příslušné materiály z GitLabu:
-** Klikněte na odkaz označený ikonkou 📜
-** Následně klikněte na tlačítko `Zobrazit na GitLabu`
+** Klikněte na odkaz označený ikonkou 📜.
+** Následně klikněte na tlačítko `Zobrazit na GitLabu`.
 ** Stáhněte si Jupyter Notebook s úkolem a všechny soubory ve složce.
 . Úkol vypracujte.
-. Na školním GitLabu vytvořte **privátní** repozitář
-. Do tohoto repozitáře dejte přístup link:../teachers/index.html[všem cvičícím] s rolí alespoň `Developer`
+. Na školním GitLabu vytvořte **privátní** repozitář.
+. Do tohoto repozitáře dejte přístup link:../teachers/index.html[všem cvičícím] s rolí alespoň `Developer`.
 . Vytvořte Confidential issue v repozitáři https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions] (viz výše).
 ====
 
