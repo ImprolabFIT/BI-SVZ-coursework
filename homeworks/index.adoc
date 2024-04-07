@@ -32,7 +32,7 @@ image::images/Git_Homework_Submission.png[]
 ====
 Nebude-li fungovat přístup na Deepnote ani po registraci fakultním e-mailem, potom
 
-. Stáhněte si jupyter notebook a příslušné materiály z GitLabu:
+. Stáhněte si Jupyter Notebook a příslušné materiály z GitLabu:
 ** Klikněte na odkaz označený ikonkou 📜
 ** Následně klikněte na tlačítko `Zobrazit na GitLabu`
 ** Stáhněte si Jupyter Notebook s úkolem a všechny soubory ve složce.
