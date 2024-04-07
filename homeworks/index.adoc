@@ -38,7 +38,7 @@ Nebude-li fungovat přístup na Deepnote ani po registraci fakultním e-mailem, 
 ** Stáhněte si Jupyter Notebook s úkolem a všechny soubory ve složce.
 . Úkol vypracujte.
 . Na školním GitLabu vytvořte **privátní** repozitář.
-. Do tohoto repozitáře dejte přístup link:../teachers/index.html[všem cvičícím] s rolí alespoň `Developer`.
+. Do tohoto repozitáře dejte přístup (s rolí alespoň `Developer`) link:../teachers/index.html[všem cvičícím].
 . Vytvořte Confidential issue v repozitáři https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions] (viz výše).
 ====
 
