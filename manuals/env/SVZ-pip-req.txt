@@ -1,14 +1,11 @@
-txt
-# Chyby v novější verzi
-nbconvert==5.6.1
-# Windows specific bug v novější i starší verzi
-jupyter-client==6.1.12
-jupyter-contrib-nbextensions==0.5.1
-jupyter-nbextensions-configurator==0.4.1
-opencv-python==4.5.3.56
-matplotlib==3.4.3
-pytesseract==0.3.8
-Pillow==8.3.1
-scikit-image==0.18.2
-natsort==7.1.1
+nbconvert # ==5.6.1
+jupyter-client # ==6.1.12
+jupyter-contrib-nbextensions # ==0.5.1
+jupyter-nbextensions-configurator # ==0.4.1
+opencv-python # ==4.5.3.56
+matplotlib # ==3.4.3
+pytesseract # ==0.3.8
+Pillow # ==8.3.1
+scikit-image # ==0.18.2
+natsort # ==7.1.1
 improutils
