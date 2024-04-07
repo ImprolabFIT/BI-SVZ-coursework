@@ -28,6 +28,20 @@ Do každého issue *vložte odkaz* na vypracovaný úkol v nástroji Deepnote a 
 
 image::images/Git_Homework_Submission.png[]
 
+[WARNING]
+====
+Nebude-li fungovat přístup na Deepnote ani po registraci fakultním e-mailem, potom
+
+. Stáhněte si jupyter notebook a příslušné materiály z GitLabu:
+** Klikněte na odkaz označený ikonkou 📜
+** Následně klikněte na tlačítko `Zobrazit na GitLabu`
+** Stáhněte si Jupyter Notebook s úkolem a všechny soubory ve složce.
+. Úkol vypracujte.
+. Na školním GitLabu vytvořte **privátní** repozitář
+. Do tohoto repozitáře dejte přístup [všem cvičícím](../teachers/index.html) s rolí alespoň `Developer`
+. Vytvořte Confidential issue v repozitáři https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions] (viz výše).
+====
+
 == Etika domácích úkolů
 
 Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatně.* Plagiátorství nebude tolerováno. V případě *podezření* bude automaticky úkol ohodnocen 0 body. Záleží pak pouze na studentovi, zda se to změní.
@@ -50,21 +64,25 @@ include::../vars.adoc[]
 | 1.   | {hw1_from} | {hw1_to} | 𝔻{nbsp}
 link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
 Měření nejkratší vzdálenosti obdélníků
-]
+] +
+📜{nbsp}link:files/1/1_task.html[Měření nejkratší vzdálenosti obdélníků]
 | 5 (+2)
 | 2.   | {hw2_from} | {hw2_to}  | 𝔻{nbsp}
 link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
 Projektivní transformace
-]
+] +
+📜{nbsp}link:files/2/2_task.html[Projektivní transformace]
 | 6 (+2)
 | 3.   | {hw3_from}  | {hw3_to} | 𝔻{nbsp}
 link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
 Výpočet BMI s využitím dat hloubkového senzoru
-]
+] +
+📜{nbsp}link:files/3/3_task.html[Výpočet BMI s využitím dat hloubkového senzoru]
 | 7 (+2)
 | 4.   | {hw4_from} | {hw4_to}   | 𝔻{nbsp}
 link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-]
+] +
+📜{nbsp}link:files/4/4_task.html[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]
 | 8 (+2)
 |===
