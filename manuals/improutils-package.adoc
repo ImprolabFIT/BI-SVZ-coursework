@@ -2,7 +2,7 @@
 
 Pro jednodušší vypracování cvičení a domácích úkolů jsme se rozhodli vytvořit improutils - balíček s usnadňujícími a užitečnými funkcemi týkající se zpracování obrazu (dříve SVZ.ipynb).
 
-Procházet kód jednotlivých funkcí je možné přímo v https://gitlab.fit.cvut.cz/bi-svz/improutils_package[oficiálním GitLab repozitáři]. Distribuce balíčku probíhá pomocí nástroje https://pypi.org/project/improutils/[PyPI].
+Procházet kód jednotlivých funkcí je možné přímo v https://gitlab.fit.cvut.cz/bi-svz/improutils_package[oficiálním GitLab repozitáři] nebo ve https://github.com/ImprolabFIT/Improutils/tree/master[veřejném GitHub mirroru]. Distribuce balíčku probíhá pomocí nástroje https://pypi.org/project/improutils/[PyPI]. Dokumentace je dostupná na https://improutils.readthedocs.io/en/master/[Read the Docs].
 
 == Použití improutils
 Před použitím balíčku je nutné jej nejdříve nainstalovat do cílového prostředí. Od cvičících budete mít vždy připravený soubor requirements.txt, který by již měl obsahovat všechny potřebné závislosti. Pokud byste se jej však rozhodli instalovat po vlastní ose, stačí k tomu zavolat příkaz `pip install improutils`. Doporučujeme vždy instalovat pouze poslední verzi.
