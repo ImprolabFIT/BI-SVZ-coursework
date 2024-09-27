@@ -1,28 +1,28 @@
 // Datumy přednášek a cvik
 // FIXME: na semestr B231, který má jen 11 týdnů bylo odstraněno datum "d11"
-:d01: 23. 2. 2024
-:d02: 1. 3. 2024
-:d03: 8. 3. 2024
-:d04: 15. 3. 2024
-:d05: 22. 3. 2024
-:d06: 5. 4. 2024
-:d07: 12. 4. 2024
-:d08: 19. 4. 2024
-:d09: 26. 4. 2024
-:d10: 3. 5. 2024
-:d11: 10. 5. 2024
-:d12: 17. 5. 2024
+:d01: 27. 9. 2024
+:d02: 4. 10. 2024
+:d03: 11. 10. 2024
+:d04: 18. 10. 2024
+:d05: 25. 10. 2024
+:d06: 1. 11. 2024
+:d07: 8. 11. 2024
+:d08: 15. 11. 2024
+:d09: 22. 11. 2024
+:d10: 29. 11. 2024
+:d11: 6. 12. 2024
+:d12: 13. 12. 2024
 // Datumy úkolů
 :hw_hour_to: 23:59
 :hw1_from:  {d04}
-:hw1_to:    4. 4. 2024 {hw_hour_to}
+:hw1_to:    31. 10. 2024 {hw_hour_to}
 :hw2_from:  {d06}
-:hw2_to:    21. 4. 2024 {hw_hour_to}
+:hw2_to:    14. 11. 2024 {hw_hour_to}
 :hw3_from:  {d08}
-:hw3_to:    2. 5. 2024 {hw_hour_to}
+:hw3_to:    28. 11. 2024 {hw_hour_to}
 :hw4_from:  {d10}
-:hw4_to:    16. 5. 2024 {hw_hour_to}
+:hw4_to:    19. 12. 2024 {hw_hour_to}
 // Semestr
-:semestr_id: B232
+:semestr_id: B242
 // MS Teams link (deprecated)
 :teams_link: https://teams.microsoft.com/l/team/19%3aTI13epp9UkZSUz_kFUYNk47cD_5Weoekkp20ruNiMbo1%40thread.tacv2/conversations?groupId=7762d9b4-f498-415b-b22e-53696f07ee2c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8
