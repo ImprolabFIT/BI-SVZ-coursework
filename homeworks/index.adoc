@@ -61,28 +61,23 @@ include::../vars.adoc[]
 [cols="2,3,3,9,^2", options="header"]
 |===
 | Úkol | Zadání     | Deadline   | Téma     | Body
-| 1.   | {hw1_from} | {hw1_to} | 𝔻{nbsp}
-link:https://deepnote.com/project/Homework-1-yeMyOhQ-TJ6O8cbtkGLlPA[
+| 1.   | {hw1_from} | {hw1_to} | 
 Měření nejkratší vzdálenosti obdélníků
-] +
-📜{nbsp}link:files/1/1_task.html[Měření nejkratší vzdálenosti obdélníků]
+//📜{nbsp}link:files/1/1_task.html[Měření nejkratší vzdálenosti obdélníků]
 | 5 (+2)
-| 2.   | {hw2_from} | {hw2_to}  | 𝔻{nbsp}
-link:https://deepnote.com/project/0027bb59-6ec3-4a0d-bae5-5343fe353469[
+
+| 2.   | {hw2_from} | {hw2_to}  | 
 Projektivní transformace
-] +
-📜{nbsp}link:files/2/2_task.html[Projektivní transformace]
+//📜{nbsp}link:files/2/2_task.html[Projektivní transformace]
 | 6 (+2)
-| 3.   | {hw3_from}  | {hw3_to} | 𝔻{nbsp}
-link:https://deepnote.com/project/dd8fd64a-73b5-45e5-8bd2-9e8e3887d224[
+
+| 3.   | {hw3_from}  | {hw3_to} | 
 Výpočet BMI s využitím dat hloubkového senzoru
-] +
-📜{nbsp}link:files/3/3_task.html[Výpočet BMI s využitím dat hloubkového senzoru]
+//📜{nbsp}link:files/3/3_task.html[Výpočet BMI s využitím dat hloubkového senzoru]
 | 7 (+2)
-| 4.   | {hw4_from} | {hw4_to}   | 𝔻{nbsp}
-link:https://deepnote.com/project/cb96ed8f-8ccb-4e75-aa03-5c9798c13a08[
+
+| 4.   | {hw4_from} | {hw4_to}   | 
 Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery
-] +
-📜{nbsp}link:files/4/4_task.html[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]
+//📜{nbsp}link:files/4/4_task.html[Výpočet plochy zahřívaného spoje s využitím dat termokamery a RGB kamery]
 | 8 (+2)
 |===
