@@ -80,7 +80,7 @@ def plot_distortion(k1:float,k2:float,k3:float,k4:float,k5:float,k6:float, p1:fl
 def camera_calibration(calib_path: str, 
                        chess_shape: Tuple[int,int], 
                        cv2_flags:int = 0, 
-                       extensions: List[str] = ["jpg", "jpeg" ,"png", "tiff"]) -> Tuple[float, 
+                       extensions: List[str] = ["jpg", "jpeg" ,"png", "tiff", "bmp"]) -> Tuple[float, 
                                                                                         np.ndarray,
                                                                                         np.ndarray, 
                                                                                         Tuple[np.ndarray], 
