@@ -5,3 +5,4 @@
 *.sw*
 *.log
 *.t7
+__pycache__/
