@@ -10,37 +10,15 @@ Může se stát, že v rámci úkolu budete řešit nějaký technický problém
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. K tomu, abyste nemuseli rozcházet Python prostředí na svém vlastním počítači, využijeme online nástroj xref:../manuals/deepnote-introduction#[𝔻 Deepnote].
-
-Kromě toho bude v nějakých úlohách nutné využívat služby Google Cloudu. Podrobnosti k tomuto postupu naleznete xref:../manuals/google-cloud#[zde].
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. Každému byl vytvořen repozitář pod vlastním nicknamem, který bude sloužit pro vyřešení a odevzdání úkolů. Podrobný návod, jak zprovoznit repozitář najdete v *README* v main větvi vašeho repozitáře.
 
 == Náležitosti úkolu
 
-Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extrémních případech může být i nehodnotitelný.
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extrémních případech může být i nehodnotitelný. 
 
 == Odevzdání úkolů
 
-Úkoly se odevzdávají na *FIT GitLab*, konkrétně do veřejného repozitáře https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions].
-
-Pro každý úkol v daném repozitáři vytvořte tzv. *Confidential issue* (viz screen níže). Díky označení flagem *Confidential* nebudou detaily diskutované mezi vámi a cvičícími viditelné pro kohokoliv jiného.
-
-Do každého issue *vložte odkaz* na vypracovaný úkol v nástroji Deepnote a zkontrolujte si, že do odevzdávaného projektu mají *všichni cvičící* přístup. Kromě toho můžete v popisu ještě uvést jakékoliv jiné detaily, které by nám měly pomoct v hodnocení. Každý odevzdaný úkol vhodně pojmenujte a to ve formátu: ``__username__ - Homework __číslo-úkolu__``.
-
-image::images/Git_Homework_Submission.png[]
-
-[WARNING]
-====
-Nebude-li fungovat přístup na Deepnote ani po registraci fakultním e-mailem, potom
-
-. Stáhněte si Jupyter Notebook a příslušné materiály z GitLabu:
-** Klikněte na odkaz označený ikonkou 📜.
-** Následně klikněte na tlačítko `Zobrazit na GitLabu`.
-** Stáhněte si Jupyter Notebook s úkolem a všechny soubory ve složce.
-. Úkol vypracujte.
-. Na školním GitLabu vytvořte **privátní** repozitář.
-. Do tohoto repozitáře dejte přístup (s rolí alespoň `Developer`) link:../teachers/index.html[všem cvičícím].
-. Vytvořte Confidential issue v repozitáři https://gitlab.fit.cvut.cz/bi-svz/bi-svz-homework-submissions[BI-SVZ-Homework-Submissions] (viz výše).
-====
+V `main` větvi budou připraveny materiály k jednotlivým úkolům, nezapomeňte vždy před vytvořením nové větve udělat `pull` mainu. Úkoly se odevzdávají pomocí Merge requestů ve vašem repozitáři. Pro každý nový úkol vytvořte větev s názvem `hw-XX`, kde XX je číslo úkolu. Pracujte na úkolu, commitujte změny do větve `hw-XX` a pushujte dle libosti. Jakmile úkol dokončíte, otevřete **merge request** (MR) z vaší větve `hw-XX` do vaší větve `main`. **NE**přiřazujte Assignee ani Reviewer nikomu ze cvičících, rozřazení bude prováděno až po deadlinu úkolu.
 
 == Etika domácích úkolů
 
