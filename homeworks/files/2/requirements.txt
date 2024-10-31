@@ -1,8 +1,12 @@
-nbconvert==6.4.4
-opencv-python
-matplotlib
-pytesseract
-Pillow
-scikit-image
-natsort
-improutils
+# Image
+opencv-python==4.10.0.84
+pillow==10.4.0
+improutils==1.2.0
+scikit-image==0.24.0
+# 3D
+trimesh[easy]==4.5.1 # replace `easy` with `full` if you want to use trimesh for rendering
+# Other
+numpy==2.1.0
+matplotlib==3.9.0
+ipykernel
+tqdm==4.66.5 # progress bar
