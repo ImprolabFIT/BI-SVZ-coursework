@@ -118,6 +118,11 @@ NOTE: Záznamy přednášek jsou k dispozici na YT. Občas je potřeba se na YT 
 |=======================
 | Datum      | Firma     | Téma | 🎥
 
+| 1. 11. 2024
+| https://www.datamole.ai[Datamole]
+| link:praxe/2024ZS_Datamole.pdf[Animal 3D Reconstruction]
+| link:https://youtu.be/Xpx2m1FKQAE[📼]
+
 | 24. 3. 2023
 | https://www.atg.cz[ATG]
 | link:praxe/2022LS_ATG.pdf[Strojové vidění v NDT]
