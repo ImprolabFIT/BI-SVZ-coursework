@@ -41,7 +41,7 @@ Co se na zkoušce děje:
 
 * Student vytváří vlastní Jupyter notebook, který odevzdává.
 * Student má k dispozici internet pro možné hledání oprav chyb v pythonu nebo dokumentaci k OpenCV funkcím.
-* Internet *není* dostupný pro repozitář na deepnote, courses nebo fití gitlab.
+* Internet *není* dostupný pro courses, gitlab či **ChatGPT**.
 * Student si může na flashce donést *JEDEN* vlastní jupyter notebook s funkcemi, které lze používat pro splnění zkoušky
 ** Ukázkový notebook svz.ipynb je k dispozici na repozitáři (jeho html verze zde).
 ** Vytvořte si vlastní notebook s funkcemi, kterým rozumíte!
