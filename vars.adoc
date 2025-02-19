@@ -24,5 +24,8 @@
 :hw4_to:    15. 5. 2025 {hw_hour_to}
 // Semestr
 :semestr_id: B251
+// Místnosti
+:lecture_room: A-s135
+:tutorial_room: Improlab (A-1256)
 // MS Teams link (deprecated)
 :teams_link: https://teams.microsoft.com/l/team/19%3aTI13epp9UkZSUz_kFUYNk47cD_5Weoekkp20ruNiMbo1%40thread.tacv2/conversations?groupId=7762d9b4-f498-415b-b22e-53696f07ee2c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8
