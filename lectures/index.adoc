@@ -13,37 +13,37 @@ include::../vars.adoc[]
 .2+| 1.
 .2+| {d01}
 | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata]
-| link:https://youtu.be/psqkcTZ8APs[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-21_2.html[📼]
 <| 💬{nbsp}Info k předmětu a organizaci
-^| link:https://youtu.be/QNUftCo5f_Y[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-21_1.html[📼]
 
 .2+| 2.
 .2+| {d02}
 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika]
-| link:https://youtu.be/dli9cXnFhpo[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-28_1.html[📼]
 <| 💬{nbsp}Druhy senzorů a optika, podrobněji
-^| link:https://youtu.be/jJb497X37qo[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-28_2.html[📼]
 
 .2+| 3.
 .2+| {d03}
 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]
-| link:https://youtu.be/eG7EpOe4msk[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-07_1.html[📼]
 <| 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů]
-^| link:https://youtu.be/mrYzwSv-DUc[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-07_2.html[📼]
 
 .2+| 4.
 .2+| {d04}
 | 📖{nbsp}link:files/bi-svz-04-obraz-jako-matice.pdf[Obraz jako matice]
-| link:https://youtu.be/KacwHFYQods[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-14_1.html[📼]
 <| 💬{nbsp}Aliasing a DCT
-^| link:https://youtu.be/mhAI-4nA1zw[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-14_2.html[📼]
 
 .2+| 5.
 .2+| {d05}
 | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]
-| link:https://youtu.be/nUdqWlqvh8c[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-21_1.html[📼]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
-^| link:https://youtu.be/btGz2TGLXuM[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-21_2.html[📼]
 
 | 6.
 | {d06}
@@ -53,45 +53,45 @@ include::../vars.adoc[]
 .2+| 7.
 .2+| {d07}
 | 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
-^| link:https://youtu.be/Sqole2oLMkA[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-04_1.html[📼]
 <| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
 ^| -
 
 .2+| 8.
 .2+| {d08}
-| 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://youtu.be/KYQEiNktmSw[📼]
+| 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_1.html[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
-^| link:https://youtu.be/mqSSUN-I3Ig[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_2.html[📼]
 
 .3+| 9.
 .3+| {d09}
 | 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
-| link:https://youtu.be/anMIwotiO94[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-25_1.html[📼]
 <| 💬{nbsp}Fourierova transformace a DCT, podrobněji
-^| link:https://youtu.be/8iOTwA4bxoY[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-25_2.html[📼]
 <| 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 ^| -
 
 .2+| 10.
 .2+| {d10}
 | 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
-| link:https://youtu.be/m8Zb7t3fYF8[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_1.html[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
-^| link:https://youtu.be/nZVNvs0g_uk[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_2.html[📼]
 
 .3+| 11.
 .3+| {d11}
 | 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
-| link:https://youtu.be/o0J2VNgoDbQ[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_1.html[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
-^| link:https://youtu.be/Jx4NRcIX2nc[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_2.html[📼]
 <| 📊{nbsp}link:files/Otsu.xlsx[Výpočet optimálního prahu pomocí Otsuovy metody]
 ^| -
 
 | 12.
 | {d12}
 | 📖{nbsp}link:files/bi-svz-11-detekce-objektu-a-moderni-trendy.pdf[Rozpoznávání snímků, detekce objektů, moderní trendy]
-^| link:https://youtu.be/ZX30MnyTrrk[📼]
+^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-16_1.html[📼]
 
 
 |=======================
@@ -121,32 +121,32 @@ NOTE: Záznamy přednášek jsou k dispozici na YT. Občas je potřeba se na YT 
 | 1. 11. 2024
 | https://www.datamole.ai[Datamole]
 | link:praxe/2024ZS_Datamole.pdf[Animal 3D Reconstruction]
-| link:https://youtu.be/Xpx2m1FKQAE[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_6.html[📼]
 
 | 24. 3. 2023
 | https://www.atg.cz[ATG]
 | link:praxe/2022LS_ATG.pdf[Strojové vidění v NDT]
 footnote:[V případě zájmu o prezentace s videi ve formátu pptx, kontaktujte učitele.]
-| link:https://youtu.be/_Pxu07_bELw[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_5.html[📼]
 
 | 4. 11. 2022
 | https://www.revolt.bi[Revolt.BI]
 | link:praxe/2022ZS_RevoltBI.pdf[Strojové vidění a umělá inteligence v praxi (Magic the Gathering)]
-| link:https://youtu.be/YfyLf-K45ho[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_4.html[📼]
 
 | 4. 4. 2022
 | https://www.pekatvision.com/cs[Pekat Vision]
 | Strojové vidění a umělá inteligence v praxi
-| link:https://youtu.be/kL89ZQt09zU[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_3.html[📼]
 
 | 7. 5. 2021
 | https://ullmanna.eu/cs/homepage-cestina/[Ullmanna]
 | Chytré zemědělství - strojové vidění a umělá inteligence v praxi
-| link:https://youtu.be/VsxtQKGuVTk[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_2.html[📼]
 
 | 5. 3. 2021 
 | https://vitesco-technologies.com/en/[Vitesco Technologies]
 | Industry 4.0 - strojové vidění v praxi
-| link:https://youtu.be/539thQTNgPo[📼]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-17_1.html[📼]
 
 |=======================
