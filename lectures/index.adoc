@@ -74,9 +74,9 @@ include::../vars.adoc[]
 
 .2+| 10.
 .2+| {d10}
-| {nbsp}Online přednáška
- link:https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcyODQxNjYtNGEyYS00ZDk4LWFiNWMtZjY0YjNkY2EzNDA1%40thread.v2/0?context=%7b%22Tid%22%3a%22f345c406-5268-43b0-b19f-5862fa6833f8%22%2c%22Oid%22%3a%227929bff5-cbd1-4b5d-b6bc-c92cd7b4cef6%22%7d[📼]
-| 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
+| {nbsp}link:https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcyODQxNjYtNGEyYS00ZDk4LWFiNWMtZjY0YjNkY2EzNDA1%40thread.v2/0?context=%7b%22Tid%22%3a%22f345c406-5268-43b0-b19f-5862fa6833f8%22%2c%22Oid%22%3a%227929bff5-cbd1-4b5d-b6bc-c92cd7b4cef6%22%7d[Online přednáška]
+
+ 📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
 | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_1.html[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_2.html[📼]
