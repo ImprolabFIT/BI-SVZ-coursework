@@ -85,7 +85,7 @@ include::../vars.adoc[]
 .3+| {d11}
 | {nbsp}link:https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2I0MGIxYWUtODdjYy00YzlmLTg2MTktZjg3M2RmMjMwOTU4%40thread.v2/0?context=%7b%22Tid%22%3a%22f345c406-5268-43b0-b19f-5862fa6833f8%22%2c%22Oid%22%3a%227929bff5-cbd1-4b5d-b6bc-c92cd7b4cef6%22%7d[Online přednáška]
 
-| 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
+ 📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
 | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_1.html[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_2.html[📼]
