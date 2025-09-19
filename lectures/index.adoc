@@ -111,12 +111,11 @@ Odkazy na videa:
 
 == Přednášky od odborníků z praxe
 
-V rámci předmětu typicky namísto 6. přednášky je pozvaná firma z praxe, kde odborník předvede firmu a ukáže konkrétní aplikace strojového vidění a zpracování obrazu v praxi. 
+V rámci předmětu typicky namísto 7. přednášky je pozvaná firma z praxe, kde odborník předvede firmu a ukáže konkrétní aplikace strojového vidění a zpracování obrazu v praxi. 
 
 Cílem je přiblížit studentům praktické úlohy včetně řešení, na které je předmět BI-SVZ připravuje. Jedná se také o ideální příležitost se s někým z praxe pobavit a zjistit, jak to v realitě chodí.
 
-NOTE: Záznamy přednášek jsou k dispozici na YT. Občas je potřeba se na YT přihlásit FITím google účtem pro zobrazení videa.
-
+NOTE: Záznamy přednášek jsou k dispozici na link:https://online.fit.cvut.cz[online.fit.cvut.cz]
 
 .Zvané přednášky z praxe
 [width=100%, cols="3,5,10,^1", options="header,footer"]
