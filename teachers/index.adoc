@@ -1,22 +1,18 @@
 = 8. Učitelé
 
 * 😏{nbsp}https://usermap.cvut.cz/profile/f99fa711-d3b6-43ae-9ab9-4c2585994759[Marcel Jiřina], přednášející
-* 😃{nbsp}https://usermap.cvut.cz/profile/f8989a38-a52d-447f-8e35-3549529e5db0[Jakub Novák], přednášející, cvičící
 * 🧐{nbsp}https://usermap.cvut.cz/profile/5cfe7f5c-d480-4089-9ad2-5d8547c330ad[David Kramný], přednášející, cvičící
 
+
 * 👩🏻{nbsp}https://usermap.cvut.cz/profile/67620ac3-b529-4350-a81b-ed6c9cb4dde8[Justýna Frommová], cvičící
-* 🤨{nbsp}https://usermap.cvut.cz/profile/23ec15b2-b948-4a95-a3c6-711ca6ebaf2b[Daniel Pilař], cvičící
-* 😇{nbsp}https://usermap.cvut.cz/profile/9214310b-a1ea-40d9-9b76-8380a8272504[Jiří Szkandera], cvičící
-* 🤓{nbsp}https://usermap.cvut.cz/profile/f7846755-d298-414e-90e2-7a9c4bd62553[Filip Čacký], cvičící
+* 👩‍🏫{nbsp}https://usermap.cvut.cz/profile/a271cc41-69c2-44cc-b63d-61a6bc82acd0[Jitka Hrabáková], cvičící
+* 😃{nbsp}https://usermap.cvut.cz/profile/f8989a38-a52d-447f-8e35-3549529e5db0[Jakub Novák], cvičící
+* 🏄‍♂️{nbsp}https://usermap.cvut.cz/profile/adb9d9f6-9404-49c4-8ded-0ba5c55fb45e[Filip Müller], cvičící
 * 👨‍🦲{nbsp}https://usermap.cvut.cz/profile/ac2afb86-1e10-4aa7-b604-a173958645b8[Vít Pospíšil], cvičící
 * 😊{nbsp}https://usermap.cvut.cz/profile/1a6f3524-7587-489b-a69b-1abbfae3c493[Tomáš Nguyen], cvičící
 
-//* 🤨{nbsp}https://usermap.cvut.cz/profile/5b8935a0-efed-49ee-bdb8-526828f67be1[Adam Maleček], cvičící
-// * 😇{nbsp}https://usermap.cvut.cz/profile/82787ee9-7671-49ef-a3fb-6b2787498992[Jakub Žitný], cvičící
-//* 🧑{nbsp}https://usermap.cvut.cz/profile/c04dac50-b8c1-4f45-ab06-d70c898fe920[Matěj Latka], cvičící
-//* 🧑🏻{nbsp}https://usermap.cvut.cz/profile/aff9e249-af77-4961-bc89-6f6a8605b6ad[Tomáš Koranda], cvičící
-//* 🥸{nbsp}https://usermap.cvut.cz/profile/caf7c3f0-ec86-4945-adad-739835d10714[David Mašek], cvičící
-//* 👨🏼{nbsp}https://usermap.cvut.cz/profile/2eb45535-7f12-45bd-b769-3f8f919d87e8[Matěj Jech], cvičící
+
+//* 🤨{nbsp}https://usermap.cvut.cz/profile/23ec15b2-b948-4a95-a3c6-711ca6ebaf2b[Daniel Pilař], cvičící
 
 
 == Odborní hosté
