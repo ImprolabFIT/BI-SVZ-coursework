@@ -11,81 +11,81 @@ include::../vars.adoc[]
 | # | Datum | Téma | Soubory | Body
 
 | 1.
-| {d01}
+| {dc01}
 | Seznámení s nástroji
 | 📖{nbsp}link:files/1/bi-svz-01-cviceni-uvod.pdf[Úvod{nbsp}do{nbsp}předmětu],
 📖{nbsp}link:../manuals/lab-equipment.html[Zásady{nbsp}práce{nbsp}s{nbsp}vybavením]
 | 2
 
 | 2.
-| {d02}
+| {dc02}
 | Práce s kamerami a základy zpracování obrazu
 | 📜{nbsp}link:files/2/camera-introduction.html[Práce{nbsp}s{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu]
 | 2
 
 | 3.
-| {d03}
+| {dc03}
 | Vady optiky, kalibrace kamery
 | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky]
 📜{nbsp}link:files/3/camera-calibration.html[Kalibrace{nbsp}kamery]
 | 2
 
 | 4.
-| {d04}
+| {dc04}
 | Segmentace obrazu
 | 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace],
 📜{nbsp}link:files/4/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 | 2
 
 | 5.
-| {d05}
+| {dc05}
 | Využití světel
 | 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
 📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
 | 2
 
 | 6.
-| {d06}
+| {dc06}
 | Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 2
 
 | 7.
-| {d07}
+| {dc07}
 | Práce s hloubkovou kamerou
 | 📜{nbsp}link:files/7/depth-camera.html[Hloubkové{nbsp}senzory]
 //📜{nbsp}link:files/7/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
 | 2
 
 | 8.
-| {d08}
+| {dc08}
 | Řádkové kamery
 | 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
 
 | 9.
-| {d09}
+| {dc09}
 | Techniky transformace
 | 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
 
 | 10.
-| {d10}
+| {dc10}
 | Perspektiva obrazu, 360° objektivy
 | 📜{nbsp}link:files/10/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/10/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 
 | 11.
-| {d11}
+| {dc11}
 | Základy měření s termokamerou
 | 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
 //📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
 | 2
 
 | 12.
-| {d12}
+| {dc12}
 | Klasifikace obrazu, detekce objektů
 | 📜{nbsp}link:files/12/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
 📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]
