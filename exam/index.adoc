@@ -15,7 +15,7 @@ Zkouška je rozdělena na *teoretickou* a *praktickou* část.
 
 Teoretická část si klade za cíl vyzkoušet studenta ze znalostí nabytých na přednáškách formou multiple choice testu.
 
-Praktická část si klade za cíl vyzkoušet znalosti nabyté na cvičeních formou typické průmyslové úlohy z praxe.
+Praktická část si klade za cíl vyzkoušet znalosti nabyté na cvičeních formou typické (průmyslové) úlohy z praxe.
 
 == 💯 Průběh zkoušky
 
@@ -37,31 +37,5 @@ NOTE: https://kos.cvut.cz/terms[Webový KOS] obsahuje všechny termíny přehled
 
 == 🛠️ Informace k Praktické části
 
-Co se na zkoušce děje:
+NOTE: Bude zveřejněno v průběhu semestru.
 
-* Student vytváří vlastní Jupyter notebook, který odevzdává.
-* Student má k dispozici internet pro možné hledání oprav chyb v pythonu nebo dokumentaci k OpenCV funkcím.
-* Internet *není* dostupný pro courses, gitlab či **ChatGPT**.
-* Student si může na flashce donést *JEDEN* vlastní jupyter notebook s funkcemi, které lze používat pro splnění zkoušky
-** Ukázkový notebook svz.ipynb je k dispozici na repozitáři (jeho html verze zde).
-** Vytvořte si vlastní notebook s funkcemi, kterým rozumíte!
-** Notebook musí být spustitelný pomocí příkazu `%run vlastni_notebook.ipynb`.
-
-=== 🙅 Chyby studentů při tvorbě vlastního notebooku:
-
-* Nakopírují si všechny cvika pod sebe do notebooku ve snaze mít s sebou všechno a o nic nepřijít.
-** Notebook je pak obrovský a nedá se nejen spustit ale i otevřít.
-** Studentovi to nepomůže.
-* Nakopírují si do něj nejen cvika ale i přednášky, jejichž text zakomentují.
-** Stejná hrůza i výsledek jako výše.
-* Notebook mají vedle otevřený a "vykopírovávají" z něj kód do notebooku zkouškového.
-** Nedá se to stihnout, není jasné co voláte ani proč to tak používáte a objevují se chyby, které se dosud neobjevily.
-* Notebook si nevyzkouší jestli lze spustit pomocí `%run ...`
-** Objevují se chyby, které student neumí v časové tísni zkoušky vyřešit a nakonec mu není k ničemu.¨
-
-=== 👍 Výhody vlastního notebooku s funkcemi:
-
-* Student má materiál s knihovnou funkcí, kterým rozumí a umí je volat ke splnění úkolu.
-* Student si vylepšil funkce z ukázkového notebooku, které neuměl použít.
-* Student se vytvářením knihovny s funkcemi seznámil, objevil nové a vylepšil si stávající. To mu přidává na znalostech práce s metodami zpracování obrazu.
-* Student získal materiál / knihovnu i pro další svoje vlastní projekty zpracování obrazu mimo předmět a do budoucna.
