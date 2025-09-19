@@ -1,31 +1,45 @@
-// Datumy přednášek a cvik
-// FIXME: na semestr B231, který má jen 11 týdnů bylo odstraněno datum "d11"
-:d01: 21. 2. 2025
-:d02: 28. 2. 2025
-:d03: 7. 3. 2025
-:d04: 14. 3. 2025
-:d05: 21. 3. 2025
-:d06: 28. 3. 2025
-:d07: 4. 4. 2025
-:d08: 11. 4. 2025
-:d09: 25. 4. 2025
-:d10: 2. 5. 2025
-:d11: 9. 5. 2025
-:d12: 16. 5. 2025
+// Datumy přednášek
+:d01: 23. 9. 2025 
+:d02: 30. 9. 2025
+:d03: 7. 10. 2025
+:d04: 14. 10. 2025
+:d05: 21. 10. 2025
+:d06: 4. 11. 2025
+:d07: 11. 11. 2025
+:d08: 18 11. 2025
+:d09: 25. 11. 2025
+:d10: 2. 12. 2025
+:d11: 9. 12. 2025
+:d12: 16. 12. 2025
+
+//Datumy cvik
+:dc01: 25-26. 9. 2025 
+:dc02: 2.-3. 10. 2025
+:dc03: 9-10. 10. 2025
+:dc04: 16.-17. 10. 2025
+:dc05: 23.-24. 10. 2025
+:dc06: 30.-31. 10. 2025
+:dc07: 6.-7. 10. 2025
+:dc08: 13.-14. 11. 2025
+:dc09: 20.-21. 11. 2025
+:dc10: 27.-28.. 12. 2025
+:dc11: 4.-5.. 12. 2025
+:dc12: 11.-12. 12. 2025
+
 // Datumy úkolů
 :hw_hour_to: 23:59
-:hw1_from:  {d04}
-:hw1_to:    27. 3. 2025 {hw_hour_to}
-:hw2_from:  {d06}
-:hw2_to:    10. 4. 2025 {hw_hour_to}
-:hw3_from:  {d08}
-:hw3_to:    1. 5. 2025 {hw_hour_to}
-:hw4_from:  {d10}
-:hw4_to:    15. 5. 2025 {hw_hour_to}
+:hw1_from:  16. 10. 2025 //d04
+:hw1_to:    29. 10. 2025 {hw_hour_to}
+:hw2_from:  30.10.2025 //d06
+:hw2_to:    12. 11. 2025 {hw_hour_to}
+:hw3_from:  13. 11. 2025 //d08
+:hw3_to:    26. 11. 2025 {hw_hour_to}
+:hw4_from:  27. 11. 2025 //d10
+:hw4_to:    10. 12. 2025 {hw_hour_to}
 // Semestr
 :semestr_id: B251
 // Místnosti
-:lecture_room: A-s135
+:lecture_room: JP:B-571
 :tutorial_room: Improlab (A-1256)
 // MS Teams link (deprecated)
 :teams_link: https://teams.microsoft.com/l/team/19%3aTI13epp9UkZSUz_kFUYNk47cD_5Weoekkp20ruNiMbo1%40thread.tacv2/conversations?groupId=7762d9b4-f498-415b-b22e-53696f07ee2c&tenantId=f345c406-5268-43b0-b19f-5862fa6833f8
