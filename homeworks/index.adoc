@@ -1,6 +1,6 @@
 = 3. Domácí úkoly
 
-V semestru budou postupně zadány celkem *4 jednoduché domácí úkoly*. Úkoly zadáváme, abychom ověřili vaše pochopení probírané látky. Pro všechny, kteří porozumí látce probrané na cvičení, se jedná maximálně o dvou hodinovou záležitost. Úkoly volně *navazují na úlohy z cvičení*.
+V semestru budou postupně zadány celkem *4 jednoduché domácí úkoly*. Úkoly zadáváme, abychom ověřili vaše pochopení probírané látky. Úkoly volně *navazují na úlohy z cvičení*.
 
 Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné za cvičení získat *minimálně 25 bodů*, podrobnosti viz sekce xref:../classification/index#[Hodnocení].
 
