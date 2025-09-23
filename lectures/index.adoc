@@ -10,12 +10,11 @@ include::../vars.adoc[]
 |=======================
 | # | Datum      | Téma | 🎥
 
-.2+| 1.
-.2+| {d01}
+| 1.
+| {d01}
 | 📖{nbsp}link:files/bi-svz-01-strojove-videni-a-fyzikalni-podstata.pdf[Strojové vidění a fyzikální podstata]
-| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-21_2.html[📼]
-<| 💬{nbsp}Info k předmětu a organizaci
-^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-21_1.html[📼]
+| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-09-23_1_1_3220945392.html[📼]
+
 
 .2+| 2.
 .2+| {d02}
