@@ -6,7 +6,7 @@ Změna programu vyhrazena. Cvičení se v průběhu semestru mohou měnit.
 include::../vars.adoc[]
 
 .Harmonogram cvičení
-[width=100%, cols="^1,3,5,5,1,^6", options="header"]
+[width=100%, cols="^1,4,5,5,1,^4", options="header"]
 |====
 | # | Datum | Téma | Soubory | Body | Cvičící
 
