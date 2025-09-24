@@ -57,13 +57,13 @@ Pokud máte správně fungující prostředí SVZ (viz xref:tools-introduction#_
 
 Vyzkoušejte metodu `ocr()` v balíčku xref:improutils-package.html[improutils].
 
-Složitější použití nástroje je vysvětleno v dokumentaci https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc[zde].
+Složitější použití nástroje je vysvětleno v dokumentaci link:https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc[zde].
 
 === Tessdata
 Tesseract OCR používá *tessdata* – natrénované modely pro rozpoznávání textu. Existuje několik oficiálních variant:
 
-* xref:https://github.com/tesseract-ocr/tessdata_best[tessdata_best] – modely s nejvyšší přesností (větší, pomalejší). *Pro lepší kvalitu rozpoznávání se doporučuje používat tyto modely.*
-* xref:https://github.com/tesseract-ocr/tessdata_fast[tessdata_fast] – modely optimalizované na rychlost (menší, rychlejší, o něco méně přesné).
-* xref:https://github.com/tesseract-ocr/tessdata[tessdata] – výchozí modely dodávané s Tesseractem 
+* link:https://github.com/tesseract-ocr/tessdata_best[tessdata_best] – modely s nejvyšší přesností (větší, pomalejší). *Pro lepší kvalitu rozpoznávání se doporučuje používat tyto modely.*
+* link:https://github.com/tesseract-ocr/tessdata_fast[tessdata_fast] – modely optimalizované na rychlost (menší, rychlejší, o něco méně přesné).
+* link:https://github.com/tesseract-ocr/tessdata[tessdata] – výchozí modely dodávané s Tesseractem 
 
-Ve výchozím nastavení Tesseract 4+ používá modely podle toho, co máte v adresáři `tessdata`. Pokud si nic speciálního nestáhnete, instalace Tesseractu obvykle obsahuje základní modely z repozitáře xref:https://github.com/tesseract-ocr/tessdata[tessdata]. Doporučujeme vyzkoušet zmiňované alternativy.
+Ve výchozím nastavení Tesseract 4+ používá modely podle toho, co máte v adresáři `tessdata`. Pokud si nic speciálního nestáhnete, instalace Tesseractu obvykle obsahuje základní modely z repozitáře link:https://github.com/tesseract-ocr/tessdata[tessdata]. Doporučujeme vyzkoušet zmiňované alternativy.
