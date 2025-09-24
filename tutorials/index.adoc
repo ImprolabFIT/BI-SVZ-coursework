@@ -1,6 +1,7 @@
 = 2. Cvičení
 
 Změna programu vyhrazena. Cvičení se v průběhu semestru mohou měnit.
+
 // Definice proměnných datumů
 include::../vars.adoc[]
 
