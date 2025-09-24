@@ -65,9 +65,11 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 
 Pro další vhled do problematiky využití neuronových sítí či počítačového vidění a tím rozšíření znalostí doporučujeme tyto předměty.
 
-* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684506.html[Metody počítačového vidění] a https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684106.html[Digitální obraz] na FEL ČVUT, pro rozšíření a hlubší pochopení tradičních metod
-* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/85/p4685306.html[Three-dimensional Computer Vision] na FEL ČVUT, pro rozšíření znalostí epipolární geometrie a kalibrace kamery
+* https://courses.fit.cvut.cz/NI-PIV/index.html[Počítačové vidění] na FIT ČVUT, pro rozšíření a hlubší pochopení jak tradičních metod tak metod hlubokého učení.
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684506.html[Metody počítačového vidění] na FEL ČVUT, pro rozšíření a hlubší pochopení hledání korespondencí mezi obrazy, vyhledávání obrázků ve velkých databázích a sledování objektů ve videu
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684106.html[Digitální obraz] na FEL ČVUT, pro rozšíření znalostí základních principů (vzorkování a rekonstrukce signálu, monadické operace, histogram, Fourierova transformace, konvoluce, lineární a nelineární filtrace), ale i pokročilejších technik editace, deformace, registrace a segmentace obrazu.
+* https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/85/p4685306.html[Three-dimensional Computer Vision] na FEL ČVUT, pro pochopení 3D rekonstrukce scény ze snímků, algoritmy Structure-from-Motion a Multi-view stereo.
 * https://intranet.fel.cvut.cz/cz/education/bk/predmety/54/67/p5467606.html[Zpracování medicínských obrazů] na FEL ČVUT, pro využití sofistikovanějších metod zpracování obrazu včetně využití hlubokého učení
 * https://intranet.fel.cvut.cz/cz/education/bk/predmety/46/84/p4684306.html[Geometry of Computer Vision and Graphics] na FEL ČVUT, který navazuje na geometrické koncepty probírané v BI-SVZ
-* https://courses.fit.cvut.cz/MI-MVI/[Metody výpočetní inteligence] na FIT ČVUT, pro základy a využití neuronových sítí
-* https://ufal.mff.cuni.cz/courses/npfl114/2122-summer[Hluboké učení] na MFF UK, pro hlubší pochopení a využití hlubokého učení neuronových sítí na obrazových i jiných datech
+* https://courses.fit.cvut.cz/NI-MVI/[Metody výpočetní inteligence] na FIT ČVUT, pro základy a využití neuronových sítí
+* https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NPFL114[Hluboké učení] na MFF UK, pro hlubší pochopení a využití hlubokého učení neuronových sítí na obrazových i jiných datech

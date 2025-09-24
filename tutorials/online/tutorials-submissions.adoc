@@ -1,7 +1,0 @@
-= Odevzdávání cvičení
-
-Pro odevzdání vypracovaných cvičení v *online formě* budeme využívat podobný systém, jako v případě odevzdávání domácích úkolů. Poslouží nám k tomu nástroj Deepnote a veřejný repozitář na FIT GitLabu https://gitlab.fit.cvut.cz/bi-svz/bi-svz-tutorials-submission[BI-SVZ-Tutorials-Submissions].
-
-Pro každé odevzdané cvičení vytvořte v daném repozitáři issue se stejnými náležitostmi jako v případě domácích úkolů viz xref:../../homeworks/index#[odkaz] (confidential flag, popis, odkaz do Deepnote). 
-
-Issue pojmenujte ve formátu: ``__username__ - Tutorial __číslo-cvičení__``.

@@ -1,3 +1,0 @@
-= Odevzdávání cvičení
-
-Všechny praktické úlohy, která se *vypracovávají v laboratoři*, se odevzdávají pouze *formou ukázky cvičícím*. Doporučujeme však, abyste si vypracovaná cvičení zálohovali k sobě na Gitlab, abyste se z nich mohli učit na praktickou zkoušku.

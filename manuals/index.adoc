@@ -17,17 +17,13 @@ Sekce obsahuje návody na začátek práce se softwarovým prostředím.
 * 💻 xref:tools-introduction.html#[Vytvoření virtuálního prostředí] popisuje podrobně virtuální prostředí pro Python včetně a používané knihovny
 * 🖥️ xref:git-essentials.html#[GIT repozitář předmětu] včetně jeho použití
 * 📚 xref:improutils-package.html#[Improutils] je knihovna pro zjednodušení práce s OpenCV
-* 📚 https://gitlab.fit.cvut.cz/bi-svz/pypylon-opencv-viewer[PyPylon OpenCV Viewer] je způsob připojení Basler kamer přímo do Jupyter notebooku
-** 📜 xref:basler-introduction[Práce s kamerami Basler] je notebook ukazující jeho konkrétní použití
 
 
 == Instalace dalších nástrojů a práce s nimi
 
 Sekce odkazuje na návody související s prací s externími nástroji či aplikacemi třetích stran dostupnými online.
 
-* 𝔻 xref:deepnote-introduction.html#[Práce v nástroji Deepnote] pro řešení domácích úkolů online
-* 🔠 xref:ocr-tool-installation.html#[Instalace OCR nástroje Tesseract] pro všechny operační systémy pro offline použití
-* 🔎 xref:google-cloud.html#[Využití OCR nástroje od Google] Vision API pro použití online
+* 🔠 xref:ocr-tool-installation.adoc#[Instalace OCR nástroje Tesseract] pro všechny operační systémy pro offline použití
 
 == Python a Jupyter
 
@@ -36,4 +32,4 @@ Sekce sjednocuje práci v Pythonu a Jupyter noteboocích, jejichž znalost je so
 * 🐍 xref:python-introduction.html#[Základy syntaxe jazyka Python], struktury a funkce
 * 📜 xref:jupyter-introduction.html[Práce s Jupyter notebooky], zkratky a práce s buňkami
 * 📖 xref:jupyter-extensions.html#[Vhodná rozšíření do Jupyter notebooku], která jsou používána v předmětu
-* 📄 xref:jupyter-notebook-cheatsheet.pdf[Cheatsheet pro práci s Jupyter notebooky] ve formě PDF
+* 📄 xref:jupyter-notebook-cheat-sheet.pdf[Cheatsheet pro práci s Jupyter notebooky] ve formě PDF

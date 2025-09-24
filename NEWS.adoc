@@ -1,5 +1,18 @@
 = Novinky
 
+== Vítejte v zimním semestru 
+:date: 2025-09-24
+Vážení studenti, kurz prošel refaktorem a celkovou aktualizací, která zohledňuje podněty z ankety za semestr B242. Mezi hlavní změny patří:
+
+* Aktualizace stránek kurzu, oprava chyb a přizpůsobení obsahu aktuálním změnám v předmětu.
+* Balíček https://gitlab.fit.cvut.cz/bi-svz/improutils_package[improutils] byl rozšířen tak, aby cvičení nevyžadovala volání souboru `library.ipynb`. Dále byly odstraněny implicitní importy a sjednoceny docstringy s celkovým lintingem balíčku.
+* Postupně budou zveřejňovány nové nahrávky přednášek, odpovídajících změně přednášejících.
+* Postupně budou zveřejňovány cvičení, které nyní nebudou používat implicitní importy a soubor `library.ipynb`.
+* Byla připravena nová zkoušková zadání pro praktickou část, podrobnosti budou oznámeny v průběhu semestru.
+
+Věříme, že tato vylepšení odpovídají vašim připomínkám a přispějí ke zvýšení kvality kurzu.
+
+
 == Refaktor kurzu BI-SVZ
 :date: 2023-02-27
 Vážení studenti, dnes byl dokončen velký refaktor kurzu reflektující podněty v anketě za semestr B221. Byly provedeny tyto aktivity:

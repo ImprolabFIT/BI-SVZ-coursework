@@ -1,11 +1,12 @@
 = Virtuální prostředí
 
-V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu či Macu jsou však také popsány. 
+V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu či Macu by měly být podobné.
 
-K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí. Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor _spec-file.txt_, který obsahuje seznam potřebných balíčků pro tento kurz (viz jednotlivé soubory pro různé operační systémy níže). Ty se následně nainstalují při vytváření virtuálního prostředí. 
+K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí.  Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor _spec-file.txt_, který obsahuje seznam potřebných balíčků pro tento kurz (viz jednotlivé soubory pro různé operační systémy níže). Ty se následně nainstalují při vytváření virtuálního prostředí. 
 
 Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
 
+[[postup-cviceni]]
 == Postup na cvičení
 
 * Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda.
@@ -18,17 +19,21 @@ Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tas
 
 == Postup doma
 
-* Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.8).
+* Před vytvořením virtuálního prostředí a instalací balíčků je potřeba instalovat několik knihoven.
+** Tesseract pro funkčnost OCR viz xref:ocr-tool-installation.adoc#[Instalace nástroje pro OCR]
+** Pro QR reader je potřeba balíček link:https://github.com/NaturalHistoryMuseum/pyzbar[pyzbar], postupujte dle jeho instalačních instrukcí
+** v případě potřeby dalších knihoven referujte na xref:nejznamejsi-problemy[Nejznámější problémy a errory]
+* Zkontrolujte, zda je u vás na PC nainstalovaná Anaconda. Jinak si ji https://www.anaconda.com/download[stáhněte] a nainstalujte (vždy nejnovější verzi pro Python 3.10).
 * Zapněte si `Anaconda Prompt`, ve kterém je možné využívat Python interpreter, instalovat balíčky a přepínat/modifikovat virtuální prostředí.
 
 * Vytvořte virtuální prostředí pro správu balíčků knihoven s názvem `SVZ`
-** `conda create --name SVZ python=3.8`
+** `conda create --name SVZ python=3.10`
 * Aktivujte vytvořené virtuální prostředí
 ** `activate SVZ`
 * Doinstalujte potřebné knihovny pipem pomocí link:env/SVZ-pip-req.txt[SVZ-pip-req] takto:
 ** `pip install -r <cesta k SVZ-pip-req.txt>`
 
-
+[[nejznamejsi-problemy]]
 === Nejznámější problémy a errory
 WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `SVZ`!
 
@@ -62,10 +67,10 @@ WARNING: Všechna řešení je třeba dělat vždy s aktivovaným prostředím `
 ** `conda activate SVZ`
 * S aktivovaným prostředím spusťte Jupyter notebook ve složce se soubory ke kurzu
 ** `jupyter notebook <cesta k souborum kurzu>` 
-* Otevřete úvodní notebook xref:../tutorials/files/1/jupyter-introduction.html[Práce s Jupyter notebooky] a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
+* Otevřete jupyter notebook z konkrétního cvičení a zkontrolujte, zda všechny úvodní importy proběhnou bez problémů. 
 ** Pokud uvidíte hlášky typu `ImportError: No module named cv2`, musí se daný balíček doinstalovat pomocí `conda install`. V tom případě kontaktujte učitele.
 
-NOTE: Na cvičení je zjednodušeno použitím skriptu `svz` (xref:#_postup-na-cvičení[viz výše]).
+NOTE: Na cvičení je zjednodušeno použitím skriptu `svz` (xref:postup-cviceni[viz výše]).
 
 
 === Poznámky

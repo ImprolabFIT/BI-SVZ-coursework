@@ -1,15 +1,16 @@
 = 4. Hodnocení
 
-== Body ze cvičení a získání zápočtu
+== Získání zápočtu
 
-* Pro získání zápočtu je nutné a postačující ze cvičení získat alespoň *25 bodů* z 50 možných.
-* Za každé cvičení je možné získat *2 body*.
-* Budou zadány *4 úkoly* celkem za *26 bodů*. 
-* Během semestru je též možné získat až *10 prémiových bodů* za nadprůměrnou aktivitu a práci nad rámec povinností. Prémiové body neslouží k zisku zápočtu, vylepšují celkové hodnocení po zkoušce.
-* Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru.
-* Na cvičení se nepíší *žádné testy*.
-* *Docházka* na cvičení *se eviduje*, nemá však vliv na hodnocení.
-* Předmět není možné absolvovat bez získání zápočtu.
+Pro získání zápočtu je nutné a postačující získat alespoň *25 bodů* z 50 možných. Body je možné získat na cvičení a z domácích úkolů.
+
+* Na každé cvičení je možné získat *2 body*, celkově  *24 bodů*.
+* Budou zadány *4 domací úkoly* celkem za *26 bodů*. 
+* *Před zkouškou,* během semestru je možné získat až *10 prémiových bodů* za nadprůměrnou aktivitu a práci nad rámec povinností. Prémiové body *neslouží k zisku zápočtu*, vylepšují celkové hodnocení až *po zkoušce*.
+
+Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru. Na cvičení se nepíší *žádné testy*. *Docházka* na cvičení *se eviduje*, nemá však vliv na hodnocení.
+
+Předmět není možné absolvovat bez získání zápočtu!
 
 == Podmínky pro složení závěrečné zkoušky
 
@@ -21,7 +22,7 @@
 === Teoretická část
 
 * Pro úspěšné absolvování teoretické části je nutné získat *alespoň 10 bodů* z možných 20.
-* Teoretická část probíhá formou *multichoice testu*. 
+* Teoretická část probíhá formou *multichoice testu* na MARASTu. 
 ** V případě zvolení všech správných odpovědí je otázka považována za zodpovězenou (+ 1 bod).
 ** V případě zvolení pouze jediné odpovědi špatně, je otázka považována za skoro správně (+ 0,5 bodu).
 ** V případě zodpovězení všech odpovědí špatně je otázka považována za hrubou neznalost (- 1 bod).
@@ -32,7 +33,7 @@
 
 * Pro úspěšné absolvování praktické části je nutné získat *alespoň 15 bodů* z možných 30.
 * Praktická část se skládá ze samostatného vypracování několika dílčích úloh podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
-* Ze zadaných dílčích úloh není přípustné získat z některé úlohy 0 bodů. V tom případě by bylo nutné celou praktickou zkoušku opakovat.
+* Ze zadaných dílčích úloh *není přípustné* získat z některé úlohy 0 bodů. Jinak řečeno, z každé dílčí úlohy je nutné získat alespoň bod. V případě, že je některá dílčí úloha hodnocena nula body, je nutné celou praktickou zkoušku opakovat.
 
 
 == Ústní gamble

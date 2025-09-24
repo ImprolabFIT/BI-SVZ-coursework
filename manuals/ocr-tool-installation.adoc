@@ -1,8 +1,8 @@
 = Instalace nástroje pro OCR
 
-Pro strojové čtení znaků v obrazu (tzv. OCR = optical character recognition) je zapotřebí nějaký nástroj, který to již umí. V praxi jsou k dispozici dvě možnosti -- https://github.com/tesseract-ocr/tesseract[Tesseract OCR] nebo https://cloud.google.com/vision/docs/ocr[Google Cloud Vision API].
+Pro strojové čtení znaků v obrazu (tzv. OCR = optical character recognition) je zapotřebí nějaký nástroj, který to již umí. V praxi je k dispozici několik možností například -- https://github.com/tesseract-ocr/tesseract[Tesseract OCR] nebo https://cloud.google.com/vision/docs/ocr[Google Cloud Vision API].
 
-Rozdíl mezi nástroji je markantní. Google Cloud Vision API funguje lépe, je postaven na moderních metodách hlubokých neuronových sítí, ale je dostupný pouze online přes API a po zařízení si účtu na Cloud Vision. 
+Rozdíl mezi těmito konkrétními nástroji je markantní. Google Cloud Vision API funguje lépe, je postaven na moderních metodách hlubokých neuronových sítí, ale je dostupný pouze online přes API a po zařízení si účtu na Cloud Vision. 
 
 Na druhou stranu Tesseract OCR je open-source, funguje offline, ale potřebuje lepší předzpracování obrazu pro správné fungování OCR. 
 
@@ -16,7 +16,7 @@ Tesseract OCR pro využití offline na PC se skládá z nástroje/knihovny v C++
 Instalace je převzata z odkazu https://www.pyimagesearch.com/2017/07/03/installing-tesseract-for-ocr/[zde], přeložena, upravena a rozšířena o vše potřebné pro Windows. Podrobnější instalaci včetně i dalších operačních systémů lze nalézt https://tesseract-ocr.github.io/tessdoc/Home.html[zde].
 
 ==== macOS
-Pro instalaci na macu využijeme nástroj https://brew.sh/index_cs[Homebrew] pro instalaci chybějících balíků.
+Pro instalaci na macu využijeme nástroj https://brew.sh[Homebrew] pro instalaci chybějících balíků.
 
 [source]
 brew install tesseract
@@ -39,10 +39,9 @@ sudo apt-get install tesseract-ocr-eng
 sudo apt-get install tesseract-ocr-ces
 
 ==== Windows
-Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z githubu https://github.com/UB-Mannheim/tesseract/wiki[UB Mannheim]. Aktuálně (30. 9. 2022) nejnovější je dostupná verze 5.2.0.
+Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z githubu https://github.com/UB-Mannheim/tesseract/wiki[UB Mannheim].
 
-* Stáhnout si instalátor https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.2.0.20220712.exe[ZDE].
-* Nainstalovat dle instrukcí. 
+* Nainstalovat dle https://github.com/UB-Mannheim/tesseract/wiki[instrukcí]. 
 ** Doporučuji přidat možnost češtiny.
 ** Zaškrtnout `Czech` v `Additional language data (download)` 
 * Zapamatovat si adresu instalace (např. C:\Program Files\Tesseract-OCR)
@@ -56,6 +55,15 @@ Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z
 === Použití
 Pokud máte správně fungující prostředí SVZ (viz xref:tools-introduction#_postup-doma[Úvod do práce s nástroji]), je možné Tesseract OCR použít v pythonu v jupyter notebooku. 
 
-Vyzkoušejte metodu `ocr()` z notebooku link:../tutorials/files/svz.html[svz.ipynb].
+Vyzkoušejte metodu `ocr()` v balíčku xref:improutils-package.html[improutils].
 
 Složitější použití nástroje je vysvětleno v dokumentaci https://github.com/tesseract-ocr/tesseract/blob/master/doc/tesseract.1.asc[zde].
+
+=== Tessdata
+Tesseract OCR používá *tessdata* – natrénované modely pro rozpoznávání textu. Existuje několik oficiálních variant:
+
+* xref:https://github.com/tesseract-ocr/tessdata_best[tessdata_best] – modely s nejvyšší přesností (větší, pomalejší). *Pro lepší kvalitu rozpoznávání se doporučuje používat tyto modely.*
+* xref:https://github.com/tesseract-ocr/tessdata_fast[tessdata_fast] – modely optimalizované na rychlost (menší, rychlejší, o něco méně přesné).
+* xref:https://github.com/tesseract-ocr/tessdata[tessdata] – výchozí modely dodávané s Tesseractem 
+
+Ve výchozím nastavení Tesseract 4+ používá modely podle toho, co máte v adresáři `tessdata`. Pokud si nic speciálního nestáhnete, instalace Tesseractu obvykle obsahuje základní modely z repozitáře xref:https://github.com/tesseract-ocr/tessdata[tessdata]. Doporučujeme vyzkoušet zmiňované alternativy.

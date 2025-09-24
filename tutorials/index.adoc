@@ -1,6 +1,6 @@
 = 2. Cvičení
 
-Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru a upravovat podle stylu výuky buď do nástroje 📜 Jupyter Notebook (prezenční) nebo 𝔻 Deepnote (online).
+Změna programu vyhrazena. Cvičení se v průběhu budou měnit / přizpůsobovat průběhu semestru.
 
 // Definice proměnných datumů
 include::../vars.adoc[]
@@ -91,3 +91,26 @@ include::../vars.adoc[]
 📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]
 | 2
 |====
+
+== Cvičení v laboratoři ImproLab
+
+Pro práci na cvičení v naší laboratoři budeme využívat několik nástrojů.
+
+* https://www.anaconda.com/[Anaconda] - multiplatformní správce balíčků pro jazyk Python.
+* http://jupyter.org/[Jupyter Notebook] - webová aplikace k rychlému prototypování algoritmů v Pythonu.
+* https://www.baslerweb.com/en/products/software/basler-pylon-camera-software-suite/[Pylon] - software a SDK sloužící pro práci s kamerami od firmy Basler.
+
+Volba jazyka Python může být pro některé z vás nepochopitelná, zvláště když v bakalářském programu není povinný. Důvod je však prostý - jazyk Python je v tuto chvíli nejvyužívanější pro obory data science a computer vision. Vývoj v Pythonu je rychlý, jednoduchý a velmi efektivní. Existuje velké množství knihoven, návodů a připravených kódů, které v ostatních jazycích nemají obdoby. Navíc, pokud byste se chtěli zpracování obrazu dále věnovat, stejně byste pravděpodobně skončili právě s Pythonem. Ti z vás, kteří budou pokračovat v magisterském programu Znalostního inženýrství, si Python a Jupyter Notebooky hojně užijí i později.
+
+Cílem tohoto kurzu však není vyučovat jazyk Python, nýbrž zaměřit se právě na klíčové metody a algoritmy zpracování obrazu. Python je jen nejvhodnější nástroj, jak tento cíl bezbolestně naplnit a zároveň toho ukázat co nejvíce.
+
+Naše práce se nebude skládat ani tak z programování v Pythonu, ale převážně z volání již hotových metod a využívání rozhraní (např. OpenCV). Uvidíte sami, že většina úkolů, které budeme řešit, budou předpřipravené a vystačíme si tedy se základní syntaxí jazyka. Mnohem důležitější je porozumění kontextu problému a návrh algoritmů/metod k jeho vyřešení.
+
+Stručné základy Pythonu lze nalézt v notebooku link:../manuals/python-introduction.html[Základy syntaxe v Pythonu]. Pro hlubší poznání existuje třeba kurz v češtině od https://naucse.python.cz/course/pyladies/[PyLadies].
+Často využívané klávesové zkratky v Jupyter notebooku jsou popsány xref:../manuals/jupyter-notebook-cheat-sheet.pdf[zde].
+
+== Odevzdávání cvičení
+
+Všechny praktické úlohy, která se *vypracovávají v laboratoři*, se odevzdávají pouze *formou ukázky cvičícím*. Doporučujeme , abyste si vypracovaná cvičení zálohovali k sobě na Gitlab, abyste se z nich mohli učit na praktickou zkoušku. 
+
+Pokud na cvičení chybíte, není možné získat body zpětně ani si jinak body doplnit!
