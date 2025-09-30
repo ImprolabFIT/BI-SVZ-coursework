@@ -19,7 +19,7 @@ include::../vars.adoc[]
 .2+| 2.
 .2+| {d02}
 | 📖{nbsp}link:files/bi-svz-02-druhy-senzoru-a-optika.pdf[Druhy senzorů a optika]
-| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-28_1.html[📼]
+| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-09-30_2_1_3220945393.html[📼]
 <| 💬{nbsp}Druhy senzorů a optika, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-02-28_2.html[📼]
 
