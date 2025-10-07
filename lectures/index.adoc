@@ -26,7 +26,7 @@ include::../vars.adoc[]
 .2+| 3.
 .2+| {d03}
 | 📖{nbsp}link:files/bi-svz-03-kamerovy-system-a-zpracovani-obrazu.pdf[Kamerový systém a zpracování obrazu]
-| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-07_1.html[📼]
+| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-10-07_3_1_3220945394.html[📼]
 <| 📖{nbsp}link:files/bi-svz-03a-mereni-dilu.pdf[Měření dílů]
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-07_2.html[📼]
 
