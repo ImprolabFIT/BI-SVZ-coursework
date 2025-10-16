@@ -30,7 +30,7 @@
 :hw_hour_to: 23:59
 :hw1_from:  17. 10. 2025 
 :hw1_to:    31. 10. 2025 {hw_hour_to}
-:hw2_from:  31.10.2025 
+:hw2_from:  31. 10. 2025 
 :hw2_to:    12. 11. 2025 {hw_hour_to}
 :hw3_from:  14. 11. 2025 
 :hw3_to:    26. 11. 2025 {hw_hour_to}
