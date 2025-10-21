@@ -40,7 +40,7 @@ include::../vars.adoc[]
 .2+| 5.
 .2+| {d05}
 | 📖{nbsp}link:files/bi-svz-05-perspektiva-obrazu.pdf[Perspektiva a geometrie obrazu]
-| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-21_1.html[📼]
+| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-10-21_5_1_3220945396.html[📼]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-21_2.html[📼]
 
