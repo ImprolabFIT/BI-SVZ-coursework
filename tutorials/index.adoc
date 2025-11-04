@@ -61,7 +61,7 @@ include::../vars.adoc[]
 | 7.
 | {dc07}
 | Práce s hloubkovou kamerou
-| 📜{nbsp}link:files/7/depth-camera.html[Hloubkové{nbsp}senzory]
+| 📜{nbsp}link:files/7/depth_camera.html[Hloubkové{nbsp}senzory]
 //📜{nbsp}link:files/7/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
 | 2
 | J. Hrabáková, V. Pospíšil
