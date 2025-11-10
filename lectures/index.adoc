@@ -6,7 +6,7 @@ Přednášky jsou ve své aktuální podobě z předchozího semestru. Postupně
 include::../vars.adoc[]
 
 .Harmonogram přednášek
-[width=100%, cols="^1,3,12,^1", options="header,footer"]
+[width=100%, cols="^1,<3,<12,^1"]
 |=======================
 | # | Datum      | Téma | 🎥
 
@@ -44,44 +44,43 @@ include::../vars.adoc[]
 <| 💬{nbsp}Perspektiva a geometrie obrazu, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-03-21_2.html[📼]
 
-
 .2+| 6.
 .2+| {d06}
-| 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu-1.pdf[Předzpracování obrazu - Transformace a korekce]
-^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-04_1.html[📼]
+| 📖{nbsp}link:files/bi-svz-06-metody-predzpracovani-obrazu.pdf[Předzpracování obrazu - Transformace a korekce]
+^| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-11-04_6_1_3220945397.html[📼]
 <| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
 ^| -
 
-| 7.
-| {d07}
-| 🦾 Zvaná přednáška od odborníka z praxe
-^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
-
-.2+| 8.
-.2+| {d08}
-| 📖{nbsp}link:files/bi-svz-10-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_1.html[📼]
+.2+| 7.
+.2+| {d07}
+| 📖{nbsp}link:files/bi-svz-07-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_1.html[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_2.html[📼]
 
-.3+| 9.
-.3+| {d09}
-| 📖{nbsp}link:files/bi-svz-07-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
+.3+| 8.
+.3+| {d08}
+| 📖{nbsp}link:files/bi-svz-08-filtrace-v-prostorove-a-frekvencni-oblasti.pdf[Předzpracování obrazu - Filtrace v prostorové a frekvenční oblasti]
 | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-25_1.html[📼]
 <| 💬{nbsp}Fourierova transformace a DCT, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-25_2.html[📼]
-<| 📖{nbsp}link:files/bi-svz-07-Fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
+<| 📖{nbsp}link:files/bi-svz-08-fourierova-transformace-s-vypocty.pdf[Fourierova transformace s výpočty]
 ^| -
 
-.2+| 10.
-.2+| {d10}
-|📖{nbsp}link:files/bi-svz-08-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
+.2+| 9.
+.2+| {d09}
+|📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
 | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_1.html[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_2.html[📼]
 
+| 10.
+| {d10}
+| 🦾 Zvaná přednáška od odborníka z praxe
+^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
+
 .3+| 11.
 .3+| {d11}
-|📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
+|📖{nbsp}link:files/bi-svz-10-segmentace-obrazu-plosne.pdf[Segmentace obrazu - Houghova transformace a plošné segmentace]
 | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_1.html[📼]
 <| 💬{nbsp}Houghova transformace, Otsu, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-09_2.html[📼]
@@ -94,7 +93,10 @@ include::../vars.adoc[]
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-16_1.html[📼]
 
 
+
+
 |=======================
+
 
 == Další doplňující materiály
 
