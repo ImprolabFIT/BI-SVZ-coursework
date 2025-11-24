@@ -1,6 +1,12 @@
 = Novinky
 
 == Vítejte v zimním semestru 
+:date: 2025-11-24
+====================================================
+Vážení studenti, dne *2. prosince 2025 odpadá výuka*.
+====================================================
+
+== Vítejte v zimním semestru 
 :date: 2025-09-24
 Vážení studenti, kurz prošel refaktorem a celkovou aktualizací, která zohledňuje podněty z ankety za semestr B242. Mezi hlavní změny patří:
 
