@@ -2,6 +2,9 @@
 
 // Definice proměnných datumů
 include::vars.adoc[]
+====================================================
+Vážení studenti, dne *2. prosince 2025 odpadá výuka*.
+====================================================
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
