@@ -37,5 +37,11 @@ NOTE: https://kos.cvut.cz/terms[Webový KOS] obsahuje všechny termíny přehled
 
 == 🛠️ Informace k Praktické části
 
-NOTE: Bude zveřejněno v průběhu semestru.
+Praktická zkouška probíhá *prezenčně* v ImproLabu (A-1256) na počítačích v učebně (není možné využívat vlastní PC). Skládá se ze **samostatného** vypracování několika dílčích úloh podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
+
+* Student vytváří vlastní Jupyter notebook, který odevzdává.
+* Student má k dispozici internet pro možné hledání oprav chyb v Pythonu, dokumentaci k OpenCV funkcím a dokumentaci k Improututils.
+* Internet není povolen pro přístup na courses, gitlab, pro komunikaci s chatboty či jinými AI nástroji (ChatGPT, Copilot). 
+* Obsah zkoušky (vypracovaný notebook + snímky) je zakázáno vynášet a distribuovat.
+* Náhledy zkoušek budou k dispozici po předchozí domluvě se zkoušejícím.
 
