@@ -44,4 +44,5 @@ Praktická zkouška probíhá *prezenčně* v ImproLabu (A-1256) na počítačí
 * Internet není povolen pro přístup na courses, gitlab, pro komunikaci s chatboty či jinými AI nástroji (ChatGPT, Copilot). 
 * Obsah zkoušky (vypracovaný notebook + snímky) je zakázáno vynášet a distribuovat.
 * Náhledy zkoušek budou k dispozici po předchozí domluvě se zkoušejícím.
+* Oproti předchozím semestrům **není** povoleno si přinést vlastní pomocný notebook!
 
