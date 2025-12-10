@@ -53,7 +53,7 @@ include::../vars.adoc[]
 
 .2+| 7.
 .2+| {d07}
-| 📖{nbsp}link:files/bi-svz-07-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_1.html[📼]
+| 📖{nbsp}link:files/bi-svz-07-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-11-11_7_1_3220945398.html[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_2.html[📼]
 
@@ -69,7 +69,7 @@ include::../vars.adoc[]
 .2+| 9.
 .2+| {d09}
 |📖{nbsp}link:files/bi-svz-09-segmentace-obrazu-hranove.pdf[Segmentace obrazu - Hranové]
-| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_1.html[📼]
+| link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-11-25_9_1_3220945400.html[📼]
 <| 💬{nbsp}Hranové segmentace, podrobněji
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-05-02_2.html[📼]
 
