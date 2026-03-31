@@ -118,6 +118,11 @@ NOTE: Záznamy přednášek jsou k dispozici na link:https://online.fit.cvut.cz[
 |=======================
 | Datum      | Firma     | Téma | 🎥
 
+| 31. 3. 2026
+| https://www.datamole.ai[Datamole]
+| link:praxe/2024ZS_Datamole.pdf[Animal 3D Reconstruction]
+| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2026-03-31.html[📼]
+
 | 1. 11. 2024
 | https://www.datamole.ai[Datamole]
 | link:praxe/2024ZS_Datamole.pdf[Animal 3D Reconstruction]
