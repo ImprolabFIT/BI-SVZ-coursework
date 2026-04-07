@@ -68,22 +68,22 @@ include::../vars.adoc[]
 
 | 8.
 | {dc08}
-| Řádkové kamery
-| 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
+| Perspektiva obrazu, 360° objektivy
+| 📜{nbsp}link:files/10/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/10/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 | J. Hrabáková, J. Frommová
 
 | 9.
 | {dc09}
-| Techniky transformace
-| 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
+| Řádkové kamery
+| 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
 | J. Hrabáková, D. Pilař
 
 | 10.
 | {dc10}
-| Perspektiva obrazu, 360° objektivy
-| 📜{nbsp}link:files/10/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/10/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
+| Techniky transformace
+| 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
 | J. Hrabáková, T. Nguyen
 
