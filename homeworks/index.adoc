@@ -4,6 +4,8 @@ V semestru budou postupně zadány celkem *4 jednoduché domácí úkoly*. Úkol
 
 Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné za cvičení získat *minimálně 25 bodů*, podrobnosti viz sekce xref:../classification/index#[Hodnocení].
 
+Zadání každého úkolu zveřejňujeme *v pátek po druhém cvičení daného týdne*, aby měly všechny skupiny stejných *14 dní* na vypracování. Úkol je na obou cvičeních představen, materiály jsou však pro všechny dostupné od stejného okamžiku.
+
 Na začátku každého cvičení bude prostor na dotazy týkající se aktuálního zadaného úkolu. Cílem je vyřešit problémy a nejasnosti.
 
 Může se stát, že v rámci úkolu budete řešit nějaký technický problém - např. nefunguje knihovna, nevyřešitelná chyba, nefungující  prostředí, nemáte data, apod. Ideální by tedy bylo tyto věci *zkontrolovat dříve než den před odevzdáním*. Jinak nebude v naší moci vám s vyřešením problému pomoct.

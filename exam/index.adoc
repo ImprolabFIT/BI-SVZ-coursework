@@ -33,7 +33,7 @@ Praktická část zkoušky probíhá *prezenčně* v ImproLabu (A-1256).
 
 NOTE: https://kos.cvut.cz/terms[Webový KOS] obsahuje všechny termíny přehledně na jedné straně - jak regulérní termíny, tak jednorázové akce.
 
-*Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte xref:../teachers/index#[Davida Kramného] na MS Teams.
+*Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte xref:../teachers/index#[Davida Kramného] e-mailem.
 
 == 🛠️ Informace k Praktické části
 

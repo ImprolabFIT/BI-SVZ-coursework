@@ -4,12 +4,14 @@
 * 🧐{nbsp}https://usermap.cvut.cz/profile/5cfe7f5c-d480-4089-9ad2-5d8547c330ad[David Kramný], přednášející, cvičící
 
 
-* 👩🏻{nbsp}https://usermap.cvut.cz/profile/67620ac3-b529-4350-a81b-ed6c9cb4dde8[Justýna Frommová], cvičící
-* 👩‍🏫{nbsp}https://usermap.cvut.cz/profile/a271cc41-69c2-44cc-b63d-61a6bc82acd0[Jitka Hrabáková], cvičící
-* 👨‍🦲{nbsp}https://usermap.cvut.cz/profile/ac2afb86-1e10-4aa7-b604-a173958645b8[Vít Pospíšil], cvičící
-* 😊{nbsp}https://usermap.cvut.cz/profile/1a6f3524-7587-489b-a69b-1abbfae3c493[Tomáš Nguyen], cvičící
-* 🤨{nbsp}https://usermap.cvut.cz/profile/23ec15b2-b948-4a95-a3c6-711ca6ebaf2b[Daniel Pilař], cvičící
-* 😃{nbsp}https://usermap.cvut.cz/profile/d8d1cac1-6920-4cf5-bce8-53559854fb83[Ondřej Juřík], cvičící
+* 👩🏻{nbsp}https://usermap.cvut.cz/profile/67620ac3-b529-4350-a81b-ed6c9cb4dde8[Justýna Frommová], cvičící, oprava domácích úkolů
+* 👩‍🏫{nbsp}https://usermap.cvut.cz/profile/a271cc41-69c2-44cc-b63d-61a6bc82acd0[Jitka Hrabáková], cvičící, oprava domácích úkolů
+* 😊{nbsp}https://usermap.cvut.cz/profile/1a6f3524-7587-489b-a69b-1abbfae3c493[Tomáš Nguyen], cvičící, oprava domácích úkolů
+* 😃{nbsp}https://usermap.cvut.cz/profile/d8d1cac1-6920-4cf5-bce8-53559854fb83[Ondřej Juřík], cvičící, oprava domácích úkolů
+* 🙂{nbsp}https://usermap.cvut.cz/profile/b598b32b-3758-4832-9827-76c8e1c3441a[Jan Soukup], cvičící, oprava domácích úkolů
+* 🤨{nbsp}https://usermap.cvut.cz/profile/23ec15b2-b948-4a95-a3c6-711ca6ebaf2b[Daniel Pilař], oprava domácích úkolů
+
+Na opravování domácích úkolů se podílejí jen někteří cvičící.
 
 
 //
@@ -22,6 +24,7 @@
 * Tomáš Gřeš, odborník z praxe, firma Pekat Vision
 * Karolína Everlingová, odbornice z praxe, firma Revolt.BI
 * Radek Salač, Veronika Boučková, odborníci z praxe, firma ATG
+* Tibor Szolár, Šimon Pokorný, odborníci z praxe, firma Datamole
 * 😎{nbsp}https://usermap.cvut.cz/profile/db713836-ad20-42a6-8564-b9a1e51c8c68[Lukáš Brchl], odborník z praxe
 * 🧔{nbsp}https://usermap.cvut.cz/profile/ad309e3f-0768-4440-82ba-d62fa15c269f[Aleksandr Bazko], technik laboratoře
 * ♟{nbsp}https://usermap.cvut.cz/profile/fad3d524-0fc1-4d96-9a60-bcf544a8fa90[Jan Glaser], doktorand

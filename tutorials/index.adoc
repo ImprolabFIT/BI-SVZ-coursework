@@ -20,11 +20,11 @@ include::../vars.adoc[]
 
 | 2.
 | {dc02}
-| Práce s kamerami a základy zpracování obrazu
-| 📜{nbsp}link:files/2/camera-introduction.html[Práce{nbsp}s{nbsp}kamerami],
+| Práce s kamerami v Jupyter notebooku
+| 📜{nbsp}link:files/2/camera-introduction.html[Práce{nbsp}s{nbsp}Basler{nbsp}kamerami],
 📜{nbsp}link:files/2/improutils-introduction.html[Základy{nbsp}zpracování{nbsp}obrazu]
 | 2
-| J. Hrabáková, D. Pilař
+| O. Juřík, J. Hrabáková
 
 | 3.
 | {dc03}
@@ -32,7 +32,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/3/lens-defects.html[Vady{nbsp}optiky]
 📜{nbsp}link:files/3/camera-calibration.html[Kalibrace{nbsp}kamery]
 | 2
-| J. Hrabáková, D. Kramný
+| D. Kramný, J. Hrabáková
 
 | 4.
 | {dc04}
@@ -40,7 +40,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace],
 📜{nbsp}link:files/4/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů],
 | 2
-| J. Hrabáková, O. Juřík
+| J. Soukup, J. Hrabáková
 
 | 5.
 | {dc05}
@@ -48,7 +48,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
 📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
 | 2
-| J. Hrabáková, D. Kramný
+| T. Nguyen, J. Hrabáková
 
 | 6.
 | {dc06}
@@ -56,44 +56,44 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 2
-| J. Hrabáková, V. Pospíšil
+| O. Juřík, J. Hrabáková
 
 | 7.
 | {dc07}
 | Práce s hloubkovou kamerou
-| 📜{nbsp}link:files/7/depth_camera.html[Hloubkové{nbsp}senzory]
+| 📜{nbsp}link:files/7/depth_camera.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}měření{nbsp}rozměrů]
 //📜{nbsp}link:files/7/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
 | 2
-| J. Hrabáková, V. Pospíšil
+| T. Nguyen, J. Hrabáková
 
 | 8.
 | {dc08}
 | Perspektiva obrazu, 360° objektivy
 | 📜{nbsp}link:files/10/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/10/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
-| J. Hrabáková, J. Frommová
+| T. Nguyen, J. Hrabáková
 
 | 9.
 | {dc09}
 | Řádkové kamery
 | 📜{nbsp}link:files/8/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
-| J. Hrabáková, D. Pilař
+| J. Frommová, J. Hrabáková
 
 | 10.
 | {dc10}
 | Techniky transformace
 | 📜{nbsp}link:files/9/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
-| J. Hrabáková, T. Nguyen
+| D. Kramný, J. Hrabáková
 
 | 11.
 | {dc11}
 | Základy měření s termokamerou
-| 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
-//📜{nbsp}link:files/11/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomoci{nbsp}termokamery]
+| 📜{nbsp}link:files/11/face-detection/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomocí{nbsp}termokamery],
+📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
 | 2
-| J. Hrabáková, T. Nguyen
+| J. Soukup, J. Hrabáková
 
 | 12.
 | {dc12}
@@ -101,7 +101,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/12/object-classification.html[Klasifikace{nbsp}objektů{nbsp}-{nbsp}tvarové{nbsp}charakteristiky],
 📜{nbsp}link:files/12/face-detection-description.html[Detekce{nbsp}obličejů]
 | 2
-| J. Hrabáková, O. Juřík
+| O. Juřík, J. Hrabáková
 |====
 
 == Cvičení v laboratoři ImproLab

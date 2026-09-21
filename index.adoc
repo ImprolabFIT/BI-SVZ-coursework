@@ -5,9 +5,6 @@ include::vars.adoc[]
 
 *Toto je oficiální stránka předmětu BI-SVZ.* Naleznete zde všechny informace týkající se výuky a organizace.
 
-//Oficiální nástroj předmětu pro online komunikaci studentů a vyučujících je **MS Teams**. Odkaz na aktuální tým je {teams_link}[ZDE].
-
-
 == 🔖 Anotace
 
 Předmět *Strojové vidění a zpracování obrazu* je orientován na automatizaci v průmyslu, kde se tzv. __machine vision__ využívá stále častěji.

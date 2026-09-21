@@ -99,6 +99,8 @@ include::../vars.adoc[]
 
 == Další doplňující materiály
 
+* 📖{nbsp}link:files/bi-svz-12-zpracovani-videa.pdf[Zpracování videa] (link:files/bi-svz-12-zpracovani-videa-podrobnejsi-verze.pdf[podrobnější verze]) - v semestru {semestr_id} se přednáška nekoná, materiál k samostudiu, nebude u zkoušky
+
 Odkazy na videa:
 
 * xref:files/media/star_thinning.wmv[Přednáška 7 - Hvězda]
@@ -117,6 +119,11 @@ NOTE: Záznamy přednášek jsou k dispozici na link:https://online.fit.cvut.cz[
 [width=100%, cols="3,5,10,^1", options="header,footer"]
 |=======================
 | Datum      | Firma     | Téma | 🎥
+
+| 3. 11. 2026
+| TBA
+| TBA
+| -
 
 | 31. 3. 2026
 | https://www.datamole.ai[Datamole]
