@@ -32,7 +32,7 @@ Předmět *Strojové vidění a zpracování obrazu* je orientován na automatiz
 
 == ❗ Prerekvizity
 
-Prerekvizitou k zapsání předmětu je *znalost jazyka Python* popřípadě sebekritický slib se principy jazyka Python svépomocí doučit.
+Prerekvizitou k zapsání předmětu je *znalost jazyka Python* popřípadě sebekritický slib si principy jazyka Python svépomocí doučit.
 
 V předmětu se využívá pro práci nástroj *Jupyter Notebook*. Práce v Jupyter Notebooku bude vysvětlena.
 
@@ -53,7 +53,7 @@ V semestru {semestr_id} je aktuální forma výuky následující:
 * 📈 https://grades.fit.cvut.cz/[Body z předmětu (Grades)]
 * 📆 https://timetable.fit.cvut.cz/new/courses/BI-SVZ.21[Rozvrh předmětu (Timetable)]
 * 📋 Zadání témat závěrečných prací (ProjectsFIT)
-** https://projects.fit.cvut.cz/topics/search?author=frommjus[Justýna Frommová]
+** https://projects.fit.cvut.cz/topics/search?author=frommjus[Justýna Nováková]
 ** https://projects.fit.cvut.cz/topics/search?author=kramnda1[David Kramný]
 ** https://projects.fit.cvut.cz/topics/search?author=glaseja1[Jan Glaser]
 

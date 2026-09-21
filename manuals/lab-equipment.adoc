@@ -34,6 +34,6 @@ Než opustím stanoviště, ujistím se, že je vše odpojeno, uklizeno a v pův
 nejím, ani nepiju.
 
 == Co dělat, když objevím závadu?
-Okamžitě to nahlásím cvičícím. Pokud jsi náhodou viníkem závady Ty, je lepší nám to sdělit s předstihem, než se to dozvíme z bezpečností kamery v laboratoři.  Pokud to budeme řešit my zpětně bez nahlášení, vina padá automaticky na Tebe.
+Okamžitě to nahlásím cvičícím. Pokud jsi náhodou viníkem závady Ty, je lepší nám to sdělit s předstihem, než se to dozvíme z bezpečnostní kamery v laboratoři.  Pokud to budeme řešit my zpětně bez nahlášení, vina padá automaticky na Tebe.
 
 

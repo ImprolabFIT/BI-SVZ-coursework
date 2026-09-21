@@ -3,11 +3,19 @@
 // Definice proměnných datumů
 include::../vars.adoc[]
 
-Předmět je z pohledu obsahu a množství látky hodnocen jako jeden z těch těžších. Zisk znalostí strojového vidění v průmyslu je nelehké a látka je náročná. 
+Předmět je z pohledu obsahu a množství látky hodnocen jako jeden z těch těžších. Zisk znalostí strojového vidění v průmyslu je nelehký a látka je náročná. 
 
 Stránka upřesňuje formu a průběh zkoušky s cílem lepšího přiblížení studentům.
 
 NOTE: Konkrétní požadavky na absolvování předmětu (počet bodů atd.) jsou dostupné na stránce xref:../classification/index#[Hodnocení].
+
+== 👁️ OpenLab
+Studenti mají před praktickou zkouškou možnost využít laboratoř ImproLab k samostatnému vyzkoušení a procvičení libovolných úloh, technik apod., se kterými se během semestru setkali. Tento prostor je určen k upevnění znalostí, otestování vlastních nápadů i doplnění případných nejasností. K dispozici je veškerý laboratorní hardware a vybavení, které mohou studenti volně využít. Doporučujeme tuto příležitost nepromarnit a přijít si vše prakticky vyzkoušet.
+
+Termíny pro přístup do laboratoře jsou vypsány v *KOSu jako jednorázové akce*. Kapacita jednoho termínu je *10 studentů*. Je možné přijít i ve dvojici, v takovém případě se prosím zapisuje *pouze jeden z dvojice*. Zápis slouží především k orientaci a k tomu, aby v uvedených časech byl k dispozici někdo, kdo vám může *zodpovědět případné dotazy*.
+
+Pokud vám žádný z vypsaných termínů nevyhovuje, napište Davidovi Kramnému, Jitce Hrabákové nebo Justýně Novákové a domluvte si *individuální termín*.
+
 
 == ℹ️ Rozdělení a zdůvodnění
 
@@ -33,23 +41,21 @@ Praktická část zkoušky probíhá *prezenčně* v ImproLabu (A-1256).
 
 NOTE: https://kos.cvut.cz/terms[Webový KOS] obsahuje všechny termíny přehledně na jedné straně - jak regulérní termíny, tak jednorázové akce.
 
-*Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě kontaktujte xref:../teachers/index#[Davida Kramného] e-mailem.
+*Individuálně* budou řešeny případy nemožnosti přijít prezenčně (např. student je v zahraničí a neexistuje způsob se na FIT dostat). V takovém případě napište Davidovi Kramnému, Jitce Hrabákové nebo Justýně Novákové.
 
 == 🛠️ Informace k Praktické části
 
 Praktická zkouška probíhá *prezenčně* v ImproLabu (A-1256) na počítačích v učebně (není možné využívat vlastní PC). Skládá se ze **samostatného** vypracování několika dílčích úloh podobného formátu, jako jsou příklady na cvičení. Student využije znalosti HW i SW, získané během semestru.
 
 * Student vytváří vlastní Jupyter notebook, který odevzdává.
-* Student má k dispozici internet pro možné hledání oprav chyb v Pythonu, dokumentaci k OpenCV funkcím a dokumentaci k Improututils.
+* Student má k dispozici internet pro hledání oprav chyb v Pythonu, https://docs.opencv.org/[dokumentaci OpenCV] a https://improutils.readthedocs.io/en/master/[dokumentaci improutils] (Read the Docs).
 * Internet není povolen pro přístup na courses, gitlab, pro komunikaci s chatboty či jinými AI nástroji (ChatGPT, Copilot). 
 * Obsah zkoušky (vypracovaný notebook + snímky) je zakázáno vynášet a distribuovat.
 * Náhledy zkoušek budou k dispozici po předchozí domluvě se zkoušejícím.
-* Oproti předchozím semestrům **není** povoleno si přinést vlastní pomocný notebook!
+* **Není** povoleno používat vlastní pomocné Jupyter notebooky ani jiné poznámky z cvičení.
 
-== 👁️ OpenLab
-Studenti mají před praktickou zkouškou možnost využít laboratoř ImproLab k samostatnému vyzkoušení a procvičení libovolných úloh, technik apod., se kterými se během semestru setkali. Tento prostor je určen k upevnění znalostí, otestování vlastních nápadů i doplnění případných nejasností. K dispozici je veškerý laboratorní hardware a vybavení, které mohou studenti volně využít. Doporučujeme tuto příležitost nepromarnit a přijít si vše prakticky vyzkoušet.
+== 🎲 Ústní gamble
 
-Termíny pro přístup do laboratoře jsou vypsány v *KOSu jako jednorázové akce*. Kapacita jednoho termínu je *10 studentů*. Je možné přijít i ve dvojici, v takovém případě se prosím zapisuje *pouze jeden z dvojice*. Zápis slouží především k orientaci a k tomu, aby v uvedených časech byl k dispozici někdo, kdo vám může *zodpovědět případné dotazy*.
+Po úspěšném složení obou částí zkoušky je možné *dobrovolně* absolvovat ústní dozkoušení, kterým lze až zdvojnásobit prémiové body získané během semestru. Pravidla jsou popsána v sekci xref:../classification/index#_ústní-gamble[Hodnocení - Ústní gamble].
 
-Pokud vám žádný z vypsaných termínů nevyhovuje, neváhejte napsat Davidovi Kramnému a domluvit si *individuální termín*.
 

@@ -1,22 +1,25 @@
 = 3. Domácí úkoly
 
+// Definice proměnných datumů
+include::../vars.adoc[]
+
 V semestru budou postupně zadány celkem *4 jednoduché domácí úkoly*. Úkoly zadáváme, abychom ověřili vaše pochopení probírané látky. Úkoly volně *navazují na úlohy z cvičení*.
 
-Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné za cvičení získat *minimálně 25 bodů*, podrobnosti viz sekce xref:../classification/index#[Hodnocení].
+Úkoly nejsou povinné, *tvoří však přes polovinu možných bodů ze semestru* (26 bodů z celkových 50). Připomínáme, že k získání zápočtu je nutné získat *minimálně 25 bodů ze součtu bodů za cvičení a domácí úkoly* (z 50 možných). Prémiové body se do zápočtu nepočítají. Podrobnosti viz sekce xref:../classification/index#[Hodnocení].
 
 Zadání každého úkolu zveřejňujeme *v pátek po druhém cvičení daného týdne*, aby měly všechny skupiny stejných *14 dní* na vypracování. Úkol je na obou cvičeních představen, materiály jsou však pro všechny dostupné od stejného okamžiku.
 
 Na začátku každého cvičení bude prostor na dotazy týkající se aktuálního zadaného úkolu. Cílem je vyřešit problémy a nejasnosti.
 
-Může se stát, že v rámci úkolu budete řešit nějaký technický problém - např. nefunguje knihovna, nevyřešitelná chyba, nefungující  prostředí, nemáte data, apod. Ideální by tedy bylo tyto věci *zkontrolovat dříve než den před odevzdáním*. Jinak nebude v naší moci vám s vyřešením problému pomoct.
+Může se stát, že v rámci úkolu budete řešit nějaký technický problém - např. nefunguje knihovna, nevyřešitelná chyba, nefungující prostředí, nemáte data, apod. Ideální by tedy bylo tyto věci *zkontrolovat dříve než den před odevzdáním*. Jinak nebude v naší moci vám s vyřešením problému pomoct.
 
 == Potřebné nástroje k úkolům
 
-Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. Každému byl vytvořen repozitář pod vlastním nicknamem, který bude sloužit pro vyřešení a odevzdání úkolů. Podrobný návod, jak zprovoznit repozitář najdete v *README* v main větvi vašeho repozitáře.
+Úkoly budou ve stejném formátu jako probíhá práce na cvičení, tzn. implementace kódu v prostředí Jupyter Notebook. Každý student má ve skupině https://gitlab.fit.cvut.cz/bi-svz/svz-homeworks[bi-svz/svz-homeworks] na fakultním GitLabu vlastní repozitář pojmenovaný podle svého uživatelského jména, který slouží pro vyřešení a odevzdání úkolů. Podrobný návod, jak repozitář zprovoznit, najdete v *README* v main větvi vašeho repozitáře. Pokud svůj repozitář nevidíte (např. při pozdním zápisu), ozvěte se svému cvičícímu.
 
 == Náležitosti úkolu
 
-Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí  mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extrémních případech může být i nehodnotitelný. 
+Počítejte prosím s tím, že úkol po vás bude někdo číst. Buďte tedy tak hodní a kód udržujte čistý a čitelný. Podrobnou dokumentaci nevyžadujeme, avšak každá složitější buňka nebo funkce musí mít svůj komentář. Ať je vždy jasné, co daný segment dělá a co je výstupem. Pokud nebude kód srozumitelný a okomentovaný, nebude v našich silách k němu poskytnout zpětnou vazbu a v extrémních případech může být i nehodnotitelný. 
 
 == Odevzdání úkolů
 
@@ -28,14 +31,12 @@ Tak jako je u nás na fakultě zvykem, úkoly je *nutno vypracovávat samostatn�
 
 Pokud budete využívat části kódů z internetových zdrojů (např. StackOverflow), *uvádějte v kódu odkaz na zdrojové vlákno*. Dále *převzatý kód okomentujte,* ať je vidět, že dané problematice rozumíte.
 
-Pokud bude úkol odevzdán po deadlinu, ten je zpravidla před půlnocí daný den, bude ohodnocen 0 body.
+Deadline každého úkolu je *v pátek ve {hw_hour_to}* (viz harmonogram níže). Úkol odevzdaný po deadlinu bude ohodnocen 0 body.
 
 == Harmonogram úkolů
 
 Harmonogram úkolů je předběžný. V průběhu semestru může být upravován.
 
-// Definice proměnných datumů
-include::../vars.adoc[]
 
 .Harmonogram úkolů
 [cols="2,3,3,9,^2", options="header"]

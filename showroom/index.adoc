@@ -20,4 +20,4 @@ Zdrojové kódy ukázek jsou po naklonování repozitáře umístěny ve složce
 ** Cílem ukázky je zdůraznit důležitost volby vhodného osvětlení a kamery. Zároveň jsou představena světla se kterými je možnost setkat se při cvičení. Každé světlo je stručně popsáno a jsou uvedeny konkrétní informace o světle samotném, např. jeho vlnová délka.
 
 * xref:monadic_operations/index.html[Monadické operace] (`@kramnda1`)
-**  Interaktivní demonstrace úpravy jasu a kontastu, gamma korekce, ekvalizace histogramu a CLAHE. Slouží jako podpůrný materiál k přednášce - xref:../lectures/index.html[Předzpracování obrazu - Transformace a korekce].
+** Interaktivní demonstrace úpravy jasu a kontrastu, gamma korekce, ekvalizace histogramu a CLAHE. Slouží jako podpůrný materiál k přednášce - xref:../lectures/index.html[Předzpracování obrazu - Transformace a korekce].

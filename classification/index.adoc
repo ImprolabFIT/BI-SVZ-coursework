@@ -4,11 +4,11 @@
 
 Pro získání zápočtu je nutné a postačující získat alespoň *25 bodů* z 50 možných. Body je možné získat na cvičení a z domácích úkolů.
 
-* Na každé cvičení je možné získat *2 body*, celkově  *24 bodů*.
-* Budou zadány *4 domací úkoly* celkem za *26 bodů*. 
-* *Před zkouškou,* během semestru je možné získat až *10 prémiových bodů* za nadprůměrnou aktivitu a práci nad rámec povinností. Prémiové body *neslouží k zisku zápočtu*, vylepšují celkové hodnocení až *po zkoušce*.
+* Na každé cvičení je možné získat *2 body*, celkově *24 bodů*.
+* Budou zadány *4 domácí úkoly* celkem za *26 bodů*. 
+* Během semestru (tedy *před zkouškou*) je možné získat až *10 prémiových bodů* za nadprůměrnou aktivitu a práci nad rámec povinností. Prémiové body *neslouží k zisku zápočtu*, vylepšují celkové hodnocení až *po zkoušce*.
 
-Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru. Na cvičení se nepíší *žádné testy*. *Docházka* na cvičení *se eviduje*, nemá však vliv na hodnocení.
+Zápočet bude udělen automaticky, pokud student dosáhne potřebného počtu bodů v semestru. Na cvičení se nepíší *žádné testy*. *Docházka* na cvičení *se eviduje*. Body za cvičení lze získat *pouze účastí*. Pokud se nemůžete dostavit na své cvičení, můžete v tomtéž týdnu přijít na jinou paralelku, je-li v laboratoři místo. Pokud se v daném týdnu nemůžete zúčastnit žádného cvičení a máte závažný důvod (např. reprezentace školy), kontaktujte předem xref:../teachers/index#[Jitku Hrabákovou], která vám dá další instrukce.
 
 Předmět není možné absolvovat bez získání zápočtu!
 

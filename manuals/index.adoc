@@ -14,7 +14,7 @@ Sekce obsahuje návody pro práci s vybavením laboratoře.
 
 Sekce obsahuje návody na začátek práce se softwarovým prostředím.
 
-* 💻 xref:tools-introduction.html#[Vytvoření virtuálního prostředí] popisuje podrobně virtuální prostředí pro Python včetně a používané knihovny
+* 💻 xref:tools-introduction.html#[Vytvoření virtuálního prostředí] popisuje podrobně virtuální prostředí pro Python včetně používaných knihoven
 * 🖥️ xref:git-essentials.html#[GIT repozitář předmětu] včetně jeho použití
 * 📚 xref:improutils-package.html#[Improutils] je knihovna pro zjednodušení práce s OpenCV
 
@@ -23,7 +23,7 @@ Sekce obsahuje návody na začátek práce se softwarovým prostředím.
 
 Sekce odkazuje na návody související s prací s externími nástroji či aplikacemi třetích stran dostupnými online.
 
-* 🔠 xref:ocr-tool-installation.adoc#[Instalace OCR nástroje Tesseract] pro všechny operační systémy pro offline použití
+* 🔠 xref:ocr-tool-installation.html#[Instalace OCR nástroje Tesseract] pro všechny operační systémy pro offline použití
 
 == Python a Jupyter
 

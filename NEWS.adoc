@@ -2,18 +2,25 @@
 
 == Vítejte v zimním semestru
 :date: 2026-09-21
-Vážení studenti, vítejte v semestru B261. Stránky předmětu byly aktualizovány na nový harmonogram:
+Vážení studenti, vítejte v semestru B261. Stránky předmětu byly aktualizovány na nový harmonogram.
 
-* Přednášky probíhají v úterý 9:15–10:45 v učebně JP:B-571, první přednáška je *22. 9. 2026*. Přednášky 1–4 vede David Kramný, zbývající přednášky vede Marcel Jiřina.
+.Organizace semestru
+* Přednášky probíhají v úterý 9:15–10:45 v učebně JP:B-571, první přednáška je *22. 9. 2026*.
 * Cvičení začínají ve čtvrtek *24. 9. 2026* v laboratoři ImproLab (A-1256).
 * *3. 11. 2026* proběhne místo běžné přednášky zvaná přednáška odborníka z praxe, podrobnosti upřesníme.
 * *17. 11. 2026* je státní svátek, přednáška odpadá.
 * Domácí úkoly zveřejňujeme v pátek po druhém cvičení a nově máte na každý *14 dní* namísto dřívějších 12 - termín odevzdání jsme posunuli ze středy na pátek. Termíny jsou v sekci xref:homeworks/index#[Domácí úkoly].
-* Tým cvičících posílil o Honzu Soukup!
+
+.Materiály a zkouška
 * Balíček https://gitlab.fit.cvut.cz/bi-svz/improutils_package[improutils] nově staví na *OpenCV 5*.
 * xref:exam/index#[OpenLab] před praktickou zkouškou se v minulém semestru osvědčil, zachováváme ho pro následující semestry.
-* Otázky teoretické části zkoušky budou během semestru upravuveny a rozšířeny, aby byly jednoznačné. 
-* U praktické části zkoušky budou zadání formulována explicitněji než dosud - přesně uvedeme, co od vás očekáváme, aby nevznikaly nejasnosti. 
+* Otázky teoretické části zkoušky budou během semestru upraveny a rozšířeny, aby byly jednoznačné.
+* U praktické části zkoušky budou zadání formulována explicitněji než dosud - přesně uvedeme, co od vás očekáváme, aby nevznikaly nejasnosti.
+
+.Tým předmětu
+* Přednášky 1-4 v tomto semestru vede David Kramný, zbývající přednášky vede Marcel Jiřina.
+* Tým cvičících posílil o Honzu Soukupa!
+* Správce laboratoře a cvičící Justýna Nováková (dříve Frommová) vás bude učit pod novým jménem, na GitLabu se nic nemění, email zůstává zatím původní - v průběhu semestru bude změněn. 
 
 Těšíme se na společný semestr!
 

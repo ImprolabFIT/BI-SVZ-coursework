@@ -2,7 +2,7 @@
 
 V učebně máme nainstalovaný systém Windows, všechny popsané kroky se tedy budou týkat tohoto systému. Instalace a kroky na Linuxu či Macu by měly být podobné.
 
-K naší práci budeme potřebovat několik balíčku, které je potřeba nainstalovat do virtuálního prostředí.  Abychom nám usnadnily život, je možné při vytváření virtuálního prostředí specifikovat soubor _spec-file.txt_, který obsahuje seznam potřebných balíčků pro tento kurz (viz jednotlivé soubory pro různé operační systémy níže). Ty se následně nainstalují při vytváření virtuálního prostředí. 
+K naší práci budeme potřebovat několik balíčků, které je potřeba nainstalovat do virtuálního prostředí. Abychom si usnadnili život, je možné při vytváření virtuálního prostředí specifikovat soubor _spec-file.txt_, který obsahuje seznam potřebných balíčků pro tento kurz (viz jednotlivé soubory pro různé operační systémy níže). Ty se následně nainstalují při vytváření virtuálního prostředí. 
 
 Detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
 
@@ -75,4 +75,4 @@ NOTE: Na cvičení je zjednodušeno použitím skriptu `svz` (xref:postup-cvicen
 
 === Poznámky
 
-Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčku v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].
+Výpis všech virtuálních prostředí lze provést pomocí `conda env list`, výpis balíčků v aktuálním prostředí `conda list`. Deaktivace aktuálního prostředí pomocí `conda deactivate`.  V případě, že chcete nějaké prostředí odstranit, tak `conda env remove --name <nazev>`. Dobrým zvykem je neinstalovat balíčky globálně (do výchozího base prostředí), ale pro každý projekt vytvořit nové virtuální prostředí. Další detaily ke správě prostředí lze nalézt https://conda.io/docs/user-guide/tasks/manage-environments.html[zde].

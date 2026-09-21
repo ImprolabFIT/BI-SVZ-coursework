@@ -8,7 +8,7 @@ Používaný repozitář na předmět BI-SVZ je k dispozici na FITím gitlabu po
 Jeho adresa je: https://gitlab.fit.cvut.cz/bi-svz/bi-svz
 
 == Práce s repozitářem
-Práci se repozitářem lze rozdělit do několika kategorií podle toho, jak dlouhou dobu s ním již pracuji.
+Práci s repozitářem lze rozdělit do několika kategorií podle toho, jak dlouhou dobu s ním již pracuji.
 
 Pro práci s repozitářem lze využít různé programy dle preferencí uživatelů. Na cvičení využíváme obyčejný GIT dostupný z příkazové řádky pomocí zástupce aplikace `Git-CMD` nebo `Git-Bash`. 
 
@@ -43,7 +43,7 @@ K tomu, aby se předešlo konfliktům, se využívá volba `-X ours`. Znamená t
 
 
 ==== 
-Typický příklad je, když si uživatel na cvičení doplnil jupyter notebook svými údaji a na repozitáři se zpětně v tom samé notebooku něco změnilo (například oprava překlepu). 
+Typický příklad je, když si uživatel na cvičení doplnil jupyter notebook svými údaji a na repozitáři se zpětně v tom samém notebooku něco změnilo (například oprava překlepu). 
 
 Poté se po zadání `git pull` vyskytne tzv. __merge conflict__ -- a to nechceš řešit.
 ====

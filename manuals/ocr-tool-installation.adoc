@@ -2,7 +2,7 @@
 
 Pro strojové čtení znaků v obrazu (tzv. OCR = optical character recognition) je zapotřebí nějaký nástroj, který to již umí. V praxi je k dispozici několik možností například -- https://github.com/tesseract-ocr/tesseract[Tesseract OCR] nebo https://cloud.google.com/vision/docs/ocr[Google Cloud Vision API].
 
-Rozdíl mezi těmito konkrétními nástroji je markantní. Google Cloud Vision API funguje lépe, je postaven na moderních metodách hlubokých neuronových sítí, ale je dostupný pouze online přes API a po zařízení si účtu na Cloud Vision. 
+Rozdíl mezi těmito konkrétními nástroji je markantní. Google Cloud Vision API funguje lépe, je postaven na moderních metodách hlubokých neuronových sítí, ale je dostupný pouze online přes API a po zřízení účtu na Cloud Vision. 
 
 Na druhou stranu Tesseract OCR je open-source, funguje offline, ale potřebuje lepší předzpracování obrazu pro správné fungování OCR. 
 
@@ -47,7 +47,7 @@ Pro instalaci na Windows je nejlepší stáhnout si rovnou hotový instalátor z
 * Zapamatovat si adresu instalace (např. C:\Program Files\Tesseract-OCR)
 * Přidat odkaz na složku s tesseractem do Proměnných prostředí windows (environmental variables).
 ** Ukázka přidání pomocí link:images/promenne_prostredi.gif[gifu].
-* Restartovat počítač (možná není nutný).
+* Restartovat počítač (možná není nutné).
 * Vyzkoušet jestli tesseract funguje v konzoli.
 ** Spustit konzoli `cmd`.
 ** Napsat příkaz `tesseract -v`
