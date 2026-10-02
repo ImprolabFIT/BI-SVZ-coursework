@@ -40,7 +40,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/4/segmentation-and-measuring.html[Základy segmentace],
 📜{nbsp}link:files/4/segmentation-objects-count.html[Segmentace{nbsp}-{nbsp}počítání{nbsp}objektů]
 | 2
-| J. Soukup, J. Hrabáková
+| T. Nguyen, J. Hrabáková
 
 | 5.
 | {dc05}
@@ -48,7 +48,7 @@ include::../vars.adoc[]
 | 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
 📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
 | 2
-| T. Nguyen, J. Hrabáková
+| J. Soukup, J. Hrabáková
 
 | 6.
 | {dc06}
