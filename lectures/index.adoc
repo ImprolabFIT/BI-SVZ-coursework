@@ -53,16 +53,16 @@ include::../vars.adoc[]
 <| 📜{nbsp}xref:../showroom/monadic_operations/index.html[Monadické operace - iterativní notebook z přednášky]
 ^| -
 
-| 7.
-| {d07}
-| 🦾 Zvaná přednáška od odborníka z praxe
-^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
-
-.2+| 8.
-.2+| {d08}
+.2+| 7.
+.2+| {d07}
 | 📖{nbsp}link:files/bi-svz-07-morfologie-a-tvarove-charakteristiky.pdf[Předzpracování obrazu - Morfologie a tvarové charakteristiky] | link:https://online.fit.cvut.cz/zaznam/B251/bi-svz.21_pre_2025-11-11_7_1_3220945398.html[📼]
 <| 📜{nbsp}xref:../showroom/morfologie/index.html[Pipeline zpracování obrazu s využitím morfologie]
 ^| link:https://online.fit.cvut.cz/zaznam/B242/bi-svz.21_pre_2025-04-11_2.html[📼]
+
+| 7.
+| {d08}
+| 🦾 Zvaná přednáška od odborníka z praxe
+^| xref:#_přednášky-od-odborníků-z-praxe[🔗]
 
 .3+| 9.
 .3+| {d09}
