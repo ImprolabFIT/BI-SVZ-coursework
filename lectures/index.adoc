@@ -122,8 +122,8 @@ NOTE: Záznamy přednášek jsou k dispozici na link:https://online.fit.cvut.cz[
 |=======================
 | Datum      | Firma     | Téma | 🎥
 
-| 3. 11. 2026
-| TBA
+| 10. 11. 2026
+| https://www.valeo.com/cs/ceska-republika/[Valeo]
 | TBA
 | -
 

@@ -1,5 +1,9 @@
 = Novinky
 
+== Zvaná přednáška
+:date: 2026-10-17
+Vážení studenti, 10. 11. 2026 od 9:15 se v přednáškové místnosti JP:B-571 uskuteční zvaná přednáška odborníků z praxe, firmy Valeo. Budeme rádi, když dorazíte, bude jistě velmi zajímavá.
+
 == Vítejte v zimním semestru
 :date: 2026-09-21
 Vážení studenti, vítejte v semestru B261. Stránky předmětu byly aktualizovány na nový harmonogram.
