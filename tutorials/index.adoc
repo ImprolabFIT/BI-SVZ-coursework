@@ -91,8 +91,8 @@ include::../vars.adoc[]
 | 11.
 | {dc11}
 | Základy měření s termokamerou
-| //📜{nbsp}link:files/11/face-detection/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomocí{nbsp}termokamery],
-📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
+| 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
+//📜{nbsp}link:files/11/face-detection/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomocí{nbsp}termokamery]
 | 2
 | O. Juřík, J. Hrabáková
 
