@@ -53,7 +53,7 @@ include::../vars.adoc[]
 | {dc05}
 | Využití světel
 | 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
-//📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
+📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
 | 2
 | O. Juřík, J. Hrabáková
 
@@ -61,7 +61,7 @@ include::../vars.adoc[]
 | {dc06}
 | Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
-//📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
+📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
 | 2
 | T. Nguyen, J. Hrabáková
 
@@ -76,7 +76,8 @@ include::../vars.adoc[]
 | 9.
 | {dc08}
 | Perspektiva obrazu, 360° objektivy
-| 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 📜{nbsp}link:files/8/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
+| 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 
+📜{nbsp}link:files/8/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
 | 2
 | J. Nováková, J. Hrabáková
 
@@ -90,7 +91,7 @@ include::../vars.adoc[]
 | 11.
 | {dc11}
 | Základy měření s termokamerou
-| 📜{nbsp}link:files/11/face-detection/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomocí{nbsp}termokamery],
+| //📜{nbsp}link:files/11/face-detection/face-detection.html[Detekce{nbsp}obličeje{nbsp}pomocí{nbsp}termokamery],
 📜{nbsp}link:files/11/filters/filters.html[Termokamery{nbsp}-{nbsp}základy{nbsp}měření]
 | 2
 | O. Juřík, J. Hrabáková
