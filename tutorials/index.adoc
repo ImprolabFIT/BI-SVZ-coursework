@@ -43,7 +43,7 @@ include::../vars.adoc[]
 | T. Nguyen, J. Hrabáková
 
 | 5.
-{dc10}
+|{dc10}
 | Techniky transformace
 | 📜{nbsp}link:files/10/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
