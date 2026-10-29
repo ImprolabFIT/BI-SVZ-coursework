@@ -43,14 +43,14 @@ include::../vars.adoc[]
 | T. Nguyen, J. Hrabáková
 
 | 5.
-|{dc10}
+|{dc05}
 | Techniky transformace
 | 📜{nbsp}link:files/10/fourier-transform.html[Detekce{nbsp}defektů{nbsp}pomocí{nbsp}Fourierovy{nbsp}transformace]
 | 2
 | J. Soukup, J. Hrabáková
 
 | 6.
-| {dc05}
+| {dc06}
 | Využití světel
 | 📜{nbsp}link:files/5/segmentation-fit-ocr.html[Segmentace{nbsp}-{nbsp}OCR{nbsp}textu],
 📜{nbsp}link:files/5/mono_segmentation.html[Segmentace{nbsp}-{nbsp}Monochromatická{nbsp}kamera]
@@ -58,7 +58,7 @@ include::../vars.adoc[]
 | O. Juřík, J. Hrabáková
 
 | 7.
-| {dc06}
+| {dc07}
 | Perspektiva obrazu
 | 📜{nbsp}link:files/6/perspective-measuring-length.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}vzdálenosti],
 📜{nbsp}link:files/6/perspective-measuring-height.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}výšky]
@@ -66,7 +66,7 @@ include::../vars.adoc[]
 | T. Nguyen, J. Hrabáková
 
 | 8.
-| {dc07}
+| {dc08}
 | Práce s hloubkovou kamerou
 | 📜{nbsp}link:files/7/depth_camera.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}měření{nbsp}rozměrů]
 //📜{nbsp}link:files/7/depth-collisions.html[Hloubkové{nbsp}senzory{nbsp}-{nbsp}detekce{nbsp}kolizí]
@@ -74,7 +74,7 @@ include::../vars.adoc[]
 | T. Nguyen, J. Hrabáková
 
 | 9.
-| {dc08}
+| {dc09}
 | Perspektiva obrazu, 360° objektivy
 | 📜{nbsp}link:files/8/perspective-cart-polar-system.html[Perspektiva{nbsp}-{nbsp}polární{nbsp}souřadný{nbsp}systém], 
 📜{nbsp}link:files/8/perspective-treads-measurement.html[Perspektiva{nbsp}-{nbsp}měření{nbsp}závitů]
@@ -82,7 +82,7 @@ include::../vars.adoc[]
 | J. Nováková, J. Hrabáková
 
 | 10.
-| {dc09}
+| {dc10}
 | Řádkové kamery
 | 📜{nbsp}link:files/9/linescan-qr-reader.html[Detekce{nbsp}a{nbsp}čtení{nbsp}datamatrix{nbsp}a{nbsp}QR{nbsp}kódů]
 | 2
